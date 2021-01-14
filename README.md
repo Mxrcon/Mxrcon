@@ -5,3 +5,7 @@ Currently working at [ENGBIO](https://pctguama.org.br) and CGBS (Center of Genom
 ## Experience with:
 NGS data processing, Microbial Genomic Assembly, Metagenomics using 16s rRNA, Antibiotic Resistance and
 Phylogenetic inference.
+## Programming Languages:
+Currently I'm using Python with Biopython package focusing on scripting, 
+I'm also trying to learn C# and Nextflow, and just finished a basic C course. 
+
