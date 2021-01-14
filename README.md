@@ -9,4 +9,4 @@ Phylogenetic inference.
 Currently I'm using Python with Biopython package focusing on scripting, 
 I'm also trying to learn C# and Nextflow, and just finished a basic C course.
 
-![img](https://www.codewars.com/users/Mxrcon/badges/large)
+![<img/>](https://www.codewars.com/users/Mxrcon/badges/large)
