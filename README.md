@@ -7,5 +7,6 @@ NGS data processing, Microbial Genomic Assembly, Metagenomics using 16s rRNA, mi
 Phylogenetic inference.
 ## Programming Languages:
 Currently I'm using Python with Biopython package focusing on scripting, 
-I'm also trying to learn C# and Nextflow, and just finished a basic C course. 
+I'm also trying to learn C# and Nextflow, and just finished a basic C course.
 
+![img](https://www.codewars.com/users/Mxrcon/badges/large)
