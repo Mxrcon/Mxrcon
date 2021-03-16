@@ -8,6 +8,13 @@ Phylogenetic inference.
 ## Programming Languages:
 Currently I'm using Python with Biopython package focusing on scripting, 
 I'm also learning C# and Nextflow, and just finished a basic C course.
+## My tools for the moment:
+![](https://img.shields.io/badge/code-nextflow-informational?style=flat&logo=nextflow&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=3776AB)
+
+## My stats
+![Mxrcon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxrcon&show_icons=true&theme=nightowl)
 
 ## Other stuff:
 On my free time i solve Katas at [Codewars](https://www.codewars.com/) using Python
