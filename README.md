@@ -24,7 +24,7 @@ I'm also learning C# and Nextflow, and just finished a basic C course.
 ![bash](https://api.iconify.design/logos:bash-icon.svg?width=30&height=30)
 
 ## My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrcon&layout=compact&hide=tex,html,scss,ruby&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrcon&layout=compact&hide=tex,html,scss,ruby&exclude_repo=dotfiles,mxrcon,website-nos&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mxrcon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxrcon&show_icons=true&theme=nightowl)
 
