@@ -1,5 +1,5 @@
 # About me
-Hello there, my name is Davi Marcon, I'm 20 yers old and my main interests are: Bioinformatics specially focused on bacterial resistance genes prediction, Metagenomics for interest genes discovery and everything related to bacteriology 🔬, I also a terminal ui fan.
+Hello there, my name is Davi Marcon, I'm 20 years old and my main interests are: Bioinformatics specially focused on bacterial resistance genes prediction, Metagenomics for interest genes discovery and everything related to bacteriology 🔬, I also a terminal ui fan.
 ## Academic info
 I'm a Biotechnology graduation student at [UFPA - Federal University of Pará (Pará, Brazil)](https://ufpa.br).
 Currently working at ENGBIO and CGBS (Center of Genomics and Systems Biology) with academic guidance from PhD. Prof. Rafael Azevedo Baraúna
@@ -9,8 +9,6 @@ Phylogenetic inference.
 ## Programming Languages:
 Currently I'm using Python with Biopython package focusing on scripting, 
 I'm also learning how to implement pipelines on Nextflow.
-
-
 
 ## My tools for the moment:
 ![Nextflow](https://api.iconify.design/file-icons:nextflow.svg?color=%2327ae60&width=30&height=30)
