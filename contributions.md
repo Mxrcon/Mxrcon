@@ -4,7 +4,7 @@
 
 [Occurrence, antibiotic-resistance and virulence of E. coli strains isolated from mangrove oysters (Crassostrea gasar) farmed in estuaries of Amazonia. MARINE POLLUTION BULLETIN, v. 157, p. 111302, 2020. ](http://dx.doi.org/10.1016/j.marpolbul.2020.111302)
 
-## Congress Presentations
+## Presentations
 [Bayesian phylogenetic analysis and molecular clock of the Corynebacterium genus. In: 30° Congresso Brasileiro de Microbiologia, 2019, Maceió.](https://www.sbmicrobiologia.org.br/30cbm-anais/resumos/R0972-1.pdf)
 
 [Occurence, antibiotic-resistance and phylogenetic profile of Escherichia coli strains isolated from mangrove oysters (Crassostrea gasar) farmed in Amazonic estuaries. In: 30º Congresso Brasileiro de Microbiologia, 2019, Maceió.](https://www.sbmicrobiologia.org.br/30cbm-anais/resumos/R0287-1.pdf)
