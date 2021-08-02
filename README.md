@@ -1,8 +1,11 @@
 # About me
 Hello there, my name is Davi Marcon, I'm 20 years old and my main interests are: Bioinformatics specially focused on bacterial resistance genes prediction, Metagenomics for interest genes discovery and everything related to bacteriology 🔬, I also a terminal ui fan.
+
 ## Academic info
 I'm a Biotechnology graduation student at [UFPA - Federal University of Pará (Pará, Brazil)](https://ufpa.br).
 Currently working at ENGBIO and CGBS (Center of Genomics and Systems Biology) with academic guidance from PhD. Prof. Rafael Azevedo Baraúna, other information [here](./contributions.md)
+
+[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0003-1014-422X)
 ## Experience with:
 NGS data processing, Microbial Genomic Assembly, Metagenomics using 16s rRNA, microbial antibiotic resistance and
 Phylogenetic inference.
