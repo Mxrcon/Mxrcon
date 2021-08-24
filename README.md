@@ -24,6 +24,18 @@ I'm also learning how to implement pipelines on Nextflow.
 
 ![Mxrcon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxrcon&show_icons=true&theme=nightowl)
 
+<!--START_SECTION:activity-->
+
+
+
+
+
+
+
+
+
+<!--END_SECTION:activity-->
+
 ## Other stuff:
 On my free time i solve Katas at [Codewars](https://www.codewars.com/) using Python
 
