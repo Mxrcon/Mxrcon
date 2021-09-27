@@ -27,8 +27,16 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+2. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+3. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
+4. 👍 Approved [#43](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/43#pullrequestreview-761517085) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+5. 👍 Approved [#43](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/43#pullrequestreview-761517085) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday, September 27th, 2021, 4:14:33 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
