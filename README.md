@@ -23,6 +23,7 @@ I'm also learning how to implement pipelines on Nextflow.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrcon&layout=compact&hide=tex,css,html,scss,ruby&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mxrcon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxrcon&show_icons=true&theme=nightowl)
+
 ---
 
 <!--RECENT_ACTIVITY:start-->
@@ -30,6 +31,7 @@ I'm also learning how to implement pipelines on Nextflow.
 <!--RECENT_ACTIVITY:last_update-->
 
 ---
+
 ## Other stuff:
 On my free time i solve Katas at [Codewars](https://www.codewars.com/) using Python
 
