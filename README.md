@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#48](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/48) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-2. 💪 Opened PR [#47](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/47) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-3. 💪 Opened PR [#7](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/pull/7) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
-4. ❗️ Opened issue [#6](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/issues/6) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
-5. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+1. ⭐ Starred [exshak/dotfiles](https://github.com/exshak/dotfiles)
+2. 💪 Opened PR [#48](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/48) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+3. 💪 Opened PR [#47](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/47) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+4. 💪 Opened PR [#7](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/pull/7) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
+5. ❗️ Opened issue [#6](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/issues/6) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 29th, 2021, 2:28:31 AM
+Last Updated: Wednesday, September 29th, 2021, 3:22:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
