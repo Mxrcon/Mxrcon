@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#6](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/issues/6) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
-2. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-3. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-4. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
-5. 👍 Approved [#43](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/43#pullrequestreview-761517085) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+1. 💪 Opened PR [#7](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/pull/7) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
+2. ❗️ Opened issue [#6](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/issues/6) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
+3. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+4. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+5. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 28th, 2021, 11:21:19 PM
+Last Updated: Wednesday, September 29th, 2021, 1:06:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
