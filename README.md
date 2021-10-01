@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/pull/8) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
-2. ❗️ Opened issue [#51](https://github.com/mtb-bioinformatics/mtbseq-nf/issues/51) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-3. ⭐ Starred [exshak/dotfiles](https://github.com/exshak/dotfiles)
-4. 💪 Opened PR [#48](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/48) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-5. 💪 Opened PR [#47](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/47) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+1. ⭐ Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)
+2. 💪 Opened PR [#8](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/pull/8) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
+3. ❗️ Opened issue [#51](https://github.com/mtb-bioinformatics/mtbseq-nf/issues/51) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+4. ⭐ Starred [exshak/dotfiles](https://github.com/exshak/dotfiles)
+5. 💪 Opened PR [#48](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/48) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 1st, 2021, 12:18:24 AM
+Last Updated: Friday, October 1st, 2021, 8:05:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
