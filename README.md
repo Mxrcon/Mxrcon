@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#110](https://github.com/cobraz/todoist-action/issues/110) in [cobraz/todoist-action](https://github.com/cobraz/todoist-action)
-2. ⭐ Starred [cobraz/todoist-action](https://github.com/cobraz/todoist-action)
-3. ⭐ Starred [jez/git-heatmap](https://github.com/jez/git-heatmap)
-4. ⭐ Starred [wei/rclone](https://github.com/wei/rclone)
-5. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. ⭐ Starred [songweizhi/MetaCHIP](https://github.com/songweizhi/MetaCHIP)
+2. ❗️ Opened issue [#110](https://github.com/cobraz/todoist-action/issues/110) in [cobraz/todoist-action](https://github.com/cobraz/todoist-action)
+3. ⭐ Starred [cobraz/todoist-action](https://github.com/cobraz/todoist-action)
+4. ⭐ Starred [jez/git-heatmap](https://github.com/jez/git-heatmap)
+5. ⭐ Starred [wei/rclone](https://github.com/wei/rclone)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 4th, 2021, 2:03:35 PM
+Last Updated: Monday, October 4th, 2021, 8:04:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
