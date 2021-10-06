@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/Mxrcon/mtb_mono_inh_nf/issues/1) in [Mxrcon/mtb_mono_inh_nf](https://github.com/Mxrcon/mtb_mono_inh_nf)
-2. ⭐ Starred [songweizhi/MetaCHIP](https://github.com/songweizhi/MetaCHIP)
-3. ❗️ Opened issue [#110](https://github.com/cobraz/todoist-action/issues/110) in [cobraz/todoist-action](https://github.com/cobraz/todoist-action)
-4. ⭐ Starred [cobraz/todoist-action](https://github.com/cobraz/todoist-action)
-5. ⭐ Starred [jez/git-heatmap](https://github.com/jez/git-heatmap)
+1. ⭐ Starred [jodyphelan/TBProfiler](https://github.com/jodyphelan/TBProfiler)
+2. ❗️ Opened issue [#1](https://github.com/Mxrcon/mtb_mono_inh_nf/issues/1) in [Mxrcon/mtb_mono_inh_nf](https://github.com/Mxrcon/mtb_mono_inh_nf)
+3. ⭐ Starred [songweizhi/MetaCHIP](https://github.com/songweizhi/MetaCHIP)
+4. ❗️ Opened issue [#110](https://github.com/cobraz/todoist-action/issues/110) in [cobraz/todoist-action](https://github.com/cobraz/todoist-action)
+5. ⭐ Starred [cobraz/todoist-action](https://github.com/cobraz/todoist-action)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 6th, 2021, 2:03:36 PM
+Last Updated: Wednesday, October 6th, 2021, 8:04:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
