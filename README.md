@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Mxrcon/robertpetit.com](https://github.com/Mxrcon/robertpetit.com) from [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
-2. ⭐ Starred [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
-3. ⭐ Starred [pha4ge/hAMRonization](https://github.com/pha4ge/hAMRonization)
-4. ⭐ Starred [jodyphelan/TBProfiler](https://github.com/jodyphelan/TBProfiler)
-5. ❗️ Opened issue [#1](https://github.com/Mxrcon/mtb_mono_inh_nf/issues/1) in [Mxrcon/mtb_mono_inh_nf](https://github.com/Mxrcon/mtb_mono_inh_nf)
+1. ⭐ Starred [Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)
+2. 🔱 Forked [Mxrcon/robertpetit.com](https://github.com/Mxrcon/robertpetit.com) from [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
+3. ⭐ Starred [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
+4. ⭐ Starred [pha4ge/hAMRonization](https://github.com/pha4ge/hAMRonization)
+5. ⭐ Starred [jodyphelan/TBProfiler](https://github.com/jodyphelan/TBProfiler)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 13th, 2021, 8:04:17 PM
+Last Updated: Thursday, October 14th, 2021, 12:17:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
