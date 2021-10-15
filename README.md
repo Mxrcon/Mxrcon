@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)
-2. 🔱 Forked [Mxrcon/robertpetit.com](https://github.com/Mxrcon/robertpetit.com) from [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
-3. ⭐ Starred [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
-4. ⭐ Starred [pha4ge/hAMRonization](https://github.com/pha4ge/hAMRonization)
-5. ⭐ Starred [jodyphelan/TBProfiler](https://github.com/jodyphelan/TBProfiler)
+1. ⭐ Starred [MCotocel/nixdots](https://github.com/MCotocel/nixdots)
+2. ⭐ Starred [Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)
+3. 🔱 Forked [Mxrcon/robertpetit.com](https://github.com/Mxrcon/robertpetit.com) from [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
+4. ⭐ Starred [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
+5. ⭐ Starred [pha4ge/hAMRonization](https://github.com/pha4ge/hAMRonization)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 15th, 2021, 12:18:09 AM
+Last Updated: Friday, October 15th, 2021, 8:05:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
