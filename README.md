@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [n0tsteve/glorious-dots](https://github.com/n0tsteve/glorious-dots)
-2. ⭐ Starred [MCotocel/nixdots](https://github.com/MCotocel/nixdots)
-3. ⭐ Starred [Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)
-4. 🔱 Forked [Mxrcon/robertpetit.com](https://github.com/Mxrcon/robertpetit.com) from [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
-5. ⭐ Starred [rpetit3/robertpetit.com](https://github.com/rpetit3/robertpetit.com)
+1. ⭐ Starred [gear-genomics/tracy](https://github.com/gear-genomics/tracy)
+2. ⭐ Starred [labsquare/CutePeaks](https://github.com/labsquare/CutePeaks)
+3. ⭐ Starred [n0tsteve/glorious-dots](https://github.com/n0tsteve/glorious-dots)
+4. ⭐ Starred [MCotocel/nixdots](https://github.com/MCotocel/nixdots)
+5. ⭐ Starred [Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 19th, 2021, 12:18:25 AM
+Last Updated: Tuesday, October 19th, 2021, 8:06:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
