@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire)
-2. ⭐ Starred [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller)
-3. ⭐ Starred [aditya-88/ASAP](https://github.com/aditya-88/ASAP)
-4. ⭐ Starred [gear-genomics/tracy](https://github.com/gear-genomics/tracy)
-5. ⭐ Starred [labsquare/CutePeaks](https://github.com/labsquare/CutePeaks)
+1. ⭐ Starred [casey/just](https://github.com/casey/just)
+2. ⭐ Starred [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire)
+3. ⭐ Starred [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller)
+4. ⭐ Starred [aditya-88/ASAP](https://github.com/aditya-88/ASAP)
+5. ⭐ Starred [gear-genomics/tracy](https://github.com/gear-genomics/tracy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 21st, 2021, 8:06:07 AM
+Last Updated: Thursday, October 21st, 2021, 2:04:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
