@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kevinblighe/ClinicalGradeDNAseq](https://github.com/kevinblighe/ClinicalGradeDNAseq)
-2. ⭐ Starred [casey/just](https://github.com/casey/just)
-3. ⭐ Starred [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire)
-4. ⭐ Starred [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller)
-5. ⭐ Starred [aditya-88/ASAP](https://github.com/aditya-88/ASAP)
+1. ⭐ Starred [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor)
+2. ⭐ Starred [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario)
+3. ⭐ Starred [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)
+4. ⭐ Starred [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
+5. ⭐ Starred [kevinblighe/ClinicalGradeDNAseq](https://github.com/kevinblighe/ClinicalGradeDNAseq)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 23rd, 2021, 12:18:19 AM
+Last Updated: Saturday, October 23rd, 2021, 8:04:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
