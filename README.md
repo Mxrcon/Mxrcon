@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor)
-2. ⭐ Starred [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario)
-3. ⭐ Starred [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)
-4. ⭐ Starred [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
-5. ⭐ Starred [kevinblighe/ClinicalGradeDNAseq](https://github.com/kevinblighe/ClinicalGradeDNAseq)
+1. ⭐ Starred [nf-core/modules](https://github.com/nf-core/modules)
+2. ⭐ Starred [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor)
+3. ⭐ Starred [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario)
+4. ⭐ Starred [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)
+5. ⭐ Starred [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 27th, 2021, 8:04:03 PM
+Last Updated: Thursday, October 28th, 2021, 12:17:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
