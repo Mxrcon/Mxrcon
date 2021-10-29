@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#978](https://github.com/nf-core/modules/pull/978) in [nf-core/modules](https://github.com/nf-core/modules)
-2. ❗️ Opened issue [#972](https://github.com/nf-core/modules/issues/972) in [nf-core/modules](https://github.com/nf-core/modules)
-3. ❗️ Opened issue [#959](https://github.com/nf-core/modules/issues/959) in [nf-core/modules](https://github.com/nf-core/modules)
-4. ⭐ Starred [nf-core/modules](https://github.com/nf-core/modules)
-5. ⭐ Starred [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor)
+1. 💪 Opened PR [#385](https://github.com/nf-core/test-datasets/pull/385) in [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
+2. 🔱 Forked [Mxrcon/test-datasets](https://github.com/Mxrcon/test-datasets) from [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
+3. ⭐ Starred [doomemacs/.github](https://github.com/doomemacs/.github)
+4. 💪 Opened PR [#978](https://github.com/nf-core/modules/pull/978) in [nf-core/modules](https://github.com/nf-core/modules)
+5. ❗️ Opened issue [#972](https://github.com/nf-core/modules/issues/972) in [nf-core/modules](https://github.com/nf-core/modules)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 29th, 2021, 8:05:57 AM
+Last Updated: Friday, October 29th, 2021, 2:03:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
