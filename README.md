@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#73](https://github.com/biobakery/phylophlan/issues/73) in [biobakery/phylophlan](https://github.com/biobakery/phylophlan)
-2. 💪 Opened PR [#385](https://github.com/nf-core/test-datasets/pull/385) in [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
-3. 🔱 Forked [Mxrcon/test-datasets](https://github.com/Mxrcon/test-datasets) from [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
-4. ⭐ Starred [doomemacs/.github](https://github.com/doomemacs/.github)
-5. 💪 Opened PR [#978](https://github.com/nf-core/modules/pull/978) in [nf-core/modules](https://github.com/nf-core/modules)
+1. ⭐ Starred [federicomarini/GeneTonic](https://github.com/federicomarini/GeneTonic)
+2. ⭐ Starred [brianary/scripts](https://github.com/brianary/scripts)
+3. ❗️ Opened issue [#73](https://github.com/biobakery/phylophlan/issues/73) in [biobakery/phylophlan](https://github.com/biobakery/phylophlan)
+4. 💪 Opened PR [#385](https://github.com/nf-core/test-datasets/pull/385) in [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
+5. 🔱 Forked [Mxrcon/test-datasets](https://github.com/Mxrcon/test-datasets) from [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 3rd, 2021, 2:03:23 PM
+Last Updated: Wednesday, November 3rd, 2021, 8:04:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
