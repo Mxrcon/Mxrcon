@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rrwick/Trycycler](https://github.com/rrwick/Trycycler)
-2. ⭐ Starred [federicomarini/GeneTonic](https://github.com/federicomarini/GeneTonic)
-3. ⭐ Starred [brianary/scripts](https://github.com/brianary/scripts)
-4. ❗️ Opened issue [#73](https://github.com/biobakery/phylophlan/issues/73) in [biobakery/phylophlan](https://github.com/biobakery/phylophlan)
-5. 💪 Opened PR [#385](https://github.com/nf-core/test-datasets/pull/385) in [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
+1. 🔱 Forked [Mxrcon/MpGAP](https://github.com/Mxrcon/MpGAP) from [fmalmeida/MpGAP](https://github.com/fmalmeida/MpGAP)
+2. ⭐ Starred [fmalmeida/MpGAP](https://github.com/fmalmeida/MpGAP)
+3. ⭐ Starred [rrwick/Trycycler](https://github.com/rrwick/Trycycler)
+4. ⭐ Starred [federicomarini/GeneTonic](https://github.com/federicomarini/GeneTonic)
+5. ⭐ Starred [brianary/scripts](https://github.com/brianary/scripts)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 10th, 2021, 8:05:43 AM
+Last Updated: Wednesday, November 10th, 2021, 2:03:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
