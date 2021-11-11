@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Mxrcon/MpGAP](https://github.com/Mxrcon/MpGAP) from [fmalmeida/MpGAP](https://github.com/fmalmeida/MpGAP)
-2. ⭐ Starred [fmalmeida/MpGAP](https://github.com/fmalmeida/MpGAP)
-3. ⭐ Starred [rrwick/Trycycler](https://github.com/rrwick/Trycycler)
-4. ⭐ Starred [federicomarini/GeneTonic](https://github.com/federicomarini/GeneTonic)
-5. ⭐ Starred [brianary/scripts](https://github.com/brianary/scripts)
+1. ⭐ Starred [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot)
+2. 🔱 Forked [Mxrcon/MpGAP](https://github.com/Mxrcon/MpGAP) from [fmalmeida/MpGAP](https://github.com/fmalmeida/MpGAP)
+3. ⭐ Starred [fmalmeida/MpGAP](https://github.com/fmalmeida/MpGAP)
+4. ⭐ Starred [rrwick/Trycycler](https://github.com/rrwick/Trycycler)
+5. ⭐ Starred [federicomarini/GeneTonic](https://github.com/federicomarini/GeneTonic)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 10th, 2021, 8:04:22 PM
+Last Updated: Thursday, November 11th, 2021, 12:18:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
