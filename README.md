@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [micknudsen/guessadapt](https://github.com/micknudsen/guessadapt)
-2. ⭐ Starred [nf-core/fetchngs](https://github.com/nf-core/fetchngs)
-3. ⭐ Starred [tecosaur/org-music](https://github.com/tecosaur/org-music)
-4. ⭐ Starred [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot)
-5. 🔱 Forked [Mxrcon/MpGAP](https://github.com/Mxrcon/MpGAP) from [fmalmeida/MpGAP](https://github.com/fmalmeida/MpGAP)
+1. ⭐ Starred [wwood/singlem](https://github.com/wwood/singlem)
+2. ⭐ Starred [micknudsen/guessadapt](https://github.com/micknudsen/guessadapt)
+3. ⭐ Starred [nf-core/fetchngs](https://github.com/nf-core/fetchngs)
+4. ⭐ Starred [tecosaur/org-music](https://github.com/tecosaur/org-music)
+5. ⭐ Starred [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 13th, 2021, 12:17:31 AM
+Last Updated: Saturday, November 13th, 2021, 8:05:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
