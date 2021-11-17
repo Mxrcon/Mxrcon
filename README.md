@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#385](https://github.com/nf-core/test-datasets/pull/385) in [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
-2. ⭐ Starred [wwood/singlem](https://github.com/wwood/singlem)
-3. ⭐ Starred [micknudsen/guessadapt](https://github.com/micknudsen/guessadapt)
-4. ⭐ Starred [nf-core/fetchngs](https://github.com/nf-core/fetchngs)
-5. ⭐ Starred [tecosaur/org-music](https://github.com/tecosaur/org-music)
+1. ⭐ Starred [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub)
+2. 🎉 Merged PR [#385](https://github.com/nf-core/test-datasets/pull/385) in [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
+3. ⭐ Starred [wwood/singlem](https://github.com/wwood/singlem)
+4. ⭐ Starred [micknudsen/guessadapt](https://github.com/micknudsen/guessadapt)
+5. ⭐ Starred [nf-core/fetchngs](https://github.com/nf-core/fetchngs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 17th, 2021, 8:05:41 AM
+Last Updated: Wednesday, November 17th, 2021, 2:03:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
