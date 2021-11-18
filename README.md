@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify)
-2. ⭐ Starred [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub)
-3. 🎉 Merged PR [#385](https://github.com/nf-core/test-datasets/pull/385) in [nf-core/test-datasets](https://github.com/nf-core/test-datasets)
-4. ⭐ Starred [wwood/singlem](https://github.com/wwood/singlem)
-5. ⭐ Starred [micknudsen/guessadapt](https://github.com/micknudsen/guessadapt)
+1. ⭐ Starred [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+2. ⭐ Starred [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+3. ⭐ Starred [lima1/PureCN](https://github.com/lima1/PureCN)
+4. ⭐ Starred [katholt/Kleborate](https://github.com/katholt/Kleborate)
+5. ⭐ Starred [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 18th, 2021, 12:19:14 AM
+Last Updated: Thursday, November 18th, 2021, 8:05:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
