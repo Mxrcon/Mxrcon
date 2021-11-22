@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
-2. ⭐ Starred [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-3. ⭐ Starred [lima1/PureCN](https://github.com/lima1/PureCN)
-4. ⭐ Starred [katholt/Kleborate](https://github.com/katholt/Kleborate)
-5. ⭐ Starred [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify)
+1. ❗️ Opened issue [#54](https://github.com/mtb-bioinformatics/mtbseq-nf/issues/54) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+2. ⭐ Starred [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+3. ⭐ Starred [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+4. ⭐ Starred [lima1/PureCN](https://github.com/lima1/PureCN)
+5. ⭐ Starred [katholt/Kleborate](https://github.com/katholt/Kleborate)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 22nd, 2021, 8:06:23 AM
+Last Updated: Monday, November 22nd, 2021, 2:04:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
