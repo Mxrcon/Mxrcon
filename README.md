@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#54](https://github.com/mtb-bioinformatics/mtbseq-nf/issues/54) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-2. ⭐ Starred [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
-3. ⭐ Starred [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-4. ⭐ Starred [lima1/PureCN](https://github.com/lima1/PureCN)
-5. ⭐ Starred [katholt/Kleborate](https://github.com/katholt/Kleborate)
+1. ⭐ Starred [marlaux/Metabarcoding-script-by-script](https://github.com/marlaux/Metabarcoding-script-by-script)
+2. ⭐ Starred [oschwengers/referenceseeker](https://github.com/oschwengers/referenceseeker)
+3. ⭐ Starred [oschwengers/bakta](https://github.com/oschwengers/bakta)
+4. ⭐ Starred [fastqc-rs/fastqc-rs](https://github.com/fastqc-rs/fastqc-rs)
+5. ⭐ Starred [nlhepler/fastqc-rs](https://github.com/nlhepler/fastqc-rs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 26th, 2021, 8:05:36 AM
+Last Updated: Friday, November 26th, 2021, 2:04:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
