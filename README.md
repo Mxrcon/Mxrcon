@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
-2. ⭐ Starred [marlaux/Metabarcoding-script-by-script](https://github.com/marlaux/Metabarcoding-script-by-script)
-3. ⭐ Starred [oschwengers/referenceseeker](https://github.com/oschwengers/referenceseeker)
-4. ⭐ Starred [oschwengers/bakta](https://github.com/oschwengers/bakta)
-5. ⭐ Starred [fastqc-rs/fastqc-rs](https://github.com/fastqc-rs/fastqc-rs)
+1. ⭐ Starred [amplab/snap](https://github.com/amplab/snap)
+2. ⭐ Starred [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+3. ⭐ Starred [marlaux/Metabarcoding-script-by-script](https://github.com/marlaux/Metabarcoding-script-by-script)
+4. ⭐ Starred [oschwengers/referenceseeker](https://github.com/oschwengers/referenceseeker)
+5. ⭐ Starred [oschwengers/bakta](https://github.com/oschwengers/bakta)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 1st, 2021, 8:06:18 AM
+Last Updated: Wednesday, December 1st, 2021, 2:04:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
