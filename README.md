@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
-2. ⭐ Starred [parasyte/pixels](https://github.com/parasyte/pixels)
-3. ⭐ Starred [nschloe/tiptop](https://github.com/nschloe/tiptop)
-4. ⭐ Starred [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses)
-5. ⭐ Starred [evolvedmicrobe/peptide-finder](https://github.com/evolvedmicrobe/peptide-finder)
+1. ⭐ Starred [MrCheeze/GYTB](https://github.com/MrCheeze/GYTB)
+2. ⭐ Starred [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
+3. ⭐ Starred [parasyte/pixels](https://github.com/parasyte/pixels)
+4. ⭐ Starred [nschloe/tiptop](https://github.com/nschloe/tiptop)
+5. ⭐ Starred [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 19th, 2021, 2:03:31 PM
+Last Updated: Sunday, December 19th, 2021, 8:04:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
