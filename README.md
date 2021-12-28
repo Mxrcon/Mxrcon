@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/fmalmeida/my_gifs/issues/1) in [fmalmeida/my_gifs](https://github.com/fmalmeida/my_gifs)
-2. ⭐ Starred [fmalmeida/my_gifs](https://github.com/fmalmeida/my_gifs)
-3. 🔱 Forked [Mxrcon/nextflow-idioms](https://github.com/Mxrcon/nextflow-idioms) from [micans/nextflow-idioms](https://github.com/micans/nextflow-idioms)
-4. ⭐ Starred [micans/nextflow-idioms](https://github.com/micans/nextflow-idioms)
-5. ⭐ Starred [modernatx/seqlike](https://github.com/modernatx/seqlike)
+1. ⭐ Starred [0x00/spaceinvadergenerator](https://github.com/0x00/spaceinvadergenerator)
+2. ⭐ Starred [zfedoran/pixel-sprite-generator](https://github.com/zfedoran/pixel-sprite-generator)
+3. ⭐ Starred [StartAutomating/Irregular](https://github.com/StartAutomating/Irregular)
+4. ⭐ Starred [dfornika/rosalind](https://github.com/dfornika/rosalind)
+5. ⭐ Starred [will-rowe/groot](https://github.com/will-rowe/groot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 28th, 2021, 2:03:44 PM
+Last Updated: Tuesday, December 28th, 2021, 8:05:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
