@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nvbn/thefuck](https://github.com/nvbn/thefuck)
-2. ⭐ Starred [0x00/spaceinvadergenerator](https://github.com/0x00/spaceinvadergenerator)
-3. ⭐ Starred [zfedoran/pixel-sprite-generator](https://github.com/zfedoran/pixel-sprite-generator)
-4. ⭐ Starred [StartAutomating/Irregular](https://github.com/StartAutomating/Irregular)
-5. ⭐ Starred [dfornika/rosalind](https://github.com/dfornika/rosalind)
+1. ⭐ Starred [indivorg/workflows](https://github.com/indivorg/workflows)
+2. ⭐ Starred [delestro/outputformat](https://github.com/delestro/outputformat)
+3. ⭐ Starred [erdavids/Simulated-Code](https://github.com/erdavids/Simulated-Code)
+4. ⭐ Starred [nvbn/thefuck](https://github.com/nvbn/thefuck)
+5. ⭐ Starred [0x00/spaceinvadergenerator](https://github.com/0x00/spaceinvadergenerator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 30th, 2021, 2:04:05 PM
+Last Updated: Thursday, December 30th, 2021, 8:05:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
