@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Mxrcon/portable_docker_test](https://github.com/Mxrcon/portable_docker_test)
-2. ⭐ Starred [indivorg/workflows](https://github.com/indivorg/workflows)
-3. ⭐ Starred [delestro/outputformat](https://github.com/delestro/outputformat)
-4. ⭐ Starred [erdavids/Simulated-Code](https://github.com/erdavids/Simulated-Code)
-5. ⭐ Starred [nvbn/thefuck](https://github.com/nvbn/thefuck)
+1. ⭐ Starred [jtemporal/jessie](https://github.com/jtemporal/jessie)
+2. 📔 Created new repository [Mxrcon/portable_docker_test](https://github.com/Mxrcon/portable_docker_test)
+3. ⭐ Starred [indivorg/workflows](https://github.com/indivorg/workflows)
+4. ⭐ Starred [delestro/outputformat](https://github.com/delestro/outputformat)
+5. ⭐ Starred [erdavids/Simulated-Code](https://github.com/erdavids/Simulated-Code)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 5th, 2022, 8:04:50 PM
+Last Updated: Thursday, January 6th, 2022, 12:21:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
