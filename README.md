@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-2. ⭐ Starred [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
-3. ⭐ Starred [jtemporal/jessie](https://github.com/jtemporal/jessie)
-4. 📔 Created new repository [Mxrcon/portable_docker_test](https://github.com/Mxrcon/portable_docker_test)
-5. ⭐ Starred [indivorg/workflows](https://github.com/indivorg/workflows)
+1. ⭐ Starred [cli/cli](https://github.com/cli/cli)
+2. ⭐ Starred [chmln/sd](https://github.com/chmln/sd)
+3. ⭐ Starred [OpenGene/fastp](https://github.com/OpenGene/fastp)
+4. ⭐ Starred [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+5. ⭐ Starred [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 10th, 2022, 8:07:06 AM
+Last Updated: Monday, January 10th, 2022, 2:04:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
