@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iqbal-lab-org/viridian_workflow](https://github.com/iqbal-lab-org/viridian_workflow)
-2. ⭐ Starred [cli/cli](https://github.com/cli/cli)
-3. ⭐ Starred [chmln/sd](https://github.com/chmln/sd)
-4. ⭐ Starred [OpenGene/fastp](https://github.com/OpenGene/fastp)
-5. ⭐ Starred [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+1. ⭐ Starred [Doist/todoist-python](https://github.com/Doist/todoist-python)
+2. 💪 Opened PR [#56](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/56) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+3. 💪 Opened PR [#9](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/pull/9) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
+4. ⭐ Starred [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
+5. ⭐ Starred [iqbal-lab-org/viridian_workflow](https://github.com/iqbal-lab-org/viridian_workflow)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 19th, 2022, 2:03:32 PM
+Last Updated: Wednesday, January 19th, 2022, 8:04:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
