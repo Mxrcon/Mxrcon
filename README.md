@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Doist/todoist-python](https://github.com/Doist/todoist-python)
-2. 💪 Opened PR [#56](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/56) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-3. 💪 Opened PR [#9](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf/pull/9) in [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
-4. ⭐ Starred [emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf](https://github.com/emilyncosta/labmicobact_unifesp_ntm_romagnoli_nf)
-5. ⭐ Starred [iqbal-lab-org/viridian_workflow](https://github.com/iqbal-lab-org/viridian_workflow)
+1. ⭐ Starred [apiad/apiad.github.io](https://github.com/apiad/apiad.github.io)
+2. ⭐ Starred [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
+3. ⭐ Starred [BetaAndBit/RML](https://github.com/BetaAndBit/RML)
+4. ⭐ Starred [megalinter/megalinter](https://github.com/megalinter/megalinter)
+5. ⭐ Starred [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 21st, 2022, 8:06:14 AM
+Last Updated: Friday, January 21st, 2022, 2:05:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
