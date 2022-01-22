@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apiad/apiad.github.io](https://github.com/apiad/apiad.github.io)
-2. ⭐ Starred [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
-3. ⭐ Starred [BetaAndBit/RML](https://github.com/BetaAndBit/RML)
-4. ⭐ Starred [megalinter/megalinter](https://github.com/megalinter/megalinter)
-5. ⭐ Starred [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday)
+1. ⭐ Starred [muriloventuroso/easyssh](https://github.com/muriloventuroso/easyssh)
+2. ⭐ Starred [apiad/apiad.github.io](https://github.com/apiad/apiad.github.io)
+3. ⭐ Starred [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
+4. ⭐ Starred [BetaAndBit/RML](https://github.com/BetaAndBit/RML)
+5. ⭐ Starred [megalinter/megalinter](https://github.com/megalinter/megalinter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 2:02:51 PM
+Last Updated: Saturday, January 22nd, 2022, 8:04:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
