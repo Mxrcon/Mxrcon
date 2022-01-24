@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JLSteenwyk/ClipKIT](https://github.com/JLSteenwyk/ClipKIT)
-2. ⭐ Starred [shimmerjordan/github-statis](https://github.com/shimmerjordan/github-statis)
-3. ⭐ Starred [bcbnz/python-rofi](https://github.com/bcbnz/python-rofi)
-4. ⭐ Starred [changesets/changesets](https://github.com/changesets/changesets)
-5. ⭐ Starred [ellisonleao/magictools](https://github.com/ellisonleao/magictools)
+1. ⭐ Starred [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
+2. ⭐ Starred [pallets/click](https://github.com/pallets/click)
+3. ⭐ Starred [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks)
+4. ⭐ Starred [realpython/rptree](https://github.com/realpython/rptree)
+5. ⭐ Starred [realpython/materials](https://github.com/realpython/materials)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 24th, 2022, 2:03:51 PM
+Last Updated: Monday, January 24th, 2022, 8:04:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
