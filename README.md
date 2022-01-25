@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
-2. ⭐ Starred [pallets/click](https://github.com/pallets/click)
-3. ⭐ Starred [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks)
-4. ⭐ Starred [realpython/rptree](https://github.com/realpython/rptree)
-5. ⭐ Starred [realpython/materials](https://github.com/realpython/materials)
+1. ⭐ Starred [CAMI-challenge/CAMISIM](https://github.com/CAMI-challenge/CAMISIM)
+2. ⭐ Starred [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
+3. ⭐ Starred [pallets/click](https://github.com/pallets/click)
+4. ⭐ Starred [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks)
+5. ⭐ Starred [realpython/rptree](https://github.com/realpython/rptree)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 24th, 2022, 8:04:38 PM
+Last Updated: Tuesday, January 25th, 2022, 12:21:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
