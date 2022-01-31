@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [inconvergent/weird](https://github.com/inconvergent/weird)
-2. ⭐ Starred [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im)
-3. ⭐ Starred [COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon)
-4. ⭐ Starred [shenwei356/kmcp](https://github.com/shenwei356/kmcp)
-5. ⭐ Starred [CAMI-challenge/CAMISIM](https://github.com/CAMI-challenge/CAMISIM)
+1. ⭐ Starred [GenomePathogenAnalysisService/read-it-and-keep](https://github.com/GenomePathogenAnalysisService/read-it-and-keep)
+2. ⭐ Starred [wincent/loupe](https://github.com/wincent/loupe)
+3. ⭐ Starred [inconvergent/weird](https://github.com/inconvergent/weird)
+4. ⭐ Starred [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im)
+5. ⭐ Starred [COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 31st, 2022, 8:06:14 AM
+Last Updated: Monday, January 31st, 2022, 2:03:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
