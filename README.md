@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GenomePathogenAnalysisService/read-it-and-keep](https://github.com/GenomePathogenAnalysisService/read-it-and-keep)
-2. ⭐ Starred [wincent/loupe](https://github.com/wincent/loupe)
-3. ⭐ Starred [inconvergent/weird](https://github.com/inconvergent/weird)
-4. ⭐ Starred [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im)
-5. ⭐ Starred [COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon)
+1. ⭐ Starred [skyline-emu/skyline](https://github.com/skyline-emu/skyline)
+2. ⭐ Starred [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)
+3. ⭐ Starred [hannahcode/game](https://github.com/hannahcode/game)
+4. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+5. ⭐ Starred [frattalab/paqr_annotations](https://github.com/frattalab/paqr_annotations)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 1st, 2022, 8:06:35 AM
+Last Updated: Tuesday, February 1st, 2022, 2:03:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
