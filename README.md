@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [skyline-emu/skyline](https://github.com/skyline-emu/skyline)
-2. ⭐ Starred [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)
-3. ⭐ Starred [hannahcode/game](https://github.com/hannahcode/game)
-4. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-5. ⭐ Starred [frattalab/paqr_annotations](https://github.com/frattalab/paqr_annotations)
+1. ⭐ Starred [amanusk/s-tui](https://github.com/amanusk/s-tui)
+2. ⭐ Starred [sayanarijit/xplr](https://github.com/sayanarijit/xplr)
+3. ⭐ Starred [sanger-pathogens/assembly_improvement](https://github.com/sanger-pathogens/assembly_improvement)
+4. ⭐ Starred [skyline-emu/skyline](https://github.com/skyline-emu/skyline)
+5. ⭐ Starred [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 2nd, 2022, 8:06:19 AM
+Last Updated: Wednesday, February 2nd, 2022, 2:03:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
