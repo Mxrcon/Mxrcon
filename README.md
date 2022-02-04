@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amanusk/s-tui](https://github.com/amanusk/s-tui)
-2. ⭐ Starred [sayanarijit/xplr](https://github.com/sayanarijit/xplr)
-3. ⭐ Starred [sanger-pathogens/assembly_improvement](https://github.com/sanger-pathogens/assembly_improvement)
-4. ⭐ Starred [skyline-emu/skyline](https://github.com/skyline-emu/skyline)
-5. ⭐ Starred [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)
+1. ⭐ Starred [alex/what-happens-when](https://github.com/alex/what-happens-when)
+2. ⭐ Starred [dblock/ruby-enum](https://github.com/dblock/ruby-enum)
+3. ⭐ Starred [tj/terminal-table](https://github.com/tj/terminal-table)
+4. ⭐ Starred [tartley/colorama](https://github.com/tartley/colorama)
+5. ⭐ Starred [giampaolo/psutil](https://github.com/giampaolo/psutil)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 4th, 2022, 8:03:29 AM
+Last Updated: Friday, February 4th, 2022, 2:02:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
