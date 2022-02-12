@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [devhubapp/devhub](https://github.com/devhubapp/devhub)
-2. ⭐ Starred [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
-3. ⭐ Starred [tjiangHIT/cuteSV](https://github.com/tjiangHIT/cuteSV)
-4. ⭐ Starred [hartwigmedical/hmftools](https://github.com/hartwigmedical/hmftools)
-5. ⭐ Starred [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+1. ⭐ Starred [ColbySawyer7/Lab_Installation](https://github.com/ColbySawyer7/Lab_Installation)
+2. ⭐ Starred [devhubapp/devhub](https://github.com/devhubapp/devhub)
+3. ⭐ Starred [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
+4. ⭐ Starred [tjiangHIT/cuteSV](https://github.com/tjiangHIT/cuteSV)
+5. ⭐ Starred [hartwigmedical/hmftools](https://github.com/hartwigmedical/hmftools)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 12th, 2022, 2:02:54 PM
+Last Updated: Saturday, February 12th, 2022, 8:05:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
