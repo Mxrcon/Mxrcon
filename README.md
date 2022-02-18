@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fischer-hub/life](https://github.com/fischer-hub/life)
-2. ⭐ Starred [fischer-hub/metagenomics](https://github.com/fischer-hub/metagenomics)
-3. ⭐ Starred [fischer-hub/metagenomics](https://github.com/fischer-hub/metagenomics)
-4. ⭐ Starred [Unleash/unleash](https://github.com/Unleash/unleash)
-5. ⭐ Starred [unixorn/jira-commands](https://github.com/unixorn/jira-commands)
+1. ⭐ Starred [yoav-lavi/melody](https://github.com/yoav-lavi/melody)
+2. ⭐ Starred [BishopFox/unredacter](https://github.com/BishopFox/unredacter)
+3. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+4. ⭐ Starred [jokergoo/circlize](https://github.com/jokergoo/circlize)
+5. ⭐ Starred [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 18th, 2022, 8:07:08 AM
+Last Updated: Friday, February 18th, 2022, 2:04:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
