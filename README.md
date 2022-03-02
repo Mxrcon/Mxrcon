@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lifebit-ai/gwas](https://github.com/lifebit-ai/gwas)
-2. ⭐ Starred [architshukla/Plagiarism-Checker](https://github.com/architshukla/Plagiarism-Checker)
-3. ⭐ Starred [jeantristanb/gwasexdata](https://github.com/jeantristanb/gwasexdata)
-4. ⭐ Starred [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli)
-5. ⭐ Starred [lkaino/ornaassistant](https://github.com/lkaino/ornaassistant)
+1. ⭐ Starred [hashicorp/vault](https://github.com/hashicorp/vault)
+2. ⭐ Starred [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS)
+3. ⭐ Starred [SortableJS/Sortable](https://github.com/SortableJS/Sortable)
+4. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+5. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 2nd, 2022, 2:04:26 PM
+Last Updated: Wednesday, March 2nd, 2022, 8:04:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
