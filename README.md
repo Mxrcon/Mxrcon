@@ -30,12 +30,12 @@ I'm also learning how to implement pipelines on Nextflow.
 1. ⭐ Starred [echo724/notion2md](https://github.com/echo724/notion2md)
 2. ⭐ Starred [Adjective-Object/notion-sync](https://github.com/Adjective-Object/notion-sync)
 3. ⭐ Starred [integrateme-co/github-notion-sync](https://github.com/integrateme-co/github-notion-sync)
-4. 💪 Opened PR [#10](https://github.com/biosharp-dotnet/biosharp.net/pull/10) in [biosharp-dotnet/biosharp.net](https://github.com/biosharp-dotnet/biosharp.net)
-5. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
+4. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
+5. ⭐ Starred [hashicorp/vault](https://github.com/hashicorp/vault)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 5th, 2022, 2:03:42 PM
+Last Updated: Saturday, March 5th, 2022, 8:05:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
