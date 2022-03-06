@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stevemclaugh/pdf-highlights](https://github.com/stevemclaugh/pdf-highlights)
-2. ⭐ Starred [echo724/notion2md](https://github.com/echo724/notion2md)
-3. ⭐ Starred [Adjective-Object/notion-sync](https://github.com/Adjective-Object/notion-sync)
-4. ⭐ Starred [integrateme-co/github-notion-sync](https://github.com/integrateme-co/github-notion-sync)
-5. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
+1. ⭐ Starred [0xabu/pdfannots](https://github.com/0xabu/pdfannots)
+2. ⭐ Starred [itst/pdf-highlights](https://github.com/itst/pdf-highlights)
+3. ⭐ Starred [stevemclaugh/pdf-highlights](https://github.com/stevemclaugh/pdf-highlights)
+4. ⭐ Starred [echo724/notion2md](https://github.com/echo724/notion2md)
+5. ⭐ Starred [Adjective-Object/notion-sync](https://github.com/Adjective-Object/notion-sync)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 6th, 2022, 2:03:44 PM
+Last Updated: Sunday, March 6th, 2022, 8:06:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
