@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [0xabu/pdfannots](https://github.com/0xabu/pdfannots)
-2. ⭐ Starred [itst/pdf-highlights](https://github.com/itst/pdf-highlights)
-3. ⭐ Starred [stevemclaugh/pdf-highlights](https://github.com/stevemclaugh/pdf-highlights)
-4. ⭐ Starred [echo724/notion2md](https://github.com/echo724/notion2md)
-5. ⭐ Starred [Adjective-Object/notion-sync](https://github.com/Adjective-Object/notion-sync)
+1. ⭐ Starred [WomenBioinfoDataScLA/2WBDSLA](https://github.com/WomenBioinfoDataScLA/2WBDSLA)
+2. ⭐ Starred [MetaDocencia/docs](https://github.com/MetaDocencia/docs)
+3. ⭐ Starred [ATGenomics/atgenomics.github.io](https://github.com/ATGenomics/atgenomics.github.io)
+4. ⭐ Starred [0xabu/pdfannots](https://github.com/0xabu/pdfannots)
+5. ⭐ Starred [itst/pdf-highlights](https://github.com/itst/pdf-highlights)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 9th, 2022, 2:04:17 PM
+Last Updated: Wednesday, March 9th, 2022, 8:06:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
