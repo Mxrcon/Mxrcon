@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [WomenBioinfoDataScLA/2WBDSLA](https://github.com/WomenBioinfoDataScLA/2WBDSLA)
-2. ⭐ Starred [MetaDocencia/docs](https://github.com/MetaDocencia/docs)
-3. ⭐ Starred [ATGenomics/atgenomics.github.io](https://github.com/ATGenomics/atgenomics.github.io)
-4. ⭐ Starred [0xabu/pdfannots](https://github.com/0xabu/pdfannots)
-5. ⭐ Starred [itst/pdf-highlights](https://github.com/itst/pdf-highlights)
+1. ⭐ Starred [thackl/gggenomes](https://github.com/thackl/gggenomes)
+2. ⭐ Starred [gtonkinhill/panstripe](https://github.com/gtonkinhill/panstripe)
+3. ⭐ Starred [nextflow-io/vscode-language-nextflow](https://github.com/nextflow-io/vscode-language-nextflow)
+4. ⭐ Starred [YuLab-SMU/ggmsa](https://github.com/YuLab-SMU/ggmsa)
+5. ⭐ Starred [WomenBioinfoDataScLA/2WBDSLA](https://github.com/WomenBioinfoDataScLA/2WBDSLA)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 12th, 2022, 12:25:37 AM
+Last Updated: Saturday, March 12th, 2022, 8:07:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
