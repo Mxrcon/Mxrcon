@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thackl/gggenomes](https://github.com/thackl/gggenomes)
-2. ⭐ Starred [gtonkinhill/panstripe](https://github.com/gtonkinhill/panstripe)
-3. ⭐ Starred [nextflow-io/vscode-language-nextflow](https://github.com/nextflow-io/vscode-language-nextflow)
-4. ⭐ Starred [YuLab-SMU/ggmsa](https://github.com/YuLab-SMU/ggmsa)
-5. ⭐ Starred [WomenBioinfoDataScLA/2WBDSLA](https://github.com/WomenBioinfoDataScLA/2WBDSLA)
+1. ⭐ Starred [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)
+2. ⭐ Starred [trentm/python-markdown2](https://github.com/trentm/python-markdown2)
+3. ⭐ Starred [thackl/gggenomes](https://github.com/thackl/gggenomes)
+4. ⭐ Starred [gtonkinhill/panstripe](https://github.com/gtonkinhill/panstripe)
+5. ⭐ Starred [nextflow-io/vscode-language-nextflow](https://github.com/nextflow-io/vscode-language-nextflow)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 13th, 2022, 8:06:09 PM
+Last Updated: Monday, March 14th, 2022, 12:30:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
