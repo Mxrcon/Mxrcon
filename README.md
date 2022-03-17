@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/nextflow-runner](https://github.com/microsoft/nextflow-runner)
-2. ⭐ Starred [asottile/pyupgrade](https://github.com/asottile/pyupgrade)
-3. ⭐ Starred [zellerlab/GECCO](https://github.com/zellerlab/GECCO)
-4. ⭐ Starred [birl-language/birl-language.github.io](https://github.com/birl-language/birl-language.github.io)
-5. ⭐ Starred [nerdypepper/eva](https://github.com/nerdypepper/eva)
+1. ⭐ Starred [sindresorhus/amas](https://github.com/sindresorhus/amas)
+2. ⭐ Starred [microsoft/nextflow-runner](https://github.com/microsoft/nextflow-runner)
+3. ⭐ Starred [asottile/pyupgrade](https://github.com/asottile/pyupgrade)
+4. ⭐ Starred [zellerlab/GECCO](https://github.com/zellerlab/GECCO)
+5. ⭐ Starred [birl-language/birl-language.github.io](https://github.com/birl-language/birl-language.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 16th, 2022, 8:06:59 PM
+Last Updated: Thursday, March 17th, 2022, 12:26:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
