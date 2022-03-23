@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)
-2. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-3. ⭐ Starred [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete)
-4. 🔱 Forked [Mxrcon/enveomics](https://github.com/Mxrcon/enveomics) from [lmrodriguezr/enveomics](https://github.com/lmrodriguezr/enveomics)
-5. ⭐ Starred [lmrodriguezr/enveomics](https://github.com/lmrodriguezr/enveomics)
+1. ⭐ Starred [inkdropapp/docs](https://github.com/inkdropapp/docs)
+2. ⭐ Starred [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial)
+3. ⭐ Starred [genepi/nf-gwas](https://github.com/genepi/nf-gwas)
+4. ⭐ Starred [nathanieljohnston/game-of-life-book](https://github.com/nathanieljohnston/game-of-life-book)
+5. ⭐ Starred [theiagen/public_health_bacterial_genomics](https://github.com/theiagen/public_health_bacterial_genomics)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 22nd, 2022, 8:06:46 PM
+Last Updated: Wednesday, March 23rd, 2022, 12:32:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
