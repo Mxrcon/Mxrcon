@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [inkdropapp/docs](https://github.com/inkdropapp/docs)
-2. ⭐ Starred [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial)
-3. ⭐ Starred [genepi/nf-gwas](https://github.com/genepi/nf-gwas)
-4. ⭐ Starred [nathanieljohnston/game-of-life-book](https://github.com/nathanieljohnston/game-of-life-book)
-5. ⭐ Starred [theiagen/public_health_bacterial_genomics](https://github.com/theiagen/public_health_bacterial_genomics)
+1. 💪 Opened PR [#1](https://github.com/bioinformatics-lab/mtbseq-nf/pull/1) in [bioinformatics-lab/mtbseq-nf](https://github.com/bioinformatics-lab/mtbseq-nf)
+2. ⭐ Starred [inkdropapp/docs](https://github.com/inkdropapp/docs)
+3. ⭐ Starred [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial)
+4. ⭐ Starred [genepi/nf-gwas](https://github.com/genepi/nf-gwas)
+5. ⭐ Starred [nathanieljohnston/game-of-life-book](https://github.com/nathanieljohnston/game-of-life-book)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 23rd, 2022, 8:06:52 PM
+Last Updated: Thursday, March 24th, 2022, 12:28:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
