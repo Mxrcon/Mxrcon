@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/bioinformatics-lab/mtbseq-nf/pull/1) in [bioinformatics-lab/mtbseq-nf](https://github.com/bioinformatics-lab/mtbseq-nf)
-2. ⭐ Starred [inkdropapp/docs](https://github.com/inkdropapp/docs)
-3. ⭐ Starred [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial)
-4. ⭐ Starred [genepi/nf-gwas](https://github.com/genepi/nf-gwas)
-5. ⭐ Starred [nathanieljohnston/game-of-life-book](https://github.com/nathanieljohnston/game-of-life-book)
+1. ⭐ Starred [lapce/lapce](https://github.com/lapce/lapce)
+2. ⭐ Starred [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. ⭐ Starred [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
+4. ⭐ Starred [farhat-lab/gentb-site](https://github.com/farhat-lab/gentb-site)
+5. ⭐ Starred [farhat-lab/wdnn](https://github.com/farhat-lab/wdnn)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 25th, 2022, 8:07:53 AM
+Last Updated: Friday, March 25th, 2022, 2:05:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
