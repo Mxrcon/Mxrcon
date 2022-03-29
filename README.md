@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lapce/lapce](https://github.com/lapce/lapce)
-2. ⭐ Starred [python-poetry/poetry](https://github.com/python-poetry/poetry)
-3. ⭐ Starred [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
-4. ⭐ Starred [farhat-lab/gentb-site](https://github.com/farhat-lab/gentb-site)
-5. ⭐ Starred [farhat-lab/wdnn](https://github.com/farhat-lab/wdnn)
+1. ⭐ Starred [nf-core/taxprofiler](https://github.com/nf-core/taxprofiler)
+2. ⭐ Starred [tseemann/mlst](https://github.com/tseemann/mlst)
+3. ⭐ Starred [lapce/lapce](https://github.com/lapce/lapce)
+4. ⭐ Starred [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. ⭐ Starred [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 29th, 2022, 2:07:47 PM
+Last Updated: Tuesday, March 29th, 2022, 8:06:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
