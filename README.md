@@ -1,5 +1,5 @@
 # About me
-Hello there, my name is Davi Marcon, I'm 20 years old and my main interests are: Bioinformatics specially focused on bacterial resistance genes prediction, Metagenomics for interest genes discovery and everything related to bacteriology 🔬, I also a terminal ui fan.
+Hello there, my name is Davi Marcon, I'm 21 years old and my main interests are: Bioinformatics specially focused on bacterial resistance genes prediction, Metagenomics for interest genes discovery and everything related to bacteriology 🔬, I also a terminal ui fan.
 
 ## Academic info
 I'm a Biotechnology graduation student at [UFPA - Federal University of Pará (Pará, Brazil)](https://ufpa.br).
