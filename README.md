@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)
-2. ⭐ Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-3. ⭐ Starred [AstrobioMike/GToTree](https://github.com/AstrobioMike/GToTree)
-4. ⭐ Starred [fritzsedlazeck/Sniffles](https://github.com/fritzsedlazeck/Sniffles)
-5. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ⭐ Starred [arturotorreso/mtb_pre-resistance](https://github.com/arturotorreso/mtb_pre-resistance)
+2. ⭐ Starred [mastoffel/sheep_ID](https://github.com/mastoffel/sheep_ID)
+3. ⭐ Starred [YinLiLin/hibayes](https://github.com/YinLiLin/hibayes)
+4. ⭐ Starred [opencb/biodata](https://github.com/opencb/biodata)
+5. ⭐ Starred [canonical/multipass](https://github.com/canonical/multipass)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 31st, 2022, 12:30:58 AM
+Last Updated: Thursday, March 31st, 2022, 8:08:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
