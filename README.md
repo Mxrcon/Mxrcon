@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TomerEven/Prefix-Filter](https://github.com/TomerEven/Prefix-Filter)
-2. 🔱 Forked [Mxrcon/nextflow-gotchas](https://github.com/Mxrcon/nextflow-gotchas) from [Midnighter/nextflow-gotchas](https://github.com/Midnighter/nextflow-gotchas)
-3. ⭐ Starred [Midnighter/nextflow-gotchas](https://github.com/Midnighter/nextflow-gotchas)
-4. ⭐ Starred [biocore/scikit-bio](https://github.com/biocore/scikit-bio)
-5. ⭐ Starred [PacificBiosciences/pb-CpG-tools](https://github.com/PacificBiosciences/pb-CpG-tools)
+1. ⭐ Starred [projen/projen](https://github.com/projen/projen)
+2. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)
+3. ⭐ Starred [qiime2/q2-feature-classifier](https://github.com/qiime2/q2-feature-classifier)
+4. ⭐ Starred [mortazavilab/TALON](https://github.com/mortazavilab/TALON)
+5. ⭐ Starred [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 2nd, 2022, 2:05:24 PM
+Last Updated: Saturday, April 2nd, 2022, 8:06:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
