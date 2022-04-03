@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [projen/projen](https://github.com/projen/projen)
-2. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)
-3. ⭐ Starred [qiime2/q2-feature-classifier](https://github.com/qiime2/q2-feature-classifier)
-4. ⭐ Starred [mortazavilab/TALON](https://github.com/mortazavilab/TALON)
-5. ⭐ Starred [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
+1. ⭐ Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)
+2. ⭐ Starred [ksahlin/ultra](https://github.com/ksahlin/ultra)
+3. ⭐ Starred [rubygems/rubygems](https://github.com/rubygems/rubygems)
+4. ⭐ Starred [AnantharamanLab/METABOLIC](https://github.com/AnantharamanLab/METABOLIC)
+5. ⭐ Starred [projen/projen](https://github.com/projen/projen)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 2nd, 2022, 8:06:04 PM
+Last Updated: Sunday, April 3rd, 2022, 12:32:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
