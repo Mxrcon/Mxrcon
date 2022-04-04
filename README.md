@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [soimort/you-get](https://github.com/soimort/you-get)
-2. ⭐ Starred [orchest/orchest](https://github.com/orchest/orchest)
-3. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-4. ⭐ Starred [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
-5. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+1. ⭐ Starred [phiweger/primer4](https://github.com/phiweger/primer4)
+2. ⭐ Starred [tseemann/klosham](https://github.com/tseemann/klosham)
+3. ⭐ Starred [soimort/you-get](https://github.com/soimort/you-get)
+4. ⭐ Starred [orchest/orchest](https://github.com/orchest/orchest)
+5. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 3rd, 2022, 8:07:52 PM
+Last Updated: Monday, April 4th, 2022, 12:29:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
