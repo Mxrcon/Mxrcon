@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [phiweger/primer4](https://github.com/phiweger/primer4)
-2. ⭐ Starred [tseemann/klosham](https://github.com/tseemann/klosham)
-3. ⭐ Starred [soimort/you-get](https://github.com/soimort/you-get)
-4. ⭐ Starred [orchest/orchest](https://github.com/orchest/orchest)
-5. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+1. ⭐ Starred [ITMD362-Team-BEJJ/project2](https://github.com/ITMD362-Team-BEJJ/project2)
+2. ⭐ Starred [moshi4/plot_genome_align_fig](https://github.com/moshi4/plot_genome_align_fig)
+3. ⭐ Starred [darrenburns/dunk](https://github.com/darrenburns/dunk)
+4. ⭐ Starred [bugy/script-server](https://github.com/bugy/script-server)
+5. ⭐ Starred [sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 4th, 2022, 8:06:46 PM
+Last Updated: Tuesday, April 5th, 2022, 12:29:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
