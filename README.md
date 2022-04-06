@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#58](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/58) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-2. ⭐ Starred [Haruno19/starfetch](https://github.com/Haruno19/starfetch)
-3. ⭐ Starred [mortazavilab/TALON](https://github.com/mortazavilab/TALON)
-4. ⭐ Starred [jeff-hughes/shellcaster](https://github.com/jeff-hughes/shellcaster)
-5. ⭐ Starred [stealthybox/tf-oci-arm](https://github.com/stealthybox/tf-oci-arm)
+1. ⭐ Starred [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+2. ⭐ Starred [jhajek/Linux-text-book-part-1](https://github.com/jhajek/Linux-text-book-part-1)
+3. ⭐ Starred [liaochenlanruo/pgcgap](https://github.com/liaochenlanruo/pgcgap)
+4. ⭐ Starred [saviscos/ScriptsPython](https://github.com/saviscos/ScriptsPython)
+5. 💪 Opened PR [#58](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/58) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 6th, 2022, 2:05:51 PM
+Last Updated: Wednesday, April 6th, 2022, 8:06:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
