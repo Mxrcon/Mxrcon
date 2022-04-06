@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
-2. ⭐ Starred [veloren/veloren](https://github.com/veloren/veloren)
-3. ⭐ Starred [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022)
-4. ⭐ Starred [ITMD362-Team-BEJJ/project2](https://github.com/ITMD362-Team-BEJJ/project2)
-5. ⭐ Starred [moshi4/plot_genome_align_fig](https://github.com/moshi4/plot_genome_align_fig)
+1. ⭐ Starred [mortazavilab/TALON](https://github.com/mortazavilab/TALON)
+2. ⭐ Starred [jeff-hughes/shellcaster](https://github.com/jeff-hughes/shellcaster)
+3. ⭐ Starred [stealthybox/tf-oci-arm](https://github.com/stealthybox/tf-oci-arm)
+4. ⭐ Starred [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview)
+5. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 5th, 2022, 8:07:20 PM
+Last Updated: Wednesday, April 6th, 2022, 12:30:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
