@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mortazavilab/TALON](https://github.com/mortazavilab/TALON)
-2. ⭐ Starred [jeff-hughes/shellcaster](https://github.com/jeff-hughes/shellcaster)
-3. ⭐ Starred [stealthybox/tf-oci-arm](https://github.com/stealthybox/tf-oci-arm)
-4. ⭐ Starred [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview)
-5. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+1. 💪 Opened PR [#58](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/58) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+2. ⭐ Starred [Haruno19/starfetch](https://github.com/Haruno19/starfetch)
+3. ⭐ Starred [mortazavilab/TALON](https://github.com/mortazavilab/TALON)
+4. ⭐ Starred [jeff-hughes/shellcaster](https://github.com/jeff-hughes/shellcaster)
+5. ⭐ Starred [stealthybox/tf-oci-arm](https://github.com/stealthybox/tf-oci-arm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 6th, 2022, 12:30:45 AM
+Last Updated: Wednesday, April 6th, 2022, 8:08:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
