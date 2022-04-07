@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dokutan/mouse_m908](https://github.com/dokutan/mouse_m908)
-2. ⭐ Starred [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
-3. ⭐ Starred [jordanlab/STing](https://github.com/jordanlab/STing)
-4. ⭐ Starred [zheminzhou/EToKi](https://github.com/zheminzhou/EToKi)
-5. ⭐ Starred [jordanlab/stringMLST](https://github.com/jordanlab/stringMLST)
+1. ⭐ Starred [BioSina/Panakeia](https://github.com/BioSina/Panakeia)
+2. ⭐ Starred [tseemann/berokka](https://github.com/tseemann/berokka)
+3. ⭐ Starred [dokutan/mouse_m908](https://github.com/dokutan/mouse_m908)
+4. ⭐ Starred [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
+5. ⭐ Starred [jordanlab/STing](https://github.com/jordanlab/STing)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 7th, 2022, 12:33:22 AM
+Last Updated: Thursday, April 7th, 2022, 8:08:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
