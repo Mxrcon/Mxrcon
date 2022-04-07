@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-2. ⭐ Starred [jhajek/Linux-text-book-part-1](https://github.com/jhajek/Linux-text-book-part-1)
-3. ⭐ Starred [liaochenlanruo/pgcgap](https://github.com/liaochenlanruo/pgcgap)
-4. ⭐ Starred [saviscos/ScriptsPython](https://github.com/saviscos/ScriptsPython)
-5. 💪 Opened PR [#58](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/58) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+1. ⭐ Starred [dokutan/mouse_m908](https://github.com/dokutan/mouse_m908)
+2. ⭐ Starred [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
+3. ⭐ Starred [jordanlab/STing](https://github.com/jordanlab/STing)
+4. ⭐ Starred [zheminzhou/EToKi](https://github.com/zheminzhou/EToKi)
+5. ⭐ Starred [jordanlab/stringMLST](https://github.com/jordanlab/stringMLST)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 6th, 2022, 8:06:54 PM
+Last Updated: Thursday, April 7th, 2022, 12:33:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
