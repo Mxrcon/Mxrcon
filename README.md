@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BioSina/Panakeia](https://github.com/BioSina/Panakeia)
-2. ⭐ Starred [tseemann/berokka](https://github.com/tseemann/berokka)
-3. ⭐ Starred [dokutan/mouse_m908](https://github.com/dokutan/mouse_m908)
-4. ⭐ Starred [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
-5. ⭐ Starred [jordanlab/STing](https://github.com/jordanlab/STing)
+1. 🔱 Forked [Mxrcon/training-collection](https://github.com/Mxrcon/training-collection) from [biosharp-dotnet-labs/training-collection](https://github.com/biosharp-dotnet-labs/training-collection)
+2. ⭐ Starred [biosharp-dotnet-labs/training-collection](https://github.com/biosharp-dotnet-labs/training-collection)
+3. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)
+4. ⭐ Starred [BioSina/Panakeia](https://github.com/BioSina/Panakeia)
+5. ⭐ Starred [tseemann/berokka](https://github.com/tseemann/berokka)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 9th, 2022, 2:05:46 PM
+Last Updated: Saturday, April 9th, 2022, 8:06:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
