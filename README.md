@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Mxrcon/training-collection](https://github.com/Mxrcon/training-collection) from [biosharp-dotnet-labs/training-collection](https://github.com/biosharp-dotnet-labs/training-collection)
-2. ⭐ Starred [biosharp-dotnet-labs/training-collection](https://github.com/biosharp-dotnet-labs/training-collection)
-3. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)
-4. ⭐ Starred [BioSina/Panakeia](https://github.com/BioSina/Panakeia)
-5. ⭐ Starred [tseemann/berokka](https://github.com/tseemann/berokka)
+1. 🎉 Merged PR [#2](https://github.com/bioinformatics-lab/gwas/pull/2) in [bioinformatics-lab/gwas](https://github.com/bioinformatics-lab/gwas)
+2. ⭐ Starred [google-research/proteinfer](https://github.com/google-research/proteinfer)
+3. 🔱 Forked [Mxrcon/training-collection](https://github.com/Mxrcon/training-collection) from [biosharp-dotnet-labs/training-collection](https://github.com/biosharp-dotnet-labs/training-collection)
+4. ⭐ Starred [biosharp-dotnet-labs/training-collection](https://github.com/biosharp-dotnet-labs/training-collection)
+5. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 10th, 2022, 2:04:39 PM
+Last Updated: Sunday, April 10th, 2022, 8:06:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
