@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/bioinformatics-lab/gwas/pull/2) in [bioinformatics-lab/gwas](https://github.com/bioinformatics-lab/gwas)
-2. ⭐ Starred [google-research/proteinfer](https://github.com/google-research/proteinfer)
-3. 🔱 Forked [Mxrcon/training-collection](https://github.com/Mxrcon/training-collection) from [biosharp-dotnet-labs/training-collection](https://github.com/biosharp-dotnet-labs/training-collection)
-4. ⭐ Starred [biosharp-dotnet-labs/training-collection](https://github.com/biosharp-dotnet-labs/training-collection)
-5. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)
+1. ⭐ Starred [pcantalupo/annotater](https://github.com/pcantalupo/annotater)
+2. ⭐ Starred [sateeshperi/nextflow_varcal](https://github.com/sateeshperi/nextflow_varcal)
+3. ⭐ Starred [sunesimonsen/emacs-runtests](https://github.com/sunesimonsen/emacs-runtests)
+4. 💪 Opened PR [#28](https://github.com/nf-core/gwas/pull/28) in [nf-core/gwas](https://github.com/nf-core/gwas)
+5. 🎉 Merged PR [#2](https://github.com/bioinformatics-lab/gwas/pull/2) in [bioinformatics-lab/gwas](https://github.com/bioinformatics-lab/gwas)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 11th, 2022, 12:30:47 AM
+Last Updated: Monday, April 11th, 2022, 8:08:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
