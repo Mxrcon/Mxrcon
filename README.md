@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [deepanshu1422/List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
-2. ⭐ Starred [forem/forem](https://github.com/forem/forem)
-3. ⭐ Starred [pcantalupo/annotater](https://github.com/pcantalupo/annotater)
-4. ⭐ Starred [sateeshperi/nextflow_varcal](https://github.com/sateeshperi/nextflow_varcal)
-5. ⭐ Starred [sunesimonsen/emacs-runtests](https://github.com/sunesimonsen/emacs-runtests)
+1. 💪 Opened PR [#61](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/61) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+2. ⭐ Starred [askimed/nf-test](https://github.com/askimed/nf-test)
+3. ⭐ Starred [rome/tools](https://github.com/rome/tools)
+4. ⭐ Starred [nextflow-io/nf-sqldb](https://github.com/nextflow-io/nf-sqldb)
+5. ⭐ Starred [MrOlm/drep](https://github.com/MrOlm/drep)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 11th, 2022, 8:07:15 PM
+Last Updated: Tuesday, April 12th, 2022, 12:31:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
