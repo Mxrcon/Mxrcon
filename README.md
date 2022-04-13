@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [filipelinhares/ress](https://github.com/filipelinhares/ress)
-2. ⭐ Starred [moshi4/MGCplotter](https://github.com/moshi4/MGCplotter)
-3. ⭐ Starred [BCCDC-PHL/taxon-abundance](https://github.com/BCCDC-PHL/taxon-abundance)
-4. ⭐ Starred [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos)
-5. ⭐ Starred [nf-core/hgtseq](https://github.com/nf-core/hgtseq)
+1. ⭐ Starred [MadsAlbertsen/ampvis2](https://github.com/MadsAlbertsen/ampvis2)
+2. ⭐ Starred [filipelinhares/ress](https://github.com/filipelinhares/ress)
+3. ⭐ Starred [moshi4/MGCplotter](https://github.com/moshi4/MGCplotter)
+4. ⭐ Starred [BCCDC-PHL/taxon-abundance](https://github.com/BCCDC-PHL/taxon-abundance)
+5. ⭐ Starred [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 13th, 2022, 2:06:23 PM
+Last Updated: Wednesday, April 13th, 2022, 8:07:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
