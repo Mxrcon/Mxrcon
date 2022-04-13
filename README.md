@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#61](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/61) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-2. ⭐ Starred [askimed/nf-test](https://github.com/askimed/nf-test)
-3. ⭐ Starred [rome/tools](https://github.com/rome/tools)
-4. ⭐ Starred [nextflow-io/nf-sqldb](https://github.com/nextflow-io/nf-sqldb)
-5. ⭐ Starred [MrOlm/drep](https://github.com/MrOlm/drep)
+1. ⭐ Starred [filipelinhares/ress](https://github.com/filipelinhares/ress)
+2. ⭐ Starred [moshi4/MGCplotter](https://github.com/moshi4/MGCplotter)
+3. ⭐ Starred [BCCDC-PHL/taxon-abundance](https://github.com/BCCDC-PHL/taxon-abundance)
+4. ⭐ Starred [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos)
+5. ⭐ Starred [nf-core/hgtseq](https://github.com/nf-core/hgtseq)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 13th, 2022, 8:09:08 AM
+Last Updated: Wednesday, April 13th, 2022, 2:06:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
