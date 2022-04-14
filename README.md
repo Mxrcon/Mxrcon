@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MadsAlbertsen/ampvis2](https://github.com/MadsAlbertsen/ampvis2)
-2. ⭐ Starred [filipelinhares/ress](https://github.com/filipelinhares/ress)
-3. ⭐ Starred [moshi4/MGCplotter](https://github.com/moshi4/MGCplotter)
-4. ⭐ Starred [BCCDC-PHL/taxon-abundance](https://github.com/BCCDC-PHL/taxon-abundance)
-5. ⭐ Starred [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos)
+1. ❌ Closed PR [#2](https://github.com/Mxrcon/modules/pull/2) in [Mxrcon/modules](https://github.com/Mxrcon/modules)
+2. 💪 Opened PR [#2](https://github.com/Mxrcon/modules/pull/2) in [Mxrcon/modules](https://github.com/Mxrcon/modules)
+3. ⭐ Starred [nf-core/prettier-plugin-nextflow](https://github.com/nf-core/prettier-plugin-nextflow)
+4. ⭐ Starred [MadsAlbertsen/ampvis2](https://github.com/MadsAlbertsen/ampvis2)
+5. ⭐ Starred [filipelinhares/ress](https://github.com/filipelinhares/ress)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 13th, 2022, 8:07:22 PM
+Last Updated: Thursday, April 14th, 2022, 12:35:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
