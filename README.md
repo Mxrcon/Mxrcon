@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](https://github.com/Mxrcon/modules/pull/2) in [Mxrcon/modules](https://github.com/Mxrcon/modules)
-2. 💪 Opened PR [#2](https://github.com/Mxrcon/modules/pull/2) in [Mxrcon/modules](https://github.com/Mxrcon/modules)
-3. ⭐ Starred [nf-core/prettier-plugin-nextflow](https://github.com/nf-core/prettier-plugin-nextflow)
-4. ⭐ Starred [MadsAlbertsen/ampvis2](https://github.com/MadsAlbertsen/ampvis2)
-5. ⭐ Starred [filipelinhares/ress](https://github.com/filipelinhares/ress)
+1. ⭐ Starred [manubot/catalog](https://github.com/manubot/catalog)
+2. ⭐ Starred [httpie/httpie](https://github.com/httpie/httpie)
+3. ❌ Closed PR [#2](https://github.com/Mxrcon/modules/pull/2) in [Mxrcon/modules](https://github.com/Mxrcon/modules)
+4. 💪 Opened PR [#2](https://github.com/Mxrcon/modules/pull/2) in [Mxrcon/modules](https://github.com/Mxrcon/modules)
+5. ⭐ Starred [nf-core/prettier-plugin-nextflow](https://github.com/nf-core/prettier-plugin-nextflow)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 15th, 2022, 12:28:21 AM
+Last Updated: Friday, April 15th, 2022, 8:08:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
