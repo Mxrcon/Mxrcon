@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pirovc/ganon](https://github.com/pirovc/ganon)
-2. ⭐ Starred [rejeep/prodigy.el](https://github.com/rejeep/prodigy.el)
-3. ⭐ Starred [emacs-taskrunner/emacs-taskrunner](https://github.com/emacs-taskrunner/emacs-taskrunner)
-4. 🔱 Forked [Mxrcon/multiomics-configs](https://github.com/Mxrcon/multiomics-configs) from [multiomics/multiomics-configs](https://github.com/multiomics/multiomics-configs)
-5. ⭐ Starred [multiomics/multiomics-configs](https://github.com/multiomics/multiomics-configs)
+1. ⭐ Starred [robxu9/bash-static](https://github.com/robxu9/bash-static)
+2. ⭐ Starred [progrium/go-basher](https://github.com/progrium/go-basher)
+3. ⭐ Starred [pirovc/ganon](https://github.com/pirovc/ganon)
+4. ⭐ Starred [rejeep/prodigy.el](https://github.com/rejeep/prodigy.el)
+5. ⭐ Starred [emacs-taskrunner/emacs-taskrunner](https://github.com/emacs-taskrunner/emacs-taskrunner)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 16th, 2022, 2:06:06 PM
+Last Updated: Saturday, April 16th, 2022, 8:06:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
