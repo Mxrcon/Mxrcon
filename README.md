@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Midnighter/nf-file-utils](https://github.com/Midnighter/nf-file-utils)
-2. ⭐ Starred [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
-3. ⭐ Starred [Clinical-Genomics/BALSAMIC](https://github.com/Clinical-Genomics/BALSAMIC)
-4. ⭐ Starred [robxu9/bash-static](https://github.com/robxu9/bash-static)
-5. ⭐ Starred [progrium/go-basher](https://github.com/progrium/go-basher)
+1. ⭐ Starred [imchillin/Anamnesis](https://github.com/imchillin/Anamnesis)
+2. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+3. ⭐ Starred [biocore/wol](https://github.com/biocore/wol)
+4. ⭐ Starred [Midnighter/nf-file-utils](https://github.com/Midnighter/nf-file-utils)
+5. ⭐ Starred [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 18th, 2022, 8:07:23 PM
+Last Updated: Tuesday, April 19th, 2022, 12:28:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
