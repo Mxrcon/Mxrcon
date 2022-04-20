@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [imchillin/Anamnesis](https://github.com/imchillin/Anamnesis)
-2. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-3. ⭐ Starred [biocore/wol](https://github.com/biocore/wol)
-4. ⭐ Starred [Midnighter/nf-file-utils](https://github.com/Midnighter/nf-file-utils)
-5. ⭐ Starred [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
+1. ⭐ Starred [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io)
+2. ⭐ Starred [lskatz/Kalamari](https://github.com/lskatz/Kalamari)
+3. ⭐ Starred [lskatz/Kalamari](https://github.com/lskatz/Kalamari)
+4. ⭐ Starred [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia)
+5. ⭐ Starred [nrwl/nx](https://github.com/nrwl/nx)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 20th, 2022, 2:06:35 PM
+Last Updated: Wednesday, April 20th, 2022, 8:08:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
