@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io)
-2. ⭐ Starred [lskatz/Kalamari](https://github.com/lskatz/Kalamari)
+1. ⭐ Starred [magit/magit](https://github.com/magit/magit)
+2. ⭐ Starred [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io)
 3. ⭐ Starred [lskatz/Kalamari](https://github.com/lskatz/Kalamari)
-4. ⭐ Starred [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia)
-5. ⭐ Starred [nrwl/nx](https://github.com/nrwl/nx)
+4. ⭐ Starred [lskatz/Kalamari](https://github.com/lskatz/Kalamari)
+5. ⭐ Starred [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 22nd, 2022, 8:08:50 AM
+Last Updated: Friday, April 22nd, 2022, 2:06:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
