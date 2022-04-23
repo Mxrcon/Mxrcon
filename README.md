@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Mxrcon/optimization_nf](https://github.com/Mxrcon/optimization_nf)
-2. 💪 Opened PR [#65](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/65) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-3. 💪 Opened PR [#64](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/64) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-4. ⭐ Starred [magit/magit](https://github.com/magit/magit)
-5. ⭐ Starred [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io)
+1. 💪 Opened PR [#66](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/66) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+2. 📔 Created new repository [Mxrcon/optimization_nf](https://github.com/Mxrcon/optimization_nf)
+3. 💪 Opened PR [#65](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/65) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+4. 💪 Opened PR [#64](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/64) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+5. ⭐ Starred [magit/magit](https://github.com/magit/magit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 23rd, 2022, 8:07:38 AM
+Last Updated: Saturday, April 23rd, 2022, 2:05:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
