@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#64](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/64) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-2. ⭐ Starred [magit/magit](https://github.com/magit/magit)
-3. ⭐ Starred [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io)
-4. ⭐ Starred [lskatz/Kalamari](https://github.com/lskatz/Kalamari)
-5. ⭐ Starred [lskatz/Kalamari](https://github.com/lskatz/Kalamari)
+1. 📔 Created new repository [Mxrcon/optimization_nf](https://github.com/Mxrcon/optimization_nf)
+2. 💪 Opened PR [#65](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/65) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+3. 💪 Opened PR [#64](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/64) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+4. ⭐ Starred [magit/magit](https://github.com/magit/magit)
+5. ⭐ Starred [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 22nd, 2022, 8:06:58 PM
+Last Updated: Saturday, April 23rd, 2022, 12:30:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
