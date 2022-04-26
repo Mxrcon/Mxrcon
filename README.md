@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#66](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/66) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-2. 📔 Created new repository [Mxrcon/optimization_nf](https://github.com/Mxrcon/optimization_nf)
-3. 💪 Opened PR [#65](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/65) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-4. 💪 Opened PR [#64](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/64) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-5. ⭐ Starred [magit/magit](https://github.com/magit/magit)
+1. ⭐ Starred [rnnh/bioinfo-notebook](https://github.com/rnnh/bioinfo-notebook)
+2. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+3. ⭐ Starred [ncbi/sra-tools](https://github.com/ncbi/sra-tools)
+4. ⭐ Starred [crazyhottommy/bioinformatics-one-liners](https://github.com/crazyhottommy/bioinformatics-one-liners)
+5. ⭐ Starred [jmsong2/GenomeSyn](https://github.com/jmsong2/GenomeSyn)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 26th, 2022, 12:33:31 AM
+Last Updated: Tuesday, April 26th, 2022, 8:08:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
