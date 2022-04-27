@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rnnh/bioinfo-notebook](https://github.com/rnnh/bioinfo-notebook)
-2. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
-3. ⭐ Starred [ncbi/sra-tools](https://github.com/ncbi/sra-tools)
-4. ⭐ Starred [crazyhottommy/bioinformatics-one-liners](https://github.com/crazyhottommy/bioinformatics-one-liners)
-5. ⭐ Starred [jmsong2/GenomeSyn](https://github.com/jmsong2/GenomeSyn)
+1. ⭐ Starred [py-pkgs/py-pkgs](https://github.com/py-pkgs/py-pkgs)
+2. ⭐ Starred [rrwick/Bandage](https://github.com/rrwick/Bandage)
+3. ⭐ Starred [corkami/collisions](https://github.com/corkami/collisions)
+4. ⭐ Starred [rnnh/bioinfo-notebook](https://github.com/rnnh/bioinfo-notebook)
+5. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 27th, 2022, 12:37:23 AM
+Last Updated: Wednesday, April 27th, 2022, 8:08:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
