@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Mxrcon/study](https://github.com/Mxrcon/study)
-2. ⭐ Starred [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes)
-3. ⭐ Starred [paulohrpinheiro/generative-art](https://github.com/paulohrpinheiro/generative-art)
-4. ⭐ Starred [py-pkgs/py-pkgs](https://github.com/py-pkgs/py-pkgs)
-5. ⭐ Starred [rrwick/Bandage](https://github.com/rrwick/Bandage)
+1. ⭐ Starred [samtools/htslib](https://github.com/samtools/htslib)
+2. 💪 Opened PR [#69](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/69) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+3. ⭐ Starred [nf-core/funcscan](https://github.com/nf-core/funcscan)
+4. 📔 Created new repository [Mxrcon/study](https://github.com/Mxrcon/study)
+5. ⭐ Starred [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 28th, 2022, 2:03:34 PM
+Last Updated: Thursday, April 28th, 2022, 8:06:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
