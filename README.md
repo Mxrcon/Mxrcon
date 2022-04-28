@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [py-pkgs/py-pkgs](https://github.com/py-pkgs/py-pkgs)
-2. ⭐ Starred [rrwick/Bandage](https://github.com/rrwick/Bandage)
-3. ⭐ Starred [corkami/collisions](https://github.com/corkami/collisions)
-4. ⭐ Starred [rnnh/bioinfo-notebook](https://github.com/rnnh/bioinfo-notebook)
-5. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+1. 📔 Created new repository [Mxrcon/study](https://github.com/Mxrcon/study)
+2. ⭐ Starred [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes)
+3. ⭐ Starred [paulohrpinheiro/generative-art](https://github.com/paulohrpinheiro/generative-art)
+4. ⭐ Starred [py-pkgs/py-pkgs](https://github.com/py-pkgs/py-pkgs)
+5. ⭐ Starred [rrwick/Bandage](https://github.com/rrwick/Bandage)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 27th, 2022, 8:07:21 PM
+Last Updated: Thursday, April 28th, 2022, 12:48:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
