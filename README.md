@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elewis787/boa](https://github.com/elewis787/boa)
-2. ⭐ Starred [samtools/htslib](https://github.com/samtools/htslib)
-3. 💪 Opened PR [#69](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/69) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-4. ⭐ Starred [nf-core/funcscan](https://github.com/nf-core/funcscan)
-5. 📔 Created new repository [Mxrcon/study](https://github.com/Mxrcon/study)
+1. 📔 Created new repository [Mxrcon/create_mtbseq_ref](https://github.com/Mxrcon/create_mtbseq_ref)
+2. ⭐ Starred [elewis787/boa](https://github.com/elewis787/boa)
+3. ⭐ Starred [samtools/htslib](https://github.com/samtools/htslib)
+4. 💪 Opened PR [#69](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/69) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
+5. ⭐ Starred [nf-core/funcscan](https://github.com/nf-core/funcscan)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 29th, 2022, 12:32:46 AM
+Last Updated: Friday, April 29th, 2022, 8:08:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
