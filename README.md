@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Mxrcon/create_mtbseq_ref](https://github.com/Mxrcon/create_mtbseq_ref)
-2. ⭐ Starred [elewis787/boa](https://github.com/elewis787/boa)
-3. ⭐ Starred [samtools/htslib](https://github.com/samtools/htslib)
-4. 💪 Opened PR [#69](https://github.com/mtb-bioinformatics/mtbseq-nf/pull/69) in [mtb-bioinformatics/mtbseq-nf](https://github.com/mtb-bioinformatics/mtbseq-nf)
-5. ⭐ Starred [nf-core/funcscan](https://github.com/nf-core/funcscan)
+1. ⭐ Starred [arsham/blush](https://github.com/arsham/blush)
+2. ⭐ Starred [jodyphelan/pathogen-profiler](https://github.com/jodyphelan/pathogen-profiler)
+3. ⭐ Starred [chenlianfu/geta](https://github.com/chenlianfu/geta)
+4. 📔 Created new repository [Mxrcon/create_mtbseq_ref](https://github.com/Mxrcon/create_mtbseq_ref)
+5. ⭐ Starred [elewis787/boa](https://github.com/elewis787/boa)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 29th, 2022, 2:04:47 PM
+Last Updated: Friday, April 29th, 2022, 8:07:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
