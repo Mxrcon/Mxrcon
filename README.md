@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [arsham/blush](https://github.com/arsham/blush)
-2. ⭐ Starred [jodyphelan/pathogen-profiler](https://github.com/jodyphelan/pathogen-profiler)
-3. ⭐ Starred [chenlianfu/geta](https://github.com/chenlianfu/geta)
-4. 📔 Created new repository [Mxrcon/create_mtbseq_ref](https://github.com/Mxrcon/create_mtbseq_ref)
-5. ⭐ Starred [elewis787/boa](https://github.com/elewis787/boa)
+1. ⭐ Starred [jodyphelan/NTM-Profiler](https://github.com/jodyphelan/NTM-Profiler)
+2. ⭐ Starred [arsham/blush](https://github.com/arsham/blush)
+3. ⭐ Starred [jodyphelan/pathogen-profiler](https://github.com/jodyphelan/pathogen-profiler)
+4. ⭐ Starred [chenlianfu/geta](https://github.com/chenlianfu/geta)
+5. 📔 Created new repository [Mxrcon/create_mtbseq_ref](https://github.com/Mxrcon/create_mtbseq_ref)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 30th, 2022, 8:08:04 AM
+Last Updated: Saturday, April 30th, 2022, 2:05:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
