@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opencpu/opencpu](https://github.com/opencpu/opencpu)
-2. ⭐ Starred [Badgerati/Monocle](https://github.com/Badgerati/Monocle)
-3. ⭐ Starred [jodyphelan/NTM-Profiler](https://github.com/jodyphelan/NTM-Profiler)
-4. ⭐ Starred [arsham/blush](https://github.com/arsham/blush)
-5. ⭐ Starred [jodyphelan/pathogen-profiler](https://github.com/jodyphelan/pathogen-profiler)
+1. ⭐ Starred [athul/archie](https://github.com/athul/archie)
+2. ⭐ Starred [mohnkhan/Free-OReilly-Books](https://github.com/mohnkhan/Free-OReilly-Books)
+3. ⭐ Starred [mynameisfiber/high_performance_python](https://github.com/mynameisfiber/high_performance_python)
+4. ⭐ Starred [dgrtwo/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining)
+5. ⭐ Starred [opencpu/opencpu](https://github.com/opencpu/opencpu)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 2nd, 2022, 12:32:35 AM
+Last Updated: Monday, May 2nd, 2022, 8:09:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
