@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-2. ⭐ Starred [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)
-3. ⭐ Starred [timoast/timoast.github.io](https://github.com/timoast/timoast.github.io)
-4. ⭐ Starred [dracula/rstudio](https://github.com/dracula/rstudio)
-5. 💪 Opened PR [#2060](https://github.com/education/GitHubGraduation-2022/pull/2060) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+1. ⭐ Starred [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)
+2. ❗️ Opened issue [#3231](https://github.com/education/GitHubGraduation-2022/issues/3231) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+3. ⭐ Starred [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+4. ⭐ Starred [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)
+5. ⭐ Starred [timoast/timoast.github.io](https://github.com/timoast/timoast.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 4th, 2022, 8:07:16 PM
+Last Updated: Thursday, May 5th, 2022, 12:32:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
