@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper)
-2. ⭐ Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-3. ⭐ Starred [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)
-4. ❗️ Opened issue [#3231](https://github.com/education/GitHubGraduation-2022/issues/3231) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-5. ⭐ Starred [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+1. ⭐ Starred [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+2. ⭐ Starred [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper)
+3. ⭐ Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+4. ⭐ Starred [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)
+5. ❗️ Opened issue [#3231](https://github.com/education/GitHubGraduation-2022/issues/3231) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 6th, 2022, 8:09:22 AM
+Last Updated: Friday, May 6th, 2022, 2:06:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
