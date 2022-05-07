@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
-2. ⭐ Starred [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper)
-3. ⭐ Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-4. ⭐ Starred [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)
-5. ❗️ Opened issue [#3231](https://github.com/education/GitHubGraduation-2022/issues/3231) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+1. ⭐ Starred [hush-shell/hush](https://github.com/hush-shell/hush)
+2. ⭐ Starred [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+3. ⭐ Starred [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper)
+4. ⭐ Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+5. ⭐ Starred [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 7th, 2022, 2:05:48 PM
+Last Updated: Saturday, May 7th, 2022, 8:06:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
