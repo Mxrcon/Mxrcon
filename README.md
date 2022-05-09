@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets)
-2. ⭐ Starred [thekaplanlab/msabrowser](https://github.com/thekaplanlab/msabrowser)
-3. ⭐ Starred [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com)
-4. ⭐ Starred [BouncyButton/places-simulator](https://github.com/BouncyButton/places-simulator)
-5. ⭐ Starred [hush-shell/hush](https://github.com/hush-shell/hush)
+1. ⭐ Starred [Textualize/rich](https://github.com/Textualize/rich)
+2. ⭐ Starred [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
+3. ⭐ Starred [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets)
+4. ⭐ Starred [thekaplanlab/msabrowser](https://github.com/thekaplanlab/msabrowser)
+5. ⭐ Starred [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 8th, 2022, 8:06:33 PM
+Last Updated: Monday, May 9th, 2022, 12:32:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
