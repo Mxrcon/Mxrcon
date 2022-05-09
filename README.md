@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-2. ⭐ Starred [Textualize/rich](https://github.com/Textualize/rich)
-3. ⭐ Starred [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
-4. ⭐ Starred [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets)
-5. ⭐ Starred [thekaplanlab/msabrowser](https://github.com/thekaplanlab/msabrowser)
+1. ⭐ Starred [eurise-network/technical-reference](https://github.com/eurise-network/technical-reference)
+2. ⭐ Starred [python/cpython](https://github.com/python/cpython)
+3. ⭐ Starred [tapayne88/dotfiles](https://github.com/tapayne88/dotfiles)
+4. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+5. ⭐ Starred [Textualize/rich](https://github.com/Textualize/rich)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 9th, 2022, 8:09:02 AM
+Last Updated: Monday, May 9th, 2022, 2:05:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
