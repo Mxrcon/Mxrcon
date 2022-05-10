@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eurise-network/technical-reference](https://github.com/eurise-network/technical-reference)
-2. ⭐ Starred [python/cpython](https://github.com/python/cpython)
-3. ⭐ Starred [tapayne88/dotfiles](https://github.com/tapayne88/dotfiles)
-4. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-5. ⭐ Starred [Textualize/rich](https://github.com/Textualize/rich)
+1. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
+2. ⭐ Starred [biotite-dev/gecos](https://github.com/biotite-dev/gecos)
+3. ⭐ Starred [pangenome/pggb](https://github.com/pangenome/pggb)
+4. ⭐ Starred [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+5. ⭐ Starred [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 9th, 2022, 8:07:07 PM
+Last Updated: Tuesday, May 10th, 2022, 12:34:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
