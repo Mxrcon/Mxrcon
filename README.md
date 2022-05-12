@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rhysnewell/aviary](https://github.com/rhysnewell/aviary)
-2. ⭐ Starred [hillerlab/TOGA](https://github.com/hillerlab/TOGA)
-3. ⭐ Starred [sunbeam-labs/sunbeam](https://github.com/sunbeam-labs/sunbeam)
-4. ⭐ Starred [Mykrobe-tools/mykrobe](https://github.com/Mykrobe-tools/mykrobe)
-5. ⭐ Starred [BCSharp/PSCondaEnvs](https://github.com/BCSharp/PSCondaEnvs)
+1. ⭐ Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
+2. ⭐ Starred [rhysnewell/aviary](https://github.com/rhysnewell/aviary)
+3. ⭐ Starred [hillerlab/TOGA](https://github.com/hillerlab/TOGA)
+4. ⭐ Starred [sunbeam-labs/sunbeam](https://github.com/sunbeam-labs/sunbeam)
+5. ⭐ Starred [Mykrobe-tools/mykrobe](https://github.com/Mykrobe-tools/mykrobe)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 11th, 2022, 8:07:38 PM
+Last Updated: Thursday, May 12th, 2022, 12:35:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
