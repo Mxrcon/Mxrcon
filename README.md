@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ugeneunipro/ugene](https://github.com/ugeneunipro/ugene)
-2. ⭐ Starred [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm)
-3. ⭐ Starred [github/linguist](https://github.com/github/linguist)
-4. ⭐ Starred [steineggerlab/Petasearch](https://github.com/steineggerlab/Petasearch)
-5. ⭐ Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
+1. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+2. ⭐ Starred [ugeneunipro/ugene](https://github.com/ugeneunipro/ugene)
+3. ⭐ Starred [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm)
+4. ⭐ Starred [github/linguist](https://github.com/github/linguist)
+5. ⭐ Starred [steineggerlab/Petasearch](https://github.com/steineggerlab/Petasearch)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 15th, 2022, 12:42:44 AM
+Last Updated: Sunday, May 15th, 2022, 8:08:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
