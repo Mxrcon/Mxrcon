@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hoffmangroup/acidbio](https://github.com/hoffmangroup/acidbio)
-2. ⭐ Starred [njtierney/rmd4sci](https://github.com/njtierney/rmd4sci)
-3. ⭐ Starred [anabastos/configfiles](https://github.com/anabastos/configfiles)
-4. ⭐ Starred [HandsOnDataViz/book](https://github.com/HandsOnDataViz/book)
-5. ⭐ Starred [eead-csic-compbio/get_homologues](https://github.com/eead-csic-compbio/get_homologues)
+1. ⭐ Starred [soapyfrog/grrr](https://github.com/soapyfrog/grrr)
+2. ⭐ Starred [hoffmangroup/acidbio](https://github.com/hoffmangroup/acidbio)
+3. ⭐ Starred [njtierney/rmd4sci](https://github.com/njtierney/rmd4sci)
+4. ⭐ Starred [anabastos/configfiles](https://github.com/anabastos/configfiles)
+5. ⭐ Starred [HandsOnDataViz/book](https://github.com/HandsOnDataViz/book)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 18th, 2022, 12:29:19 AM
+Last Updated: Wednesday, May 18th, 2022, 8:12:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
