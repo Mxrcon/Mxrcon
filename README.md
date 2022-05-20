@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oschwengers/tadrep](https://github.com/oschwengers/tadrep)
-2. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)
-3. ⭐ Starred [soapyfrog/grrr](https://github.com/soapyfrog/grrr)
-4. ⭐ Starred [hoffmangroup/acidbio](https://github.com/hoffmangroup/acidbio)
-5. ⭐ Starred [njtierney/rmd4sci](https://github.com/njtierney/rmd4sci)
+1. ⭐ Starred [J35P312/SVDB](https://github.com/J35P312/SVDB)
+2. ⭐ Starred [VGP/vgp-assembly](https://github.com/VGP/vgp-assembly)
+3. ⭐ Starred [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+4. ⭐ Starred [gsantner/markor](https://github.com/gsantner/markor)
+5. ⭐ Starred [bitwarden/server](https://github.com/bitwarden/server)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 19th, 2022, 8:07:20 PM
+Last Updated: Friday, May 20th, 2022, 12:32:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
