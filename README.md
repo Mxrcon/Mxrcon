@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pachterlab/gget](https://github.com/pachterlab/gget)
-2. ⭐ Starred [algbio/matchtigs](https://github.com/algbio/matchtigs)
-3. ⭐ Starred [It4innovations/hyperqueue](https://github.com/It4innovations/hyperqueue)
-4. ⭐ Starred [J35P312/SVDB](https://github.com/J35P312/SVDB)
-5. ⭐ Starred [VGP/vgp-assembly](https://github.com/VGP/vgp-assembly)
+1. ⭐ Starred [donia-lab/MetaBGC](https://github.com/donia-lab/MetaBGC)
+2. ⭐ Starred [progrium/topframe](https://github.com/progrium/topframe)
+3. ⭐ Starred [axbazin/drawbank](https://github.com/axbazin/drawbank)
+4. ⭐ Starred [pachterlab/gget](https://github.com/pachterlab/gget)
+5. ⭐ Starred [algbio/matchtigs](https://github.com/algbio/matchtigs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 21st, 2022, 8:08:14 AM
+Last Updated: Saturday, May 21st, 2022, 2:05:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
