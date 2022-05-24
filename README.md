@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dezordi/ViralFlow](https://github.com/dezordi/ViralFlow)
-2. ⭐ Starred [yatisht/usher](https://github.com/yatisht/usher)
-3. ⭐ Starred [donia-lab/MetaBGC](https://github.com/donia-lab/MetaBGC)
-4. ⭐ Starred [progrium/topframe](https://github.com/progrium/topframe)
-5. ⭐ Starred [axbazin/drawbank](https://github.com/axbazin/drawbank)
+1. ⭐ Starred [refresh-bio/FAMSA](https://github.com/refresh-bio/FAMSA)
+2. ⭐ Starred [dezordi/ViralFlow](https://github.com/dezordi/ViralFlow)
+3. ⭐ Starred [yatisht/usher](https://github.com/yatisht/usher)
+4. ⭐ Starred [donia-lab/MetaBGC](https://github.com/donia-lab/MetaBGC)
+5. ⭐ Starred [progrium/topframe](https://github.com/progrium/topframe)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 23rd, 2022, 8:07:52 PM
+Last Updated: Tuesday, May 24th, 2022, 12:36:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
