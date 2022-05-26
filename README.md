@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [maguowei/starred](https://github.com/maguowei/starred)
-2. ⭐ Starred [devserpro/api-siafi](https://github.com/devserpro/api-siafi)
-3. ⭐ Starred [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
-4. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-5. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+1. ⭐ Starred [pirovc/genome_updater](https://github.com/pirovc/genome_updater)
+2. ⭐ Starred [maguowei/starred](https://github.com/maguowei/starred)
+3. ⭐ Starred [devserpro/api-siafi](https://github.com/devserpro/api-siafi)
+4. ⭐ Starred [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
+5. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 25th, 2022, 8:07:08 PM
+Last Updated: Thursday, May 26th, 2022, 12:34:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
