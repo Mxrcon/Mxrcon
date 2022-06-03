@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
-2. ⭐ Starred [koaning/mktestdocs](https://github.com/koaning/mktestdocs)
-3. ⭐ Starred [pirovc/genome_updater](https://github.com/pirovc/genome_updater)
-4. ⭐ Starred [maguowei/starred](https://github.com/maguowei/starred)
-5. ⭐ Starred [devserpro/api-siafi](https://github.com/devserpro/api-siafi)
+1. ⭐ Starred [BjornFJohansson/pydna](https://github.com/BjornFJohansson/pydna)
+2. ⭐ Starred [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
+3. ⭐ Starred [koaning/mktestdocs](https://github.com/koaning/mktestdocs)
+4. ⭐ Starred [pirovc/genome_updater](https://github.com/pirovc/genome_updater)
+5. ⭐ Starred [maguowei/starred](https://github.com/maguowei/starred)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 3rd, 2022, 12:29:20 AM
+Last Updated: Friday, June 3rd, 2022, 8:08:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
