@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abntex/abntex2](https://github.com/abntex/abntex2)
-2. ⭐ Starred [abntex/biblatex-abnt](https://github.com/abntex/biblatex-abnt)
-3. ⭐ Starred [nextflow-io/patterns](https://github.com/nextflow-io/patterns)
-4. ⭐ Starred [BjornFJohansson/pydna](https://github.com/BjornFJohansson/pydna)
-5. ⭐ Starred [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
+1. ⭐ Starred [salgo60/open-data-examples](https://github.com/salgo60/open-data-examples)
+2. ⭐ Starred [andreasonny83/unique-names-generator](https://github.com/andreasonny83/unique-names-generator)
+3. ⭐ Starred [abntex/abntex2](https://github.com/abntex/abntex2)
+4. ⭐ Starred [abntex/biblatex-abnt](https://github.com/abntex/biblatex-abnt)
+5. ⭐ Starred [nextflow-io/patterns](https://github.com/nextflow-io/patterns)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 7th, 2022, 8:07:51 PM
+Last Updated: Wednesday, June 8th, 2022, 12:33:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
