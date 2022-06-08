@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [salgo60/open-data-examples](https://github.com/salgo60/open-data-examples)
-2. ⭐ Starred [andreasonny83/unique-names-generator](https://github.com/andreasonny83/unique-names-generator)
-3. ⭐ Starred [abntex/abntex2](https://github.com/abntex/abntex2)
-4. ⭐ Starred [abntex/biblatex-abnt](https://github.com/abntex/biblatex-abnt)
-5. ⭐ Starred [nextflow-io/patterns](https://github.com/nextflow-io/patterns)
+1. ⭐ Starred [mrmaxguns/wonderwordsmodule](https://github.com/mrmaxguns/wonderwordsmodule)
+2. ⭐ Starred [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
+3. 🔱 Forked [Mxrcon/RandomDataImporter](https://github.com/Mxrcon/RandomDataImporter) from [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
+4. ⭐ Starred [keithieopia/crappy-cryptonyms](https://github.com/keithieopia/crappy-cryptonyms)
+5. ⭐ Starred [rollinginsanity/randomator](https://github.com/rollinginsanity/randomator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 8th, 2022, 12:33:52 AM
+Last Updated: Wednesday, June 8th, 2022, 8:09:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
