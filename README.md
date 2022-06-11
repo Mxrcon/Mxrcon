@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mrmaxguns/wonderwordsmodule](https://github.com/mrmaxguns/wonderwordsmodule)
-2. ⭐ Starred [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
-3. 🔱 Forked [Mxrcon/RandomDataImporter](https://github.com/Mxrcon/RandomDataImporter) from [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
-4. ⭐ Starred [keithieopia/crappy-cryptonyms](https://github.com/keithieopia/crappy-cryptonyms)
-5. ⭐ Starred [rollinginsanity/randomator](https://github.com/rollinginsanity/randomator)
+1. ⭐ Starred [haigthey/Curso-Introducao-ao-software-estatistico-R](https://github.com/haigthey/Curso-Introducao-ao-software-estatistico-R)
+2. ⭐ Starred [mrmaxguns/wonderwordsmodule](https://github.com/mrmaxguns/wonderwordsmodule)
+3. ⭐ Starred [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
+4. 🔱 Forked [Mxrcon/RandomDataImporter](https://github.com/Mxrcon/RandomDataImporter) from [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
+5. ⭐ Starred [keithieopia/crappy-cryptonyms](https://github.com/keithieopia/crappy-cryptonyms)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 10th, 2022, 8:06:41 PM
+Last Updated: Saturday, June 11th, 2022, 12:33:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
