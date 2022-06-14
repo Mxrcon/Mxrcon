@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [haigthey/Curso-Introducao-ao-software-estatistico-R](https://github.com/haigthey/Curso-Introducao-ao-software-estatistico-R)
-2. ⭐ Starred [mrmaxguns/wonderwordsmodule](https://github.com/mrmaxguns/wonderwordsmodule)
-3. ⭐ Starred [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
-4. 🔱 Forked [Mxrcon/RandomDataImporter](https://github.com/Mxrcon/RandomDataImporter) from [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
-5. ⭐ Starred [keithieopia/crappy-cryptonyms](https://github.com/keithieopia/crappy-cryptonyms)
+1. ⭐ Starred [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
+2. ⭐ Starred [haigthey/Curso-Introducao-ao-software-estatistico-R](https://github.com/haigthey/Curso-Introducao-ao-software-estatistico-R)
+3. ⭐ Starred [mrmaxguns/wonderwordsmodule](https://github.com/mrmaxguns/wonderwordsmodule)
+4. ⭐ Starred [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
+5. 🔱 Forked [Mxrcon/RandomDataImporter](https://github.com/Mxrcon/RandomDataImporter) from [DataJuggler/RandomDataImporter](https://github.com/DataJuggler/RandomDataImporter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 14th, 2022, 2:06:48 PM
+Last Updated: Tuesday, June 14th, 2022, 8:06:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
