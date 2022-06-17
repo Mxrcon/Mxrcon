@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [autopawn/3d-ascii-viewer](https://github.com/autopawn/3d-ascii-viewer)
-2. ⭐ Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
-3. ⭐ Starred [odeke-em/drive](https://github.com/odeke-em/drive)
-4. ⭐ Starred [primer/prism](https://github.com/primer/prism)
-5. ⭐ Starred [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
+1. ⭐ Starred [karan/Projects](https://github.com/karan/Projects)
+2. ⭐ Starred [autopawn/3d-ascii-viewer](https://github.com/autopawn/3d-ascii-viewer)
+3. ⭐ Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
+4. ⭐ Starred [odeke-em/drive](https://github.com/odeke-em/drive)
+5. ⭐ Starred [primer/prism](https://github.com/primer/prism)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 16th, 2022, 8:06:32 PM
+Last Updated: Friday, June 17th, 2022, 12:29:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
