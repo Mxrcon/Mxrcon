@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [karan/Projects](https://github.com/karan/Projects)
-2. ⭐ Starred [autopawn/3d-ascii-viewer](https://github.com/autopawn/3d-ascii-viewer)
-3. ⭐ Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
-4. ⭐ Starred [odeke-em/drive](https://github.com/odeke-em/drive)
-5. ⭐ Starred [primer/prism](https://github.com/primer/prism)
+1. ⭐ Starred [meodai/color-names](https://github.com/meodai/color-names)
+2. ⭐ Starred [davidmerfield/randomColor](https://github.com/davidmerfield/randomColor)
+3. ⭐ Starred [karan/Projects](https://github.com/karan/Projects)
+4. ⭐ Starred [autopawn/3d-ascii-viewer](https://github.com/autopawn/3d-ascii-viewer)
+5. ⭐ Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 18th, 2022, 12:36:02 AM
+Last Updated: Saturday, June 18th, 2022, 8:07:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
