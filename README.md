@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [devblackops/Stucco](https://github.com/devblackops/Stucco)
-2. ⭐ Starred [SimonWahlin/gyPSum](https://github.com/SimonWahlin/gyPSum)
-3. ⭐ Starred [isacikgoz/tldr](https://github.com/isacikgoz/tldr)
-4. ⭐ Starred [uzimaru0000/tv](https://github.com/uzimaru0000/tv)
-5. ⭐ Starred [Textualize/rich-cli](https://github.com/Textualize/rich-cli)
+1. ⭐ Starred [skjorrface/animals.txt](https://github.com/skjorrface/animals.txt)
+2. ⭐ Starred [devblackops/Stucco](https://github.com/devblackops/Stucco)
+3. ⭐ Starred [SimonWahlin/gyPSum](https://github.com/SimonWahlin/gyPSum)
+4. ⭐ Starred [isacikgoz/tldr](https://github.com/isacikgoz/tldr)
+5. ⭐ Starred [uzimaru0000/tv](https://github.com/uzimaru0000/tv)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 20th, 2022, 12:34:04 AM
+Last Updated: Monday, June 20th, 2022, 8:08:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
