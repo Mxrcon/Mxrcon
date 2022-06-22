@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)
-2. ⭐ Starred [clong/DetectionLab](https://github.com/clong/DetectionLab)
-3. ⭐ Starred [nightroman/Ldbc](https://github.com/nightroman/Ldbc)
-4. ⭐ Starred [RamblingCookieMonster/PSSQLite](https://github.com/RamblingCookieMonster/PSSQLite)
-5. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
+1. ⭐ Starred [nh13/fqme](https://github.com/nh13/fqme)
+2. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)
+3. ⭐ Starred [clong/DetectionLab](https://github.com/clong/DetectionLab)
+4. ⭐ Starred [nightroman/Ldbc](https://github.com/nightroman/Ldbc)
+5. ⭐ Starred [RamblingCookieMonster/PSSQLite](https://github.com/RamblingCookieMonster/PSSQLite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 22nd, 2022, 8:10:06 AM
+Last Updated: Wednesday, June 22nd, 2022, 2:05:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
