@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pditommaso/nf-sleep](https://github.com/pditommaso/nf-sleep)
-2. ⭐ Starred [nh13/fqme](https://github.com/nh13/fqme)
-3. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)
-4. ⭐ Starred [clong/DetectionLab](https://github.com/clong/DetectionLab)
-5. ⭐ Starred [nightroman/Ldbc](https://github.com/nightroman/Ldbc)
+1. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+2. ⭐ Starred [pditommaso/nf-sleep](https://github.com/pditommaso/nf-sleep)
+3. ⭐ Starred [nh13/fqme](https://github.com/nh13/fqme)
+4. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)
+5. ⭐ Starred [clong/DetectionLab](https://github.com/clong/DetectionLab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 23rd, 2022, 2:04:56 PM
+Last Updated: Thursday, June 23rd, 2022, 8:06:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
