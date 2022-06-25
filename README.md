@@ -27,15 +27,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta)
-2. ⭐ Starred [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
-3. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
-4. ⭐ Starred [pditommaso/nf-sleep](https://github.com/pditommaso/nf-sleep)
-5. ⭐ Starred [nh13/fqme](https://github.com/nh13/fqme)
+1. ⭐ Starred [Badgerati/Pode](https://github.com/Badgerati/Pode)
+2. ⭐ Starred [CDCgov/phoenix](https://github.com/CDCgov/phoenix)
+3. ⭐ Starred [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta)
+4. ⭐ Starred [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
+5. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 25th, 2022, 8:07:41 AM
+Last Updated: Saturday, June 25th, 2022, 2:05:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
