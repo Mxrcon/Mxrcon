@@ -17,7 +17,8 @@ I'm also learning how to implement pipelines on Nextflow.
 ![Nextflow](https://api.iconify.design/file-icons:nextflow.svg?color=%2327ae60&width=30&height=30)
 ![Python](https://api.iconify.design/logos:python.svg?width=30&height=30)
 ![R](https://api.iconify.design/logos:r-lang.svg?width=30&height=30')
-![bash](https://api.iconify.design/logos:bash-icon.svg?width=30&height=30)
+![Bash](https://api.iconify.design/logos:bash-icon.svg?width=30&height=30)
+![Powershell](https://api.iconify.design/cib/powershell.svg?width=30&height=30)
 
 ## My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrcon&layout=compact&hide=tex,css,html,scss,ruby&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
