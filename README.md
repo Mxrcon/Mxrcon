@@ -28,15 +28,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zaiste/my-saleor-app](https://github.com/zaiste/my-saleor-app)
-2. ⭐ Starred [dense-analysis/ale](https://github.com/dense-analysis/ale)
-3. ⭐ Starred [neuromancer/libmind](https://github.com/neuromancer/libmind)
-4. ⭐ Starred [telecran-telecrit/Gen-phrase](https://github.com/telecran-telecrit/Gen-phrase)
-5. ⭐ Starred [icbi-lab/current-topics-bioinformatics-lecture](https://github.com/icbi-lab/current-topics-bioinformatics-lecture)
+1. ⭐ Starred [tiagoaoa/Sucuri-current](https://github.com/tiagoaoa/Sucuri-current)
+2. ⭐ Starred [zaiste/my-saleor-app](https://github.com/zaiste/my-saleor-app)
+3. ⭐ Starred [dense-analysis/ale](https://github.com/dense-analysis/ale)
+4. ⭐ Starred [neuromancer/libmind](https://github.com/neuromancer/libmind)
+5. ⭐ Starred [telecran-telecrit/Gen-phrase](https://github.com/telecran-telecrit/Gen-phrase)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 28th, 2022, 8:06:55 PM
+Last Updated: Wednesday, June 29th, 2022, 12:34:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
