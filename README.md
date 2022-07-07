@@ -28,15 +28,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/Mxrcon/name_generator/issues/1) in [Mxrcon/name_generator](https://github.com/Mxrcon/name_generator)
-2. ⭐ Starred [maxulysse/my_memes](https://github.com/maxulysse/my_memes)
-3. ⭐ Starred [cassiobotaro/vimbook](https://github.com/cassiobotaro/vimbook)
-4. ⭐ Starred [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges)
-5. 💪 Opened PR [#33](https://github.com/nf-core/gwas/pull/33) in [nf-core/gwas](https://github.com/nf-core/gwas)
+1. ⭐ Starred [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET)
+2. ⭐ Starred [darkoperator/Posh-SSH](https://github.com/darkoperator/Posh-SSH)
+3. ✔️ Closed issue [#1](https://github.com/Mxrcon/name_generator/issues/1) in [Mxrcon/name_generator](https://github.com/Mxrcon/name_generator)
+4. ⭐ Starred [maxulysse/my_memes](https://github.com/maxulysse/my_memes)
+5. ⭐ Starred [cassiobotaro/vimbook](https://github.com/cassiobotaro/vimbook)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 7th, 2022, 8:10:14 AM
+Last Updated: Thursday, July 7th, 2022, 2:07:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
