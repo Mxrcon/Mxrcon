@@ -28,15 +28,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET)
-2. ⭐ Starred [darkoperator/Posh-SSH](https://github.com/darkoperator/Posh-SSH)
-3. ✔️ Closed issue [#1](https://github.com/Mxrcon/name_generator/issues/1) in [Mxrcon/name_generator](https://github.com/Mxrcon/name_generator)
-4. ⭐ Starred [maxulysse/my_memes](https://github.com/maxulysse/my_memes)
-5. ⭐ Starred [cassiobotaro/vimbook](https://github.com/cassiobotaro/vimbook)
+1. ⭐ Starred [pditommaso/nf-secrets](https://github.com/pditommaso/nf-secrets)
+2. ⭐ Starred [TobyBaril/EarlGrey](https://github.com/TobyBaril/EarlGrey)
+3. ⭐ Starred [coder/coder](https://github.com/coder/coder)
+4. ⭐ Starred [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET)
+5. ⭐ Starred [darkoperator/Posh-SSH](https://github.com/darkoperator/Posh-SSH)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 8th, 2022, 2:05:09 PM
+Last Updated: Friday, July 8th, 2022, 8:06:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
