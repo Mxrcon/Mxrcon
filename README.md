@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pditommaso/nf-secrets](https://github.com/pditommaso/nf-secrets)
-2. ⭐ Starred [TobyBaril/EarlGrey](https://github.com/TobyBaril/EarlGrey)
-3. ⭐ Starred [coder/coder](https://github.com/coder/coder)
-4. ⭐ Starred [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET)
-5. ⭐ Starred [darkoperator/Posh-SSH](https://github.com/darkoperator/Posh-SSH)
+1. ⭐ Starred [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine)
+2. ⭐ Starred [ewels/rich-codex](https://github.com/ewels/rich-codex)
+3. ⭐ Starred [pditommaso/nf-secrets](https://github.com/pditommaso/nf-secrets)
+4. ⭐ Starred [TobyBaril/EarlGrey](https://github.com/TobyBaril/EarlGrey)
+5. ⭐ Starred [coder/coder](https://github.com/coder/coder)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 9th, 2022, 2:04:05 PM
+Last Updated: Saturday, July 9th, 2022, 8:06:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
