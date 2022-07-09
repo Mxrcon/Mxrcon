@@ -1,5 +1,15 @@
+```diff
+Hi, I'm Davi 🧑🏻‍🎓.
+
+@@I'm a Biotechnology Student@@
++ Living in Ananindeua, Brazil 🇧🇷.
++ Universidade Federal do Pará - Belém
+- 21 years old
+! Programmer focused on Bioinformatics tools and pipelines
+# Main Focus: Bash, Powershell, Linux,HPC, Nextflow, Python and Bioinformatics
+```
 # About me
-Hello there, my name is Davi Marcon, I'm 21 years old and my main interests are: Bioinformatics specially focused on bacterial resistance genes prediction, Metagenomics for interest genes discovery and everything related to bacteriology 🔬, I also a terminal ui fan.
+My name is Davi Marcon, my main interests are: Bioinformatics specially focused on bacterial resistance genes prediction, Metagenomics for interest genes discovery and everything related to bacteriology 🔬, I also a terminal ui fan.
 
 ## Academic info
 I'm a Biotechnology graduation student at [UFPA - Federal University of Pará (Pará, Brazil)](https://ufpa.br).
