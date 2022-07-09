@@ -1,7 +1,7 @@
 ```diff
 Hi, I'm Davi 🧑🏻‍🎓.
 
-@@I'm a Biotechnology Student@@
+@@Biotechnology Student@@
 + Living in Ananindeua, Brazil 🇧🇷.
 + Universidade Federal do Pará - Belém
 - 21 years old
@@ -31,9 +31,11 @@ I'm also learning how to implement pipelines on Nextflow.
 ![Powershell](https://api.iconify.design/cib/powershell.svg?width=30&height=30&color=%232671be)
 
 ## My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrcon&layout=compact&hide=tex,css,html,scss,ruby&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mxrcon&layout=compact&hide=tex,css,html,scss,ruby&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=nightowl&show_icons=true" height="200" width= 430 align= left />
 
-![Mxrcon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxrcon&show_icons=true&theme=nightowl)
+<img src="https://github-readme-stats.vercel.app/api?username=Mxrcon&show_icons=true&theme=nightowl&show_icons=true" height="200" />
+
+
 
 ---
 
