@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-2. ⭐ Starred [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine)
-3. ⭐ Starred [ewels/rich-codex](https://github.com/ewels/rich-codex)
-4. ⭐ Starred [pditommaso/nf-secrets](https://github.com/pditommaso/nf-secrets)
-5. ⭐ Starred [TobyBaril/EarlGrey](https://github.com/TobyBaril/EarlGrey)
+1. ⭐ Starred [walkthru/walkthru](https://github.com/walkthru/walkthru)
+2. ⭐ Starred [conda-incubator/grayskull](https://github.com/conda-incubator/grayskull)
+3. ⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+4. ⭐ Starred [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine)
+5. ⭐ Starred [ewels/rich-codex](https://github.com/ewels/rich-codex)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 12th, 2022, 12:37:52 AM
+Last Updated: Tuesday, July 12th, 2022, 8:13:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
