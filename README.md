@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [walkthru/walkthru](https://github.com/walkthru/walkthru)
-2. ⭐ Starred [conda-incubator/grayskull](https://github.com/conda-incubator/grayskull)
-3. ⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-4. ⭐ Starred [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine)
-5. ⭐ Starred [ewels/rich-codex](https://github.com/ewels/rich-codex)
+1. ⭐ Starred [Merck/deepbgc](https://github.com/Merck/deepbgc)
+2. ⭐ Starred [SciLifeLab/standalone_scripts](https://github.com/SciLifeLab/standalone_scripts)
+3. ⭐ Starred [FranBonath/standalone_scripts](https://github.com/FranBonath/standalone_scripts)
+4. ⭐ Starred [lukasjelonek/nextflow-dsl-migration-example](https://github.com/lukasjelonek/nextflow-dsl-migration-example)
+5. ⭐ Starred [Mxrcon/BioNameGenerator](https://github.com/Mxrcon/BioNameGenerator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 12th, 2022, 8:13:45 AM
+Last Updated: Tuesday, July 12th, 2022, 2:16:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
