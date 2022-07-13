@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lh3/biofast](https://github.com/lh3/biofast)
-2. ⭐ Starred [nh13/gget](https://github.com/nh13/gget)
-3. ⭐ Starred [dib-lab/khmer](https://github.com/dib-lab/khmer)
-4. ⭐ Starred [dariober/ASCIIGenome](https://github.com/dariober/ASCIIGenome)
-5. ⭐ Starred [Merck/deepbgc](https://github.com/Merck/deepbgc)
+1. ⭐ Starred [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo)
+2. ⭐ Starred [althonos/rich-msa](https://github.com/althonos/rich-msa)
+3. ⭐ Starred [lh3/biofast](https://github.com/lh3/biofast)
+4. ⭐ Starred [nh13/gget](https://github.com/nh13/gget)
+5. ⭐ Starred [dib-lab/khmer](https://github.com/dib-lab/khmer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 12th, 2022, 8:06:53 PM
+Last Updated: Wednesday, July 13th, 2022, 12:35:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
