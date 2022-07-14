@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo)
-2. ⭐ Starred [althonos/rich-msa](https://github.com/althonos/rich-msa)
-3. ⭐ Starred [lh3/biofast](https://github.com/lh3/biofast)
-4. ⭐ Starred [nh13/gget](https://github.com/nh13/gget)
-5. ⭐ Starred [dib-lab/khmer](https://github.com/dib-lab/khmer)
+1. ⭐ Starred [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog)
+2. ⭐ Starred [Amadevus/pwsh-script](https://github.com/Amadevus/pwsh-script)
+3. ⭐ Starred [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
+4. ⭐ Starred [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo)
+5. ⭐ Starred [althonos/rich-msa](https://github.com/althonos/rich-msa)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 13th, 2022, 8:07:01 PM
+Last Updated: Thursday, July 14th, 2022, 12:41:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
