@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [telatin/getreads](https://github.com/telatin/getreads)
-2. ⭐ Starred [rseng/awesome-infra](https://github.com/rseng/awesome-infra)
-3. ❗️ Opened issue [#3034](https://github.com/nextflow-io/nextflow/issues/3034) in [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)
-4. ⭐ Starred [techthoughts2/PoshGram](https://github.com/techthoughts2/PoshGram)
-5. ⭐ Starred [ghosind/Jekyll-Paper](https://github.com/ghosind/Jekyll-Paper)
+1. ⭐ Starred [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
+2. ⭐ Starred [telatin/getreads](https://github.com/telatin/getreads)
+3. ⭐ Starred [rseng/awesome-infra](https://github.com/rseng/awesome-infra)
+4. ❗️ Opened issue [#3034](https://github.com/nextflow-io/nextflow/issues/3034) in [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)
+5. ⭐ Starred [techthoughts2/PoshGram](https://github.com/techthoughts2/PoshGram)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 15th, 2022, 8:08:39 AM
+Last Updated: Friday, July 15th, 2022, 2:21:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
