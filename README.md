@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [techthoughts2/PoshGram](https://github.com/techthoughts2/PoshGram)
-2. ⭐ Starred [ghosind/Jekyll-Paper](https://github.com/ghosind/Jekyll-Paper)
-3. ⭐ Starred [h3abionet/h3agwas-examples](https://github.com/h3abionet/h3agwas-examples)
-4. ⭐ Starred [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog)
-5. ⭐ Starred [Amadevus/pwsh-script](https://github.com/Amadevus/pwsh-script)
+1. ⭐ Starred [telatin/getreads](https://github.com/telatin/getreads)
+2. ⭐ Starred [rseng/awesome-infra](https://github.com/rseng/awesome-infra)
+3. ❗️ Opened issue [#3034](https://github.com/nextflow-io/nextflow/issues/3034) in [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)
+4. ⭐ Starred [techthoughts2/PoshGram](https://github.com/techthoughts2/PoshGram)
+5. ⭐ Starred [ghosind/Jekyll-Paper](https://github.com/ghosind/Jekyll-Paper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 15th, 2022, 12:42:15 AM
+Last Updated: Friday, July 15th, 2022, 8:08:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
