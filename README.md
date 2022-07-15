@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
-2. ⭐ Starred [telatin/getreads](https://github.com/telatin/getreads)
-3. ⭐ Starred [rseng/awesome-infra](https://github.com/rseng/awesome-infra)
-4. ❗️ Opened issue [#3034](https://github.com/nextflow-io/nextflow/issues/3034) in [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)
-5. ⭐ Starred [techthoughts2/PoshGram](https://github.com/techthoughts2/PoshGram)
+1. ⭐ Starred [rstolpe/PowerShell-Scripts](https://github.com/rstolpe/PowerShell-Scripts)
+2. 🔱 Forked [Mxrcon/100-days-of-code](https://github.com/Mxrcon/100-days-of-code) from [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
+3. ⭐ Starred [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
+4. ⭐ Starred [telatin/getreads](https://github.com/telatin/getreads)
+5. ⭐ Starred [rseng/awesome-infra](https://github.com/rseng/awesome-infra)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 15th, 2022, 2:21:41 PM
+Last Updated: Friday, July 15th, 2022, 8:06:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
