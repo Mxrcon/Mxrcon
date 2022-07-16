@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer)
-2. ⭐ Starred [rstolpe/PowerShell-Scripts](https://github.com/rstolpe/PowerShell-Scripts)
-3. 🔱 Forked [Mxrcon/100-days-of-code](https://github.com/Mxrcon/100-days-of-code) from [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
-4. ⭐ Starred [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
-5. ⭐ Starred [telatin/getreads](https://github.com/telatin/getreads)
+1. ⭐ Starred [medema-group/bigfamdb](https://github.com/medema-group/bigfamdb)
+2. ⭐ Starred [Jacalz/ghdstats](https://github.com/Jacalz/ghdstats)
+3. ⭐ Starred [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer)
+4. ⭐ Starred [rstolpe/PowerShell-Scripts](https://github.com/rstolpe/PowerShell-Scripts)
+5. 🔱 Forked [Mxrcon/100-days-of-code](https://github.com/Mxrcon/100-days-of-code) from [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 16th, 2022, 8:07:54 AM
+Last Updated: Saturday, July 16th, 2022, 2:06:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
