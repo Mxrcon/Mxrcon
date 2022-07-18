@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [medema-group/bigfamdb](https://github.com/medema-group/bigfamdb)
-2. ⭐ Starred [Jacalz/ghdstats](https://github.com/Jacalz/ghdstats)
-3. ⭐ Starred [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer)
-4. ⭐ Starred [rstolpe/PowerShell-Scripts](https://github.com/rstolpe/PowerShell-Scripts)
-5. 🔱 Forked [Mxrcon/100-days-of-code](https://github.com/Mxrcon/100-days-of-code) from [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
+1. ⭐ Starred [Aryan-sharma11/Show_Directory](https://github.com/Aryan-sharma11/Show_Directory)
+2. ⭐ Starred [medema-group/bigfamdb](https://github.com/medema-group/bigfamdb)
+3. ⭐ Starred [Jacalz/ghdstats](https://github.com/Jacalz/ghdstats)
+4. ⭐ Starred [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer)
+5. ⭐ Starred [rstolpe/PowerShell-Scripts](https://github.com/rstolpe/PowerShell-Scripts)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 18th, 2022, 8:10:06 AM
+Last Updated: Monday, July 18th, 2022, 2:20:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
