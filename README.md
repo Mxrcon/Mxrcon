@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kevinsblake/NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes)
-2. ⭐ Starred [Aryan-sharma11/Show_Directory](https://github.com/Aryan-sharma11/Show_Directory)
-3. ⭐ Starred [medema-group/bigfamdb](https://github.com/medema-group/bigfamdb)
-4. ⭐ Starred [Jacalz/ghdstats](https://github.com/Jacalz/ghdstats)
-5. ⭐ Starred [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer)
+1. ⭐ Starred [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+2. ❗️ Opened issue [#3](https://github.com/Mxrcon/BioNameGenerator/issues/3) in [Mxrcon/BioNameGenerator](https://github.com/Mxrcon/BioNameGenerator)
+3. ⭐ Starred [fcrespo82/ubuntu-name-generator](https://github.com/fcrespo82/ubuntu-name-generator)
+4. ⭐ Starred [kevinsblake/NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes)
+5. ⭐ Starred [Aryan-sharma11/Show_Directory](https://github.com/Aryan-sharma11/Show_Directory)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 19th, 2022, 8:07:12 PM
+Last Updated: Wednesday, July 20th, 2022, 12:33:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
