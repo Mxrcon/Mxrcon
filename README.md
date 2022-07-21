@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rpetit3/pasty](https://github.com/rpetit3/pasty)
-2. ⭐ Starred [nh13/DWGSIM](https://github.com/nh13/DWGSIM)
-3. ⭐ Starred [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❗️ Opened issue [#3](https://github.com/Mxrcon/BioNameGenerator/issues/3) in [Mxrcon/BioNameGenerator](https://github.com/Mxrcon/BioNameGenerator)
-5. ⭐ Starred [fcrespo82/ubuntu-name-generator](https://github.com/fcrespo82/ubuntu-name-generator)
+1. ⭐ Starred [joshcorr/SecretManagement.Hashicorp.Vault.KV](https://github.com/joshcorr/SecretManagement.Hashicorp.Vault.KV)
+2. ⭐ Starred [rpetit3/pasty](https://github.com/rpetit3/pasty)
+3. ⭐ Starred [nh13/DWGSIM](https://github.com/nh13/DWGSIM)
+4. ⭐ Starred [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. ❗️ Opened issue [#3](https://github.com/Mxrcon/BioNameGenerator/issues/3) in [Mxrcon/BioNameGenerator](https://github.com/Mxrcon/BioNameGenerator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 21st, 2022, 8:09:01 AM
+Last Updated: Thursday, July 21st, 2022, 2:07:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
