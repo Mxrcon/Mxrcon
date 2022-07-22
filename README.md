@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joshcorr/SecretManagement.Hashicorp.Vault.KV](https://github.com/joshcorr/SecretManagement.Hashicorp.Vault.KV)
-2. ⭐ Starred [rpetit3/pasty](https://github.com/rpetit3/pasty)
-3. ⭐ Starred [nh13/DWGSIM](https://github.com/nh13/DWGSIM)
-4. ⭐ Starred [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-5. ❗️ Opened issue [#3](https://github.com/Mxrcon/BioNameGenerator/issues/3) in [Mxrcon/BioNameGenerator](https://github.com/Mxrcon/BioNameGenerator)
+1. ⭐ Starred [grp-bork/gunc](https://github.com/grp-bork/gunc)
+2. ⭐ Starred [joshcorr/SecretManagement.Hashicorp.Vault.KV](https://github.com/joshcorr/SecretManagement.Hashicorp.Vault.KV)
+3. ⭐ Starred [rpetit3/pasty](https://github.com/rpetit3/pasty)
+4. ⭐ Starred [nh13/DWGSIM](https://github.com/nh13/DWGSIM)
+5. ⭐ Starred [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 22nd, 2022, 12:42:10 AM
+Last Updated: Friday, July 22nd, 2022, 8:10:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
