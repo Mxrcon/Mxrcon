@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [grp-bork/gunc](https://github.com/grp-bork/gunc)
-2. ⭐ Starred [joshcorr/SecretManagement.Hashicorp.Vault.KV](https://github.com/joshcorr/SecretManagement.Hashicorp.Vault.KV)
-3. ⭐ Starred [rpetit3/pasty](https://github.com/rpetit3/pasty)
-4. ⭐ Starred [nh13/DWGSIM](https://github.com/nh13/DWGSIM)
-5. ⭐ Starred [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. ⭐ Starred [mgunyho/tere](https://github.com/mgunyho/tere)
+2. ⭐ Starred [grp-bork/gunc](https://github.com/grp-bork/gunc)
+3. ⭐ Starred [joshcorr/SecretManagement.Hashicorp.Vault.KV](https://github.com/joshcorr/SecretManagement.Hashicorp.Vault.KV)
+4. ⭐ Starred [rpetit3/pasty](https://github.com/rpetit3/pasty)
+5. ⭐ Starred [nh13/DWGSIM](https://github.com/nh13/DWGSIM)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 23rd, 2022, 2:05:23 PM
+Last Updated: Saturday, July 23rd, 2022, 8:06:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
