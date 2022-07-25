@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mgunyho/tere](https://github.com/mgunyho/tere)
-2. ⭐ Starred [grp-bork/gunc](https://github.com/grp-bork/gunc)
-3. ⭐ Starred [joshcorr/SecretManagement.Hashicorp.Vault.KV](https://github.com/joshcorr/SecretManagement.Hashicorp.Vault.KV)
-4. ⭐ Starred [rpetit3/pasty](https://github.com/rpetit3/pasty)
-5. ⭐ Starred [nh13/DWGSIM](https://github.com/nh13/DWGSIM)
+1. ⭐ Starred [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+2. ⭐ Starred [sudhakar3697/electron-alternatives](https://github.com/sudhakar3697/electron-alternatives)
+3. ⭐ Starred [SquitchYT/Tess](https://github.com/SquitchYT/Tess)
+4. ⭐ Starred [Daniel-Liu-c0deb0t/cute-nucleotides](https://github.com/Daniel-Liu-c0deb0t/cute-nucleotides)
+5. ⭐ Starred [massCodeIO/massCode](https://github.com/massCodeIO/massCode)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 25th, 2022, 2:09:24 PM
+Last Updated: Monday, July 25th, 2022, 8:06:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
