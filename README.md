@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kcmvp/groovysh](https://github.com/kcmvp/groovysh)
-2. ⭐ Starred [Notselwyn/Notselwyn](https://github.com/Notselwyn/Notselwyn)
-3. ⭐ Starred [divonlan/genozip](https://github.com/divonlan/genozip)
-4. ⭐ Starred [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-5. ⭐ Starred [sudhakar3697/electron-alternatives](https://github.com/sudhakar3697/electron-alternatives)
+1. 💪 Opened PR [#3](https://github.com/bactopia/bactopia.github.io/pull/3) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
+2. 🔱 Forked [Mxrcon/bactopia.github.io](https://github.com/Mxrcon/bactopia.github.io) from [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
+3. ⭐ Starred [kcmvp/groovysh](https://github.com/kcmvp/groovysh)
+4. ⭐ Starred [Notselwyn/Notselwyn](https://github.com/Notselwyn/Notselwyn)
+5. ⭐ Starred [divonlan/genozip](https://github.com/divonlan/genozip)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 28th, 2022, 2:09:07 PM
+Last Updated: Thursday, July 28th, 2022, 8:06:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
