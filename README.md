@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CDCgov/seqsender](https://github.com/CDCgov/seqsender)
-2. ⭐ Starred [marcell0lopes/gofinances](https://github.com/marcell0lopes/gofinances)
-3. ⭐ Starred [rpetit3/fastq-scan](https://github.com/rpetit3/fastq-scan)
-4. 💪 Opened PR [#3](https://github.com/bactopia/bactopia.github.io/pull/3) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
-5. 🔱 Forked [Mxrcon/bactopia.github.io](https://github.com/Mxrcon/bactopia.github.io) from [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
+1. ⭐ Starred [abhi18av/parallel-tbprofiler-conda-test-nf](https://github.com/abhi18av/parallel-tbprofiler-conda-test-nf)
+2. ⭐ Starred [fulcrumgenomics/fqgrep](https://github.com/fulcrumgenomics/fqgrep)
+3. ⭐ Starred [hashicorp/nomad](https://github.com/hashicorp/nomad)
+4. ⭐ Starred [CDCgov/seqsender](https://github.com/CDCgov/seqsender)
+5. ⭐ Starred [marcell0lopes/gofinances](https://github.com/marcell0lopes/gofinances)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 30th, 2022, 2:05:52 PM
+Last Updated: Saturday, July 30th, 2022, 8:06:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
