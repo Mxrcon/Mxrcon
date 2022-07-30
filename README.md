@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rpetit3/fastq-scan](https://github.com/rpetit3/fastq-scan)
-2. 💪 Opened PR [#3](https://github.com/bactopia/bactopia.github.io/pull/3) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
-3. 🔱 Forked [Mxrcon/bactopia.github.io](https://github.com/Mxrcon/bactopia.github.io) from [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
-4. ⭐ Starred [kcmvp/groovysh](https://github.com/kcmvp/groovysh)
-5. ⭐ Starred [Notselwyn/Notselwyn](https://github.com/Notselwyn/Notselwyn)
+1. ⭐ Starred [marcell0lopes/gofinances](https://github.com/marcell0lopes/gofinances)
+2. ⭐ Starred [rpetit3/fastq-scan](https://github.com/rpetit3/fastq-scan)
+3. 💪 Opened PR [#3](https://github.com/bactopia/bactopia.github.io/pull/3) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
+4. 🔱 Forked [Mxrcon/bactopia.github.io](https://github.com/Mxrcon/bactopia.github.io) from [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
+5. ⭐ Starred [kcmvp/groovysh](https://github.com/kcmvp/groovysh)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 29th, 2022, 8:07:46 PM
+Last Updated: Saturday, July 30th, 2022, 12:32:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
