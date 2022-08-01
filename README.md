@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abhi18av/parallel-tbprofiler-conda-test-nf](https://github.com/abhi18av/parallel-tbprofiler-conda-test-nf)
-2. ⭐ Starred [fulcrumgenomics/fqgrep](https://github.com/fulcrumgenomics/fqgrep)
-3. ⭐ Starred [hashicorp/nomad](https://github.com/hashicorp/nomad)
-4. ⭐ Starred [CDCgov/seqsender](https://github.com/CDCgov/seqsender)
-5. ⭐ Starred [marcell0lopes/gofinances](https://github.com/marcell0lopes/gofinances)
+1. ⭐ Starred [jsiebens/rpi-hashistack](https://github.com/jsiebens/rpi-hashistack)
+2. ⭐ Starred [hypriot/flash](https://github.com/hypriot/flash)
+3. ⭐ Starred [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up)
+4. ⭐ Starred [abhi18av/parallel-tbprofiler-conda-test-nf](https://github.com/abhi18av/parallel-tbprofiler-conda-test-nf)
+5. ⭐ Starred [fulcrumgenomics/fqgrep](https://github.com/fulcrumgenomics/fqgrep)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 31st, 2022, 8:07:04 PM
+Last Updated: Monday, August 1st, 2022, 12:43:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
