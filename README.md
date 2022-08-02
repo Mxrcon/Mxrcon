@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jsiebens/rpi-hashistack](https://github.com/jsiebens/rpi-hashistack)
-2. ⭐ Starred [hypriot/flash](https://github.com/hypriot/flash)
-3. ⭐ Starred [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up)
-4. ⭐ Starred [abhi18av/parallel-tbprofiler-conda-test-nf](https://github.com/abhi18av/parallel-tbprofiler-conda-test-nf)
-5. ⭐ Starred [fulcrumgenomics/fqgrep](https://github.com/fulcrumgenomics/fqgrep)
+1. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+2. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
+3. ⭐ Starred [jsiebens/rpi-hashistack](https://github.com/jsiebens/rpi-hashistack)
+4. ⭐ Starred [hypriot/flash](https://github.com/hypriot/flash)
+5. ⭐ Starred [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 1st, 2022, 8:08:44 PM
+Last Updated: Tuesday, August 2nd, 2022, 12:39:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
