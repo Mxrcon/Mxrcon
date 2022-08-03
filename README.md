@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](https://github.com/biosharp-dotnet/sucuri-api/pull/12) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-2. 📔 Created new repository [Mxrcon/Unallowed](https://github.com/Mxrcon/Unallowed)
-3. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-4. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
-5. ⭐ Starred [jsiebens/rpi-hashistack](https://github.com/jsiebens/rpi-hashistack)
+1. ✔️ Closed issue [#1](https://github.com/biosharp-dotnet/sucuri-api/issues/1) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+2. 🎉 Merged PR [#7](https://github.com/biosharp-dotnet/sucuri-api/pull/7) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+3. 💪 Opened PR [#12](https://github.com/biosharp-dotnet/sucuri-api/pull/12) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+4. 📔 Created new repository [Mxrcon/Unallowed](https://github.com/Mxrcon/Unallowed)
+5. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 3rd, 2022, 2:06:27 PM
+Last Updated: Wednesday, August 3rd, 2022, 8:07:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
