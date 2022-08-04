@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rpetit3/pbptyper](https://github.com/rpetit3/pbptyper)
-2. ⭐ Starred [Mxrcon/BioNameGenerator](https://github.com/Mxrcon/BioNameGenerator)
-3. ✔️ Closed issue [#1](https://github.com/biosharp-dotnet/sucuri-api/issues/1) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-4. 🎉 Merged PR [#7](https://github.com/biosharp-dotnet/sucuri-api/pull/7) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-5. 💪 Opened PR [#12](https://github.com/biosharp-dotnet/sucuri-api/pull/12) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+1. ⭐ Starred [burtonator/pdf-annotation-exporter](https://github.com/burtonator/pdf-annotation-exporter)
+2. ⭐ Starred [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf)
+3. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
+4. ⭐ Starred [rpetit3/pbptyper](https://github.com/rpetit3/pbptyper)
+5. ⭐ Starred [Mxrcon/BioNameGenerator](https://github.com/Mxrcon/BioNameGenerator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 4th, 2022, 2:04:43 PM
+Last Updated: Thursday, August 4th, 2022, 8:07:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
