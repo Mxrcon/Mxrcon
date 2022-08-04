@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/biosharp-dotnet/sucuri-api/issues/1) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-2. 🎉 Merged PR [#7](https://github.com/biosharp-dotnet/sucuri-api/pull/7) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-3. 💪 Opened PR [#12](https://github.com/biosharp-dotnet/sucuri-api/pull/12) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-4. 📔 Created new repository [Mxrcon/Unallowed](https://github.com/Mxrcon/Unallowed)
-5. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+1. ⭐ Starred [rpetit3/pbptyper](https://github.com/rpetit3/pbptyper)
+2. ⭐ Starred [Mxrcon/BioNameGenerator](https://github.com/Mxrcon/BioNameGenerator)
+3. ✔️ Closed issue [#1](https://github.com/biosharp-dotnet/sucuri-api/issues/1) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+4. 🎉 Merged PR [#7](https://github.com/biosharp-dotnet/sucuri-api/pull/7) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+5. 💪 Opened PR [#12](https://github.com/biosharp-dotnet/sucuri-api/pull/12) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 4th, 2022, 12:40:46 AM
+Last Updated: Thursday, August 4th, 2022, 8:09:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
