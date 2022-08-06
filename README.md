@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [burtonator/pdf-annotation-exporter](https://github.com/burtonator/pdf-annotation-exporter)
-2. ⭐ Starred [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf)
-3. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
-4. ⭐ Starred [rpetit3/pbptyper](https://github.com/rpetit3/pbptyper)
-5. ⭐ Starred [Mxrcon/BioNameGenerator](https://github.com/Mxrcon/BioNameGenerator)
+1. 💪 Opened PR [#13](https://github.com/biosharp-dotnet/sucuri-api/pull/13) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+2. ⭐ Starred [burtonator/pdf-annotation-exporter](https://github.com/burtonator/pdf-annotation-exporter)
+3. ⭐ Starred [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf)
+4. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
+5. ⭐ Starred [rpetit3/pbptyper](https://github.com/rpetit3/pbptyper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 5th, 2022, 8:07:03 PM
+Last Updated: Saturday, August 6th, 2022, 12:36:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
