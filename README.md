@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#13](https://github.com/biosharp-dotnet/sucuri-api/pull/13) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-2. ⭐ Starred [burtonator/pdf-annotation-exporter](https://github.com/burtonator/pdf-annotation-exporter)
-3. ⭐ Starred [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf)
-4. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
-5. ⭐ Starred [rpetit3/pbptyper](https://github.com/rpetit3/pbptyper)
+1. ⭐ Starred [mylxsw/redis-tui](https://github.com/mylxsw/redis-tui)
+2. 💪 Opened PR [#13](https://github.com/biosharp-dotnet/sucuri-api/pull/13) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+3. ⭐ Starred [burtonator/pdf-annotation-exporter](https://github.com/burtonator/pdf-annotation-exporter)
+4. ⭐ Starred [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf)
+5. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 6th, 2022, 8:09:35 AM
+Last Updated: Saturday, August 6th, 2022, 2:04:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
