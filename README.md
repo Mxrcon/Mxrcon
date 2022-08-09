@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ponnhide/pyCircos](https://github.com/ponnhide/pyCircos)
-2. ⭐ Starred [YaoLab-Bioinfo/shinyCircos](https://github.com/YaoLab-Bioinfo/shinyCircos)
-3. ⭐ Starred [narunlifescience/runcircos-gui](https://github.com/narunlifescience/runcircos-gui)
-4. ⭐ Starred [mylxsw/redis-tui](https://github.com/mylxsw/redis-tui)
-5. 💪 Opened PR [#13](https://github.com/biosharp-dotnet/sucuri-api/pull/13) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+1. ⭐ Starred [jenniferlu717/KrakenTools](https://github.com/jenniferlu717/KrakenTools)
+2. ⭐ Starred [mdsufz/MuDoGeR](https://github.com/mdsufz/MuDoGeR)
+3. ⭐ Starred [sharkdp/bat](https://github.com/sharkdp/bat)
+4. ⭐ Starred [Y2Z/monolith](https://github.com/Y2Z/monolith)
+5. ⭐ Starred [birdayz/kaf](https://github.com/birdayz/kaf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 8th, 2022, 8:07:02 PM
+Last Updated: Tuesday, August 9th, 2022, 12:41:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
