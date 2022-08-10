@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jenniferlu717/KrakenTools](https://github.com/jenniferlu717/KrakenTools)
-2. ⭐ Starred [mdsufz/MuDoGeR](https://github.com/mdsufz/MuDoGeR)
-3. ⭐ Starred [sharkdp/bat](https://github.com/sharkdp/bat)
-4. ⭐ Starred [Y2Z/monolith](https://github.com/Y2Z/monolith)
-5. ⭐ Starred [birdayz/kaf](https://github.com/birdayz/kaf)
+1. 💪 Opened PR [#73](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/73) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
+2. ⭐ Starred [jenniferlu717/KrakenTools](https://github.com/jenniferlu717/KrakenTools)
+3. ⭐ Starred [mdsufz/MuDoGeR](https://github.com/mdsufz/MuDoGeR)
+4. ⭐ Starred [sharkdp/bat](https://github.com/sharkdp/bat)
+5. ⭐ Starred [Y2Z/monolith](https://github.com/Y2Z/monolith)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 10th, 2022, 2:04:35 PM
+Last Updated: Wednesday, August 10th, 2022, 8:07:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
