@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [localstack/localstack](https://github.com/localstack/localstack)
-2. 💪 Opened PR [#73](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/73) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
-3. ⭐ Starred [jenniferlu717/KrakenTools](https://github.com/jenniferlu717/KrakenTools)
-4. ⭐ Starred [mdsufz/MuDoGeR](https://github.com/mdsufz/MuDoGeR)
-5. ⭐ Starred [sharkdp/bat](https://github.com/sharkdp/bat)
+1. ⭐ Starred [ddo/fast](https://github.com/ddo/fast)
+2. ⭐ Starred [j3551ca/fluflo](https://github.com/j3551ca/fluflo)
+3. ⭐ Starred [commsor/titanoboa](https://github.com/commsor/titanoboa)
+4. ⭐ Starred [localstack/localstack](https://github.com/localstack/localstack)
+5. 💪 Opened PR [#73](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/73) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 12th, 2022, 2:07:07 PM
+Last Updated: Friday, August 12th, 2022, 8:07:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
