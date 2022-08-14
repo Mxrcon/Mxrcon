@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [erinyoung/roundabout](https://github.com/erinyoung/roundabout)
-2. ⭐ Starred [ddo/fast](https://github.com/ddo/fast)
-3. ⭐ Starred [j3551ca/fluflo](https://github.com/j3551ca/fluflo)
-4. ⭐ Starred [commsor/titanoboa](https://github.com/commsor/titanoboa)
-5. ⭐ Starred [localstack/localstack](https://github.com/localstack/localstack)
+1. ⭐ Starred [terkelg/prompts](https://github.com/terkelg/prompts)
+2. ⭐ Starred [chriskuech/functional](https://github.com/chriskuech/functional)
+3. ⭐ Starred [fsprojects/FSharpPlus](https://github.com/fsprojects/FSharpPlus)
+4. ⭐ Starred [erinyoung/roundabout](https://github.com/erinyoung/roundabout)
+5. ⭐ Starred [ddo/fast](https://github.com/ddo/fast)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 14th, 2022, 2:05:13 PM
+Last Updated: Sunday, August 14th, 2022, 8:06:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
