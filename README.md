@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-2. ⭐ Starred [biosharp-dotnet/HashiProd](https://github.com/biosharp-dotnet/HashiProd)
-3. 👍 Approved [#21](https://github.com/biosharp-dotnet/sucuri-api/pull/21#pullrequestreview-1074145601) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-4. ⭐ Starred [terkelg/prompts](https://github.com/terkelg/prompts)
-5. ⭐ Starred [chriskuech/functional](https://github.com/chriskuech/functional)
+1. ⭐ Starred [onwidget/astrowind](https://github.com/onwidget/astrowind)
+2. ⭐ Starred [CDCgov/MicrobeTrace](https://github.com/CDCgov/MicrobeTrace)
+3. ⭐ Starred [jdidion/atropos](https://github.com/jdidion/atropos)
+4. ⭐ Starred [unixorn/gitlike-commands](https://github.com/unixorn/gitlike-commands)
+5. ⭐ Starred [Nextomics/NextPolish](https://github.com/Nextomics/NextPolish)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 25th, 2022, 12:43:45 AM
+Last Updated: Thursday, August 25th, 2022, 8:11:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
