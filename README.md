@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [onwidget/astrowind](https://github.com/onwidget/astrowind)
-2. ⭐ Starred [CDCgov/MicrobeTrace](https://github.com/CDCgov/MicrobeTrace)
-3. ⭐ Starred [jdidion/atropos](https://github.com/jdidion/atropos)
-4. ⭐ Starred [unixorn/gitlike-commands](https://github.com/unixorn/gitlike-commands)
-5. ⭐ Starred [Nextomics/NextPolish](https://github.com/Nextomics/NextPolish)
+1. ⭐ Starred [teamdigitale/licenses](https://github.com/teamdigitale/licenses)
+2. 🔱 Forked [Mxrcon/licenses](https://github.com/Mxrcon/licenses) from [teamdigitale/licenses](https://github.com/teamdigitale/licenses)
+3. ⭐ Starred [onwidget/astrowind](https://github.com/onwidget/astrowind)
+4. ⭐ Starred [CDCgov/MicrobeTrace](https://github.com/CDCgov/MicrobeTrace)
+5. ⭐ Starred [jdidion/atropos](https://github.com/jdidion/atropos)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 29th, 2022, 2:08:41 PM
+Last Updated: Monday, August 29th, 2022, 8:07:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
