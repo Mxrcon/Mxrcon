@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit)
-2. ⭐ Starred [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh)
-3. ⭐ Starred [kurtbuilds/checkexec](https://github.com/kurtbuilds/checkexec)
-4. ⭐ Starred [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry)
-5. ⭐ Starred [mawww/kakoune](https://github.com/mawww/kakoune)
+1. ⭐ Starred [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic)
+2. ⭐ Starred [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit)
+3. ⭐ Starred [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh)
+4. ⭐ Starred [kurtbuilds/checkexec](https://github.com/kurtbuilds/checkexec)
+5. ⭐ Starred [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 2nd, 2022, 8:08:55 AM
+Last Updated: Friday, September 2nd, 2022, 2:06:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
