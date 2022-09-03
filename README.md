@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great)
-2. ⭐ Starred [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic)
-3. ⭐ Starred [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit)
-4. ⭐ Starred [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh)
-5. ⭐ Starred [kurtbuilds/checkexec](https://github.com/kurtbuilds/checkexec)
+1. ✔️ Closed issue [#23](https://github.com/biosharp-dotnet/sucuri-api/issues/23) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+2. ✔️ Closed issue [#18](https://github.com/biosharp-dotnet/sucuri-api/issues/18) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+3. 🎉 Merged PR [#27](https://github.com/biosharp-dotnet/sucuri-api/pull/27) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+4. ⭐ Starred [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great)
+5. ⭐ Starred [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 3rd, 2022, 2:06:25 PM
+Last Updated: Saturday, September 3rd, 2022, 8:07:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
