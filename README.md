@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic)
-2. ⭐ Starred [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit)
-3. ⭐ Starred [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh)
-4. ⭐ Starred [kurtbuilds/checkexec](https://github.com/kurtbuilds/checkexec)
-5. ⭐ Starred [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry)
+1. ⭐ Starred [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great)
+2. ⭐ Starred [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic)
+3. ⭐ Starred [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit)
+4. ⭐ Starred [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh)
+5. ⭐ Starred [kurtbuilds/checkexec](https://github.com/kurtbuilds/checkexec)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 3rd, 2022, 12:35:46 AM
+Last Updated: Saturday, September 3rd, 2022, 8:08:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
