@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#23](https://github.com/biosharp-dotnet/sucuri-api/issues/23) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-2. ✔️ Closed issue [#18](https://github.com/biosharp-dotnet/sucuri-api/issues/18) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-3. 🎉 Merged PR [#27](https://github.com/biosharp-dotnet/sucuri-api/pull/27) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-4. ⭐ Starred [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great)
-5. ⭐ Starred [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic)
+1. ⭐ Starred [Kruptein/PlanarAlly](https://github.com/Kruptein/PlanarAlly)
+2. ✔️ Closed issue [#23](https://github.com/biosharp-dotnet/sucuri-api/issues/23) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+3. ✔️ Closed issue [#18](https://github.com/biosharp-dotnet/sucuri-api/issues/18) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+4. 🎉 Merged PR [#27](https://github.com/biosharp-dotnet/sucuri-api/pull/27) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+5. ⭐ Starred [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 4th, 2022, 12:40:46 AM
+Last Updated: Sunday, September 4th, 2022, 8:08:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
