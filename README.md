@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [timvisee/send](https://github.com/timvisee/send)
-2. ⭐ Starred [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. ⭐ Starred [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto)
-4. ⭐ Starred [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)
-5. ⭐ Starred [zehfernandes/wordnote](https://github.com/zehfernandes/wordnote)
+1. ⭐ Starred [telatin/seqfu2](https://github.com/telatin/seqfu2)
+2. ⭐ Starred [timvisee/send](https://github.com/timvisee/send)
+3. ⭐ Starred [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. ⭐ Starred [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto)
+5. ⭐ Starred [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 11th, 2022, 12:40:17 AM
+Last Updated: Sunday, September 11th, 2022, 8:08:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
