@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [withfig/fig](https://github.com/withfig/fig)
-2. ⭐ Starred [larrychristensen/orcpub](https://github.com/larrychristensen/orcpub)
-3. ⭐ Starred [Orcpub/orcpub](https://github.com/Orcpub/orcpub)
-4. ⭐ Starred [telatin/seqfu2](https://github.com/telatin/seqfu2)
-5. ⭐ Starred [timvisee/send](https://github.com/timvisee/send)
+1. ⭐ Starred [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)
+2. ⭐ Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+3. ⭐ Starred [emilk/egui](https://github.com/emilk/egui)
+4. ⭐ Starred [withfig/fig](https://github.com/withfig/fig)
+5. ⭐ Starred [larrychristensen/orcpub](https://github.com/larrychristensen/orcpub)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 16th, 2022, 8:09:58 AM
+Last Updated: Friday, September 16th, 2022, 2:19:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
