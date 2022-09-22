@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rpetit3/phoenix](https://github.com/rpetit3/phoenix)
-2. 💪 Opened PR [#28](https://github.com/biosharp-dotnet/sucuri-api/pull/28) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-3. ❗️ Opened issue [#1012](https://github.com/Badgerati/Pode/issues/1012) in [Badgerati/Pode](https://github.com/Badgerati/Pode)
-4. ⭐ Starred [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)
-5. ⭐ Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+1. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+2. ⭐ Starred [rpetit3/phoenix](https://github.com/rpetit3/phoenix)
+3. 💪 Opened PR [#28](https://github.com/biosharp-dotnet/sucuri-api/pull/28) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+4. ❗️ Opened issue [#1012](https://github.com/Badgerati/Pode/issues/1012) in [Badgerati/Pode](https://github.com/Badgerati/Pode)
+5. ⭐ Starred [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 22nd, 2022, 2:17:40 PM
+Last Updated: Thursday, September 22nd, 2022, 8:08:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
