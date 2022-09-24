@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#29](https://github.com/biosharp-dotnet/sucuri-api/pull/29) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-2. ✔️ Closed issue [#1012](https://github.com/Badgerati/Pode/issues/1012) in [Badgerati/Pode](https://github.com/Badgerati/Pode)
-3. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
-4. ⭐ Starred [rpetit3/phoenix](https://github.com/rpetit3/phoenix)
-5. 💪 Opened PR [#28](https://github.com/biosharp-dotnet/sucuri-api/pull/28) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+1. ⭐ Starred [GustavoKatel/tasks.nvim](https://github.com/GustavoKatel/tasks.nvim)
+2. ⭐ Starred [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim)
+3. ⭐ Starred [sheodox/projectlaunch.nvim](https://github.com/sheodox/projectlaunch.nvim)
+4. ⭐ Starred [russell/cue-mode](https://github.com/russell/cue-mode)
+5. 💪 Opened PR [#29](https://github.com/biosharp-dotnet/sucuri-api/pull/29) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 24th, 2022, 8:09:31 AM
+Last Updated: Saturday, September 24th, 2022, 2:05:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
