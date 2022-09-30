@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mbhall88/tbpore](https://github.com/mbhall88/tbpore)
-2. ⭐ Starred [zaeleus/noodles](https://github.com/zaeleus/noodles)
-3. ⭐ Starred [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)
-4. ⭐ Starred [guillermotti/awesome-dagger](https://github.com/guillermotti/awesome-dagger)
-5. ⭐ Starred [GustavoKatel/tasks.nvim](https://github.com/GustavoKatel/tasks.nvim)
+1. ⭐ Starred [encode/httpx](https://github.com/encode/httpx)
+2. ⭐ Starred [mbhall88/tbpore](https://github.com/mbhall88/tbpore)
+3. ⭐ Starred [zaeleus/noodles](https://github.com/zaeleus/noodles)
+4. ⭐ Starred [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)
+5. ⭐ Starred [guillermotti/awesome-dagger](https://github.com/guillermotti/awesome-dagger)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 29th, 2022, 8:09:38 PM
+Last Updated: Friday, September 30th, 2022, 1:06:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
