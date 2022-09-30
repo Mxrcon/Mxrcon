@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [encode/httpx](https://github.com/encode/httpx)
-2. ⭐ Starred [mbhall88/tbpore](https://github.com/mbhall88/tbpore)
-3. ⭐ Starred [zaeleus/noodles](https://github.com/zaeleus/noodles)
-4. ⭐ Starred [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)
-5. ⭐ Starred [guillermotti/awesome-dagger](https://github.com/guillermotti/awesome-dagger)
+1. ⭐ Starred [mine-cetinkaya-rundel/quarto-tip-a-day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day)
+2. ❗️ Opened issue [#76](https://github.com/mtb-bioinformatics/MTBseq-nf/issues/76) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
+3. ⭐ Starred [encode/httpx](https://github.com/encode/httpx)
+4. ⭐ Starred [mbhall88/tbpore](https://github.com/mbhall88/tbpore)
+5. ⭐ Starred [zaeleus/noodles](https://github.com/zaeleus/noodles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 30th, 2022, 8:17:11 AM
+Last Updated: Friday, September 30th, 2022, 2:26:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
