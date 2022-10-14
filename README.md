@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-2. ⭐ Starred [cue-lang/cue](https://github.com/cue-lang/cue)
-3. ⭐ Starred [google/latexify_py](https://github.com/google/latexify_py)
-4. ⭐ Starred [Midnighter/kraken2-bracken-test-db](https://github.com/Midnighter/kraken2-bracken-test-db)
-5. ⭐ Starred [mine-cetinkaya-rundel/quarto-tip-a-day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day)
+1. ⭐ Starred [juliasilge/tidylo](https://github.com/juliasilge/tidylo)
+2. ⭐ Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+3. ⭐ Starred [cue-lang/cue](https://github.com/cue-lang/cue)
+4. ⭐ Starred [google/latexify_py](https://github.com/google/latexify_py)
+5. ⭐ Starred [Midnighter/kraken2-bracken-test-db](https://github.com/Midnighter/kraken2-bracken-test-db)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 13th, 2022, 8:09:01 PM
+Last Updated: Friday, October 14th, 2022, 12:57:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
