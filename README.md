@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. ⭐ Starred [minio/mc](https://github.com/minio/mc)
-3. ⭐ Starred [juliasilge/tidylo](https://github.com/juliasilge/tidylo)
-4. ⭐ Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-5. ⭐ Starred [cue-lang/cue](https://github.com/cue-lang/cue)
+1. ⭐ Starred [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)
+2. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. ⭐ Starred [minio/mc](https://github.com/minio/mc)
+4. ⭐ Starred [juliasilge/tidylo](https://github.com/juliasilge/tidylo)
+5. ⭐ Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 15th, 2022, 8:07:57 PM
+Last Updated: Sunday, October 16th, 2022, 12:52:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
