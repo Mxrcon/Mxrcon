@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)
-2. ⭐ Starred [bioconnector/workshops](https://github.com/bioconnector/workshops)
-3. ⭐ Starred [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown)
-4. ⭐ Starred [erikelisath/keep-to-markdown](https://github.com/erikelisath/keep-to-markdown)
-5. ⭐ Starred [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)
+1. ⭐ Starred [nicgirault/circosJS](https://github.com/nicgirault/circosJS)
+2. ⭐ Starred [fmalmeida/ngs-preprocess](https://github.com/fmalmeida/ngs-preprocess)
+3. ⭐ Starred [amchakra/tosca](https://github.com/amchakra/tosca)
+4. ⭐ Starred [getzola/zola](https://github.com/getzola/zola)
+5. ⭐ Starred [JH36/JH36](https://github.com/JH36/JH36)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 17th, 2022, 2:29:43 PM
+Last Updated: Monday, October 17th, 2022, 8:08:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
