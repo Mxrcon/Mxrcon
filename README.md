@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [drpowell/FriPan](https://github.com/drpowell/FriPan)
-2. ⭐ Starred [tseemann/snippy](https://github.com/tseemann/snippy)
-3. ⭐ Starred [deeptools/pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks)
-4. ⭐ Starred [nidabaci/Forkify-App](https://github.com/nidabaci/Forkify-App)
-5. ⭐ Starred [Yetiowner/Increasing-code-complexity](https://github.com/Yetiowner/Increasing-code-complexity)
+1. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+2. ⭐ Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+3. ⭐ Starred [sanger-tol/blobtoolkit](https://github.com/sanger-tol/blobtoolkit)
+4. ⭐ Starred [ahmedmagds/Redcarpet](https://github.com/ahmedmagds/Redcarpet)
+5. ⭐ Starred [metabase/metabase](https://github.com/metabase/metabase)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 22nd, 2022, 2:10:42 PM
+Last Updated: Saturday, October 22nd, 2022, 8:08:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
