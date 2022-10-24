@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dagger/dagger](https://github.com/dagger/dagger)
-2. ⭐ Starred [vsoch/action-updater](https://github.com/vsoch/action-updater)
-3. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
-4. ⭐ Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-5. ⭐ Starred [sanger-tol/blobtoolkit](https://github.com/sanger-tol/blobtoolkit)
+1. ⭐ Starred [tiangolo/typer](https://github.com/tiangolo/typer)
+2. ⭐ Starred [dagger/dagger](https://github.com/dagger/dagger)
+3. ⭐ Starred [vsoch/action-updater](https://github.com/vsoch/action-updater)
+4. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+5. ⭐ Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 24th, 2022, 8:20:26 AM
+Last Updated: Monday, October 24th, 2022, 2:32:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
