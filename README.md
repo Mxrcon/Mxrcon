@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login)
-2. ⭐ Starred [nextflow-io/nf-hello](https://github.com/nextflow-io/nf-hello)
-3. ⭐ Starred [jean-pierreBoth/archaea](https://github.com/jean-pierreBoth/archaea)
-4. ⭐ Starred [mattermost/mmctl](https://github.com/mattermost/mmctl)
-5. ⭐ Starred [lh3/bwa](https://github.com/lh3/bwa)
+1. ⭐ Starred [robinovitch61/wander](https://github.com/robinovitch61/wander)
+2. ⭐ Starred [charmbracelet/skate](https://github.com/charmbracelet/skate)
+3. ⭐ Starred [macabeus/vscode-fluent](https://github.com/macabeus/vscode-fluent)
+4. ⭐ Starred [nidabaci/adopt-a-pet-project-react-router](https://github.com/nidabaci/adopt-a-pet-project-react-router)
+5. ⭐ Starred [erickeloi/SonarCube-Vagrant](https://github.com/erickeloi/SonarCube-Vagrant)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 27th, 2022, 2:19:45 PM
+Last Updated: Thursday, October 27th, 2022, 8:08:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
