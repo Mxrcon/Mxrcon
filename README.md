@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus)
-2. ⭐ Starred [GabiThume/cactus-light](https://github.com/GabiThume/cactus-light)
-3. ⭐ Starred [artempyanykh/marksman](https://github.com/artempyanykh/marksman)
-4. ⭐ Starred [oracle/oci-powershell-modules](https://github.com/oracle/oci-powershell-modules)
-5. ⭐ Starred [stephanGarland/intro-to-x](https://github.com/stephanGarland/intro-to-x)
+1. 💪 Opened PR [#41](https://github.com/nf-core/gwas/pull/41) in [nf-core/gwas](https://github.com/nf-core/gwas)
+2. ⭐ Starred [f-dangel/backpack](https://github.com/f-dangel/backpack)
+3. ⭐ Starred [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus)
+4. ⭐ Starred [GabiThume/cactus-light](https://github.com/GabiThume/cactus-light)
+5. ⭐ Starred [artempyanykh/marksman](https://github.com/artempyanykh/marksman)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 29th, 2022, 12:35:40 AM
+Last Updated: Saturday, October 29th, 2022, 8:09:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
