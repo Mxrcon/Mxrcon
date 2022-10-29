@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#41](https://github.com/nf-core/gwas/pull/41) in [nf-core/gwas](https://github.com/nf-core/gwas)
-2. ⭐ Starred [f-dangel/backpack](https://github.com/f-dangel/backpack)
-3. ⭐ Starred [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus)
-4. ⭐ Starred [GabiThume/cactus-light](https://github.com/GabiThume/cactus-light)
-5. ⭐ Starred [artempyanykh/marksman](https://github.com/artempyanykh/marksman)
+1. ⭐ Starred [mtb-bioinformatics/MycoVarP-nf](https://github.com/mtb-bioinformatics/MycoVarP-nf)
+2. 💪 Opened PR [#41](https://github.com/nf-core/gwas/pull/41) in [nf-core/gwas](https://github.com/nf-core/gwas)
+3. ⭐ Starred [f-dangel/backpack](https://github.com/f-dangel/backpack)
+4. ⭐ Starred [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus)
+5. ⭐ Starred [GabiThume/cactus-light](https://github.com/GabiThume/cactus-light)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 29th, 2022, 8:09:23 AM
+Last Updated: Saturday, October 29th, 2022, 2:07:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
