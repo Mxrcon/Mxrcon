@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mtb-bioinformatics/MycoVarP-nf](https://github.com/mtb-bioinformatics/MycoVarP-nf)
-2. 💪 Opened PR [#41](https://github.com/nf-core/gwas/pull/41) in [nf-core/gwas](https://github.com/nf-core/gwas)
-3. ⭐ Starred [f-dangel/backpack](https://github.com/f-dangel/backpack)
-4. ⭐ Starred [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus)
-5. ⭐ Starred [GabiThume/cactus-light](https://github.com/GabiThume/cactus-light)
+1. ⭐ Starred [seqeralabs/nf-tower-docs](https://github.com/seqeralabs/nf-tower-docs)
+2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+3. ⭐ Starred [mtb-bioinformatics/MycoVarP-nf](https://github.com/mtb-bioinformatics/MycoVarP-nf)
+4. 💪 Opened PR [#41](https://github.com/nf-core/gwas/pull/41) in [nf-core/gwas](https://github.com/nf-core/gwas)
+5. ⭐ Starred [f-dangel/backpack](https://github.com/f-dangel/backpack)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 30th, 2022, 8:09:09 AM
+Last Updated: Sunday, October 30th, 2022, 2:06:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
