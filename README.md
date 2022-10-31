@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [seqeralabs/nf-tower-docs](https://github.com/seqeralabs/nf-tower-docs)
-2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-3. ⭐ Starred [mtb-bioinformatics/MycoVarP-nf](https://github.com/mtb-bioinformatics/MycoVarP-nf)
-4. 💪 Opened PR [#41](https://github.com/nf-core/gwas/pull/41) in [nf-core/gwas](https://github.com/nf-core/gwas)
-5. ⭐ Starred [f-dangel/backpack](https://github.com/f-dangel/backpack)
+1. ⭐ Starred [google/vimdoc](https://github.com/google/vimdoc)
+2. ⭐ Starred [seqeralabs/nf-tower-docs](https://github.com/seqeralabs/nf-tower-docs)
+3. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+4. ⭐ Starred [mtb-bioinformatics/MycoVarP-nf](https://github.com/mtb-bioinformatics/MycoVarP-nf)
+5. 💪 Opened PR [#41](https://github.com/nf-core/gwas/pull/41) in [nf-core/gwas](https://github.com/nf-core/gwas)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 31st, 2022, 8:11:44 AM
+Last Updated: Monday, October 31st, 2022, 2:19:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
