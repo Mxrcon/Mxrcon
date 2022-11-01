@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google/vimdoc](https://github.com/google/vimdoc)
-2. ⭐ Starred [seqeralabs/nf-tower-docs](https://github.com/seqeralabs/nf-tower-docs)
-3. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-4. ⭐ Starred [mtb-bioinformatics/MycoVarP-nf](https://github.com/mtb-bioinformatics/MycoVarP-nf)
-5. 💪 Opened PR [#41](https://github.com/nf-core/gwas/pull/41) in [nf-core/gwas](https://github.com/nf-core/gwas)
+1. ⭐ Starred [rchikhi/rust-alignbench](https://github.com/rchikhi/rust-alignbench)
+2. ⭐ Starred [google/vimdoc](https://github.com/google/vimdoc)
+3. ⭐ Starred [seqeralabs/nf-tower-docs](https://github.com/seqeralabs/nf-tower-docs)
+4. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+5. ⭐ Starred [mtb-bioinformatics/MycoVarP-nf](https://github.com/mtb-bioinformatics/MycoVarP-nf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 1st, 2022, 2:14:37 PM
+Last Updated: Tuesday, November 1st, 2022, 8:08:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
