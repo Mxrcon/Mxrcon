@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jodyphelan/tbdb](https://github.com/jodyphelan/tbdb)
-2. ⭐ Starred [bioinformatics-lab/bioinfo_rio_vagrant](https://github.com/bioinformatics-lab/bioinfo_rio_vagrant)
-3. ⭐ Starred [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
-4. ⭐ Starred [rchikhi/rust-alignbench](https://github.com/rchikhi/rust-alignbench)
-5. ⭐ Starred [google/vimdoc](https://github.com/google/vimdoc)
+1. ⭐ Starred [jodyphelan/tb-profiler-webdriver](https://github.com/jodyphelan/tb-profiler-webdriver)
+2. ⭐ Starred [samtools/bcftools](https://github.com/samtools/bcftools)
+3. ⭐ Starred [jodyphelan/tbdb](https://github.com/jodyphelan/tbdb)
+4. ⭐ Starred [bioinformatics-lab/bioinfo_rio_vagrant](https://github.com/bioinformatics-lab/bioinfo_rio_vagrant)
+5. ⭐ Starred [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 3rd, 2022, 8:06:11 PM
+Last Updated: Friday, November 4th, 2022, 12:42:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
