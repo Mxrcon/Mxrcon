@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bash-it/bash-it](https://github.com/Bash-it/bash-it)
-2. ⭐ Starred [avantonder/bovisanalyzer](https://github.com/avantonder/bovisanalyzer)
-3. ⭐ Starred [jodyphelan/tb-profiler-webdriver](https://github.com/jodyphelan/tb-profiler-webdriver)
-4. ⭐ Starred [samtools/bcftools](https://github.com/samtools/bcftools)
-5. ⭐ Starred [jodyphelan/tbdb](https://github.com/jodyphelan/tbdb)
+1. ⭐ Starred [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
+2. ⭐ Starred [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
+3. ⭐ Starred [Bash-it/bash-it](https://github.com/Bash-it/bash-it)
+4. ⭐ Starred [avantonder/bovisanalyzer](https://github.com/avantonder/bovisanalyzer)
+5. ⭐ Starred [jodyphelan/tb-profiler-webdriver](https://github.com/jodyphelan/tb-profiler-webdriver)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 13th, 2022, 12:36:26 AM
+Last Updated: Sunday, November 13th, 2022, 8:09:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
