@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [filecoin-project/bacalhau](https://github.com/filecoin-project/bacalhau)
-2. ⭐ Starred [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
-3. ⭐ Starred [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
-4. ⭐ Starred [Bash-it/bash-it](https://github.com/Bash-it/bash-it)
-5. ⭐ Starred [avantonder/bovisanalyzer](https://github.com/avantonder/bovisanalyzer)
+1. ⭐ Starred [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+2. ⭐ Starred [filecoin-project/bacalhau](https://github.com/filecoin-project/bacalhau)
+3. ⭐ Starred [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
+4. ⭐ Starred [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
+5. ⭐ Starred [Bash-it/bash-it](https://github.com/Bash-it/bash-it)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 18th, 2022, 2:07:19 PM
+Last Updated: Friday, November 18th, 2022, 8:07:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
