@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-2. ⭐ Starred [filecoin-project/bacalhau](https://github.com/filecoin-project/bacalhau)
-3. ⭐ Starred [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
-4. ⭐ Starred [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
-5. ⭐ Starred [Bash-it/bash-it](https://github.com/Bash-it/bash-it)
+1. ⭐ Starred [seqeralabs/tower-cli](https://github.com/seqeralabs/tower-cli)
+2. ⭐ Starred [seqeralabs/tower-cli](https://github.com/seqeralabs/tower-cli)
+3. ⭐ Starred [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+4. ⭐ Starred [shenwei356/brename](https://github.com/shenwei356/brename)
+5. ⭐ Starred [Midnighter/nextflow-utility-services](https://github.com/Midnighter/nextflow-utility-services)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 25th, 2022, 8:08:43 AM
+Last Updated: Friday, November 25th, 2022, 2:05:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
