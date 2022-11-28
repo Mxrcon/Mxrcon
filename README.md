@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [seqeralabs/tower-cli](https://github.com/seqeralabs/tower-cli)
-2. ⭐ Starred [seqeralabs/tower-cli](https://github.com/seqeralabs/tower-cli)
-3. ⭐ Starred [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
-4. ⭐ Starred [shenwei356/brename](https://github.com/shenwei356/brename)
-5. ⭐ Starred [Midnighter/nextflow-utility-services](https://github.com/Midnighter/nextflow-utility-services)
+1. ⭐ Starred [xtdb/xtdb-in-a-box](https://github.com/xtdb/xtdb-in-a-box)
+2. ⭐ Starred [xtdb/xtdb](https://github.com/xtdb/xtdb)
+3. ⭐ Starred [sharkdp/fd](https://github.com/sharkdp/fd)
+4. ⭐ Starred [seqeralabs/tower-cli](https://github.com/seqeralabs/tower-cli)
+5. ⭐ Starred [seqeralabs/tower-cli](https://github.com/seqeralabs/tower-cli)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 28th, 2022, 2:06:06 PM
+Last Updated: Monday, November 28th, 2022, 8:06:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
