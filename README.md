@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ironmansoftware/psedit](https://github.com/ironmansoftware/psedit)
+1. ⭐ Starred [schatzlab/genomescope](https://github.com/schatzlab/genomescope)
 2. ⭐ Starred [ironmansoftware/psedit](https://github.com/ironmansoftware/psedit)
-3. ⭐ Starred [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
-4. ⭐ Starred [xtdb/xtdb-in-a-box](https://github.com/xtdb/xtdb-in-a-box)
-5. ⭐ Starred [xtdb/xtdb](https://github.com/xtdb/xtdb)
+3. ⭐ Starred [ironmansoftware/psedit](https://github.com/ironmansoftware/psedit)
+4. ⭐ Starred [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
+5. ⭐ Starred [xtdb/xtdb-in-a-box](https://github.com/xtdb/xtdb-in-a-box)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 29th, 2022, 2:06:08 PM
+Last Updated: Tuesday, November 29th, 2022, 8:06:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
