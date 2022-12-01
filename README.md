@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MDU-PHL/abritamr](https://github.com/MDU-PHL/abritamr)
-2. ⭐ Starred [schatzlab/genomescope](https://github.com/schatzlab/genomescope)
-3. ⭐ Starred [ironmansoftware/psedit](https://github.com/ironmansoftware/psedit)
-4. ⭐ Starred [ironmansoftware/psedit](https://github.com/ironmansoftware/psedit)
-5. ⭐ Starred [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
+1. ⭐ Starred [thevahidal/soul](https://github.com/thevahidal/soul)
+2. ⭐ Starred [Aryan-sharma11/Accuknoox](https://github.com/Aryan-sharma11/Accuknoox)
+3. ⭐ Starred [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)
+4. ⭐ Starred [pangenome/PanSN-spec](https://github.com/pangenome/PanSN-spec)
+5. ⭐ Starred [MDU-PHL/abritamr](https://github.com/MDU-PHL/abritamr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 1st, 2022, 2:06:16 PM
+Last Updated: Thursday, December 1st, 2022, 8:06:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
