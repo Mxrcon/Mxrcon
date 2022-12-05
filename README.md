@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ckunte/ckunte.github.io](https://github.com/ckunte/ckunte.github.io)
-2. ⭐ Starred [ewels/MegaQC](https://github.com/ewels/MegaQC)
-3. ⭐ Starred [mccompas/mc-server](https://github.com/mccompas/mc-server)
-4. ⭐ Starred [thevahidal/soul](https://github.com/thevahidal/soul)
-5. ⭐ Starred [Aryan-sharma11/Accuknoox](https://github.com/Aryan-sharma11/Accuknoox)
+1. ❗️ Opened issue [#32](https://github.com/biosharp-dotnet/sucuri-api/issues/32) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+2. ⭐ Starred [conda-forge/colcon-powershell-feedstock](https://github.com/conda-forge/colcon-powershell-feedstock)
+3. 💪 Opened PR [#31](https://github.com/biosharp-dotnet/sucuri-api/pull/31) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+4. ⭐ Starred [alt-escapism/stdio](https://github.com/alt-escapism/stdio)
+5. ⭐ Starred [ckunte/ckunte.github.io](https://github.com/ckunte/ckunte.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 5th, 2022, 2:05:05 PM
+Last Updated: Monday, December 5th, 2022, 8:06:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
