@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thevahidal/soul](https://github.com/thevahidal/soul)
-2. ⭐ Starred [Aryan-sharma11/Accuknoox](https://github.com/Aryan-sharma11/Accuknoox)
-3. ⭐ Starred [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)
-4. ⭐ Starred [pangenome/PanSN-spec](https://github.com/pangenome/PanSN-spec)
-5. ⭐ Starred [MDU-PHL/abritamr](https://github.com/MDU-PHL/abritamr)
+1. ⭐ Starred [ckunte/ckunte.github.io](https://github.com/ckunte/ckunte.github.io)
+2. ⭐ Starred [ewels/MegaQC](https://github.com/ewels/MegaQC)
+3. ⭐ Starred [mccompas/mc-server](https://github.com/mccompas/mc-server)
+4. ⭐ Starred [thevahidal/soul](https://github.com/thevahidal/soul)
+5. ⭐ Starred [Aryan-sharma11/Accuknoox](https://github.com/Aryan-sharma11/Accuknoox)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 4th, 2022, 8:05:58 PM
+Last Updated: Monday, December 5th, 2022, 12:31:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
