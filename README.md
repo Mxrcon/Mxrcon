@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown)
-2. ⭐ Starred [markedjs/marked](https://github.com/markedjs/marked)
-3. ⭐ Starred [s0/remark-code-extra](https://github.com/s0/remark-code-extra)
-4. ⭐ Starred [remcohaszing/remark-mdx-code-meta](https://github.com/remcohaszing/remark-mdx-code-meta)
-5. ⭐ Starred [vadimgierko/personal-website-next-js](https://github.com/vadimgierko/personal-website-next-js)
+1. ⭐ Starred [RobertMyles/writeMDX](https://github.com/RobertMyles/writeMDX)
+2. 💪 Opened PR [#43](https://github.com/nf-core/gwas/pull/43) in [nf-core/gwas](https://github.com/nf-core/gwas)
+3. ⭐ Starred [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown)
+4. ⭐ Starred [markedjs/marked](https://github.com/markedjs/marked)
+5. ⭐ Starred [s0/remark-code-extra](https://github.com/s0/remark-code-extra)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 9th, 2022, 2:05:04 PM
+Last Updated: Friday, December 9th, 2022, 8:06:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
