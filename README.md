@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#33](https://github.com/biosharp-dotnet/sucuri-api/pull/33) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-2. ❗️ Opened issue [#32](https://github.com/biosharp-dotnet/sucuri-api/issues/32) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-3. ⭐ Starred [conda-forge/colcon-powershell-feedstock](https://github.com/conda-forge/colcon-powershell-feedstock)
-4. 💪 Opened PR [#31](https://github.com/biosharp-dotnet/sucuri-api/pull/31) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-5. ⭐ Starred [alt-escapism/stdio](https://github.com/alt-escapism/stdio)
+1. ⭐ Starred [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown)
+2. ⭐ Starred [markedjs/marked](https://github.com/markedjs/marked)
+3. ⭐ Starred [s0/remark-code-extra](https://github.com/s0/remark-code-extra)
+4. ⭐ Starred [remcohaszing/remark-mdx-code-meta](https://github.com/remcohaszing/remark-mdx-code-meta)
+5. ⭐ Starred [vadimgierko/personal-website-next-js](https://github.com/vadimgierko/personal-website-next-js)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 9th, 2022, 12:33:15 AM
+Last Updated: Friday, December 9th, 2022, 8:08:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
