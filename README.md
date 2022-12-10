@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RobertMyles/writeMDX](https://github.com/RobertMyles/writeMDX)
-2. 💪 Opened PR [#43](https://github.com/nf-core/gwas/pull/43) in [nf-core/gwas](https://github.com/nf-core/gwas)
-3. ⭐ Starred [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown)
-4. ⭐ Starred [markedjs/marked](https://github.com/markedjs/marked)
-5. ⭐ Starred [s0/remark-code-extra](https://github.com/s0/remark-code-extra)
+1. ⭐ Starred [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+2. ⭐ Starred [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. 💪 Opened PR [#34](https://github.com/biosharp-dotnet/sucuri-api/pull/34) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+4. ⭐ Starred [RobertMyles/writeMDX](https://github.com/RobertMyles/writeMDX)
+5. 💪 Opened PR [#43](https://github.com/nf-core/gwas/pull/43) in [nf-core/gwas](https://github.com/nf-core/gwas)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 9th, 2022, 8:06:31 PM
+Last Updated: Saturday, December 10th, 2022, 12:29:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
