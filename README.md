@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [curl/curl](https://github.com/curl/curl)
-2. ❗️ Opened issue [#1045](https://github.com/Badgerati/Pode/issues/1045) in [Badgerati/Pode](https://github.com/Badgerati/Pode)
-3. ⭐ Starred [pcgeek86/PSGitHub](https://github.com/pcgeek86/PSGitHub)
-4. ✔️ Closed issue [#16](https://github.com/biosharp-dotnet/sucuri-api/issues/16) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-5. 🎉 Merged PR [#34](https://github.com/biosharp-dotnet/sucuri-api/pull/34) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+1. ⭐ Starred [lmc297/BTyper3](https://github.com/lmc297/BTyper3)
+2. ⭐ Starred [mamba-org/quetz](https://github.com/mamba-org/quetz)
+3. ⭐ Starred [curl/curl](https://github.com/curl/curl)
+4. ❗️ Opened issue [#1045](https://github.com/Badgerati/Pode/issues/1045) in [Badgerati/Pode](https://github.com/Badgerati/Pode)
+5. ⭐ Starred [pcgeek86/PSGitHub](https://github.com/pcgeek86/PSGitHub)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 13th, 2022, 8:06:55 PM
+Last Updated: Wednesday, December 14th, 2022, 12:32:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
