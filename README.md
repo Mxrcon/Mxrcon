@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [typicode/husky](https://github.com/typicode/husky)
-2. ⭐ Starred [seqeralabs/nf-training-advanced](https://github.com/seqeralabs/nf-training-advanced)
-3. ⭐ Starred [Ramb0a/awesome-structural-bioinformatics](https://github.com/Ramb0a/awesome-structural-bioinformatics)
-4. ⭐ Starred [lmc297/BTyper3](https://github.com/lmc297/BTyper3)
-5. ⭐ Starred [mamba-org/quetz](https://github.com/mamba-org/quetz)
+1. ⭐ Starred [beiko-lab/arete](https://github.com/beiko-lab/arete)
+2. ⭐ Starred [typicode/husky](https://github.com/typicode/husky)
+3. ⭐ Starred [seqeralabs/nf-training-advanced](https://github.com/seqeralabs/nf-training-advanced)
+4. ⭐ Starred [Ramb0a/awesome-structural-bioinformatics](https://github.com/Ramb0a/awesome-structural-bioinformatics)
+5. ⭐ Starred [lmc297/BTyper3](https://github.com/lmc297/BTyper3)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 14th, 2022, 2:04:57 PM
+Last Updated: Wednesday, December 14th, 2022, 8:06:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
