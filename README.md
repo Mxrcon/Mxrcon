@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [WhatsApp/stickers](https://github.com/WhatsApp/stickers)
-2. ⭐ Starred [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
-3. ⭐ Starred [GenomicsAotearoa/Kakapo](https://github.com/GenomicsAotearoa/Kakapo)
-4. ⭐ Starred [iterative/dvc](https://github.com/iterative/dvc)
-5. ⭐ Starred [compgenomr/book](https://github.com/compgenomr/book)
+1. ✔️ Closed issue [#1045](https://github.com/Badgerati/Pode/issues/1045) in [Badgerati/Pode](https://github.com/Badgerati/Pode)
+2. ⭐ Starred [WhatsApp/stickers](https://github.com/WhatsApp/stickers)
+3. ⭐ Starred [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
+4. ⭐ Starred [GenomicsAotearoa/Kakapo](https://github.com/GenomicsAotearoa/Kakapo)
+5. ⭐ Starred [iterative/dvc](https://github.com/iterative/dvc)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 17th, 2022, 8:04:57 PM
+Last Updated: Sunday, December 18th, 2022, 12:31:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
