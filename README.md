@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dsccommunity/NetworkingDsc](https://github.com/dsccommunity/NetworkingDsc)
-2. ⭐ Starred [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
-3. ❗️ Opened issue [#37](https://github.com/devblackops/Stucco/issues/37) in [devblackops/Stucco](https://github.com/devblackops/Stucco)
-4. ⭐ Starred [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle)
-5. ⭐ Starred [folke/lazy.nvim](https://github.com/folke/lazy.nvim)
+1. ⭐ Starred [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint)
+2. ⭐ Starred [dsccommunity/NetworkingDsc](https://github.com/dsccommunity/NetworkingDsc)
+3. ⭐ Starred [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
+4. ❗️ Opened issue [#37](https://github.com/devblackops/Stucco/issues/37) in [devblackops/Stucco](https://github.com/devblackops/Stucco)
+5. ⭐ Starred [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 22nd, 2022, 8:07:52 AM
+Last Updated: Thursday, December 22nd, 2022, 2:04:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
