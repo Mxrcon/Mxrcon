@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GTB-TME/gtbreport2022](https://github.com/GTB-TME/gtbreport2022)
-2. ⭐ Starred [farhat-lab/fast-lineage-caller](https://github.com/farhat-lab/fast-lineage-caller)
-3. ⭐ Starred [farhat-lab/mtb-popstruct-2020](https://github.com/farhat-lab/mtb-popstruct-2020)
-4. ⭐ Starred [shuding/nextra](https://github.com/shuding/nextra)
-5. ⭐ Starred [hpc-social/blog](https://github.com/hpc-social/blog)
+1. ⭐ Starred [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
+2. ⭐ Starred [GTB-TME/gtbreport2022](https://github.com/GTB-TME/gtbreport2022)
+3. ⭐ Starred [farhat-lab/fast-lineage-caller](https://github.com/farhat-lab/fast-lineage-caller)
+4. ⭐ Starred [farhat-lab/mtb-popstruct-2020](https://github.com/farhat-lab/mtb-popstruct-2020)
+5. ⭐ Starred [shuding/nextra](https://github.com/shuding/nextra)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 26th, 2022, 2:03:59 PM
+Last Updated: Monday, December 26th, 2022, 8:06:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
