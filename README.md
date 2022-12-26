@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jart/blink](https://github.com/jart/blink)
-2. ⭐ Starred [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint)
-3. ⭐ Starred [dsccommunity/NetworkingDsc](https://github.com/dsccommunity/NetworkingDsc)
-4. ⭐ Starred [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
-5. ❗️ Opened issue [#37](https://github.com/devblackops/Stucco/issues/37) in [devblackops/Stucco](https://github.com/devblackops/Stucco)
+1. ⭐ Starred [shuding/nextra](https://github.com/shuding/nextra)
+2. ⭐ Starred [hpc-social/blog](https://github.com/hpc-social/blog)
+3. ⭐ Starred [hpc-social/personal-blog](https://github.com/hpc-social/personal-blog)
+4. ⭐ Starred [jart/blink](https://github.com/jart/blink)
+5. ⭐ Starred [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 25th, 2022, 8:05:08 PM
+Last Updated: Monday, December 26th, 2022, 12:32:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
