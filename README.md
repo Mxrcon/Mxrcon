@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
-2. ⭐ Starred [GTB-TME/gtbreport2022](https://github.com/GTB-TME/gtbreport2022)
-3. ⭐ Starred [farhat-lab/fast-lineage-caller](https://github.com/farhat-lab/fast-lineage-caller)
-4. ⭐ Starred [farhat-lab/mtb-popstruct-2020](https://github.com/farhat-lab/mtb-popstruct-2020)
-5. ⭐ Starred [shuding/nextra](https://github.com/shuding/nextra)
+1. ⭐ Starred [jenniferlu717/Bracken](https://github.com/jenniferlu717/Bracken)
+2. ⭐ Starred [prettier/prettier](https://github.com/prettier/prettier)
+3. ⭐ Starred [peazip/PeaZip](https://github.com/peazip/PeaZip)
+4. ⭐ Starred [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
+5. ⭐ Starred [GTB-TME/gtbreport2022](https://github.com/GTB-TME/gtbreport2022)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 28th, 2022, 8:08:03 AM
+Last Updated: Wednesday, December 28th, 2022, 2:04:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
