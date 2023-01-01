@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cloudbase/powershell-yaml](https://github.com/cloudbase/powershell-yaml)
-2. ⭐ Starred [jenniferlu717/Bracken](https://github.com/jenniferlu717/Bracken)
-3. ⭐ Starred [prettier/prettier](https://github.com/prettier/prettier)
-4. ⭐ Starred [peazip/PeaZip](https://github.com/peazip/PeaZip)
-5. ⭐ Starred [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
+1. ⭐ Starred [bagder/everything-curl](https://github.com/bagder/everything-curl)
+2. ⭐ Starred [Badgerati/Pode.Yaml](https://github.com/Badgerati/Pode.Yaml)
+3. ⭐ Starred [jarun/buku](https://github.com/jarun/buku)
+4. ⭐ Starred [cloudbase/powershell-yaml](https://github.com/cloudbase/powershell-yaml)
+5. ⭐ Starred [jenniferlu717/Bracken](https://github.com/jenniferlu717/Bracken)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 31st, 2022, 8:04:37 PM
+Last Updated: Sunday, January 1st, 2023, 12:36:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
