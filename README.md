@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Phil-Factor/PSYaml](https://github.com/Phil-Factor/PSYaml)
-2. ⭐ Starred [veebch/boostbox](https://github.com/veebch/boostbox)
-3. ⭐ Starred [bagder/everything-curl](https://github.com/bagder/everything-curl)
-4. ⭐ Starred [Badgerati/Pode.Yaml](https://github.com/Badgerati/Pode.Yaml)
-5. ⭐ Starred [jarun/buku](https://github.com/jarun/buku)
+1. ⭐ Starred [bcbio/bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen)
+2. ⭐ Starred [biobakery/Maaslin2](https://github.com/biobakery/Maaslin2)
+3. ⭐ Starred [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool)
+4. ⭐ Starred [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)
+5. ⭐ Starred [Phil-Factor/PSYaml](https://github.com/Phil-Factor/PSYaml)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 2nd, 2023, 12:32:32 AM
+Last Updated: Monday, January 2nd, 2023, 8:08:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
