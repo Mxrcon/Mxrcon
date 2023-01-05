@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions)
-2. 💪 Opened PR [#35](https://github.com/biosharp-dotnet/sucuri-api/pull/35) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-3. ⭐ Starred [bcbio/bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen)
-4. ⭐ Starred [biobakery/Maaslin2](https://github.com/biobakery/Maaslin2)
-5. ⭐ Starred [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool)
+1. ⭐ Starred [frostming/legit](https://github.com/frostming/legit)
+2. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
+3. ⭐ Starred [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib)
+4. ⭐ Starred [ivanceras/svgbob](https://github.com/ivanceras/svgbob)
+5. ⭐ Starred [RameshAditya/asciify](https://github.com/RameshAditya/asciify)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 5th, 2023, 12:33:59 AM
+Last Updated: Thursday, January 5th, 2023, 8:08:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
