@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql)
-2. ⭐ Starred [fabioz/mu-repo](https://github.com/fabioz/mu-repo)
-3. ⭐ Starred [PostgREST/postgrest](https://github.com/PostgREST/postgrest)
-4. ⭐ Starred [pokanop/nostromo](https://github.com/pokanop/nostromo)
-5. ⭐ Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)
+1. ⭐ Starred [lichess-org/lila](https://github.com/lichess-org/lila)
+2. ⭐ Starred [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql)
+3. ⭐ Starred [fabioz/mu-repo](https://github.com/fabioz/mu-repo)
+4. ⭐ Starred [PostgREST/postgrest](https://github.com/PostgREST/postgrest)
+5. ⭐ Starred [pokanop/nostromo](https://github.com/pokanop/nostromo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 10th, 2023, 12:35:02 AM
+Last Updated: Tuesday, January 10th, 2023, 8:08:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
