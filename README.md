@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [equinor/fusion-powershell](https://github.com/equinor/fusion-powershell)
-2. ⭐ Starred [MarvTheRobot/dotfiles](https://github.com/MarvTheRobot/dotfiles)
-3. ❗️ Opened issue [#36](https://github.com/biosharp-dotnet/sucuri-api/issues/36) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-4. 🎉 Merged PR [#35](https://github.com/biosharp-dotnet/sucuri-api/pull/35) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
-5. ⭐ Starred [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
+1. ⭐ Starred [Seidlm/PowerShell-Templates](https://github.com/Seidlm/PowerShell-Templates)
+2. ⭐ Starred [equinor/fusion-powershell](https://github.com/equinor/fusion-powershell)
+3. ⭐ Starred [MarvTheRobot/dotfiles](https://github.com/MarvTheRobot/dotfiles)
+4. ❗️ Opened issue [#36](https://github.com/biosharp-dotnet/sucuri-api/issues/36) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
+5. 🎉 Merged PR [#35](https://github.com/biosharp-dotnet/sucuri-api/pull/35) in [biosharp-dotnet/sucuri-api](https://github.com/biosharp-dotnet/sucuri-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 11th, 2023, 12:33:13 AM
+Last Updated: Wednesday, January 11th, 2023, 8:08:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
