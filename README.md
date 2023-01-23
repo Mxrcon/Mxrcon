@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [surged20/wjmais](https://github.com/surged20/wjmais)
-2. ⭐ Starred [ironmansoftware/terminal-gui-designer](https://github.com/ironmansoftware/terminal-gui-designer)
-3. ⭐ Starred [dzerbino/velvet](https://github.com/dzerbino/velvet)
-4. ⭐ Starred [Seidlm/PowerShell-Templates](https://github.com/Seidlm/PowerShell-Templates)
-5. ⭐ Starred [equinor/fusion-powershell](https://github.com/equinor/fusion-powershell)
+1. ⭐ Starred [helix-editor/helix](https://github.com/helix-editor/helix)
+2. ⭐ Starred [surged20/wjmais](https://github.com/surged20/wjmais)
+3. ⭐ Starred [ironmansoftware/terminal-gui-designer](https://github.com/ironmansoftware/terminal-gui-designer)
+4. ⭐ Starred [dzerbino/velvet](https://github.com/dzerbino/velvet)
+5. ⭐ Starred [Seidlm/PowerShell-Templates](https://github.com/Seidlm/PowerShell-Templates)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 23rd, 2023, 8:08:45 AM
+Last Updated: Monday, January 23rd, 2023, 2:05:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
