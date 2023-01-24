@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ungoldman/coolgifs.neocities.org](https://github.com/ungoldman/coolgifs.neocities.org)
-2. ⭐ Starred [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog)
-3. ⭐ Starred [helix-editor/helix](https://github.com/helix-editor/helix)
-4. ⭐ Starred [surged20/wjmais](https://github.com/surged20/wjmais)
-5. ⭐ Starred [ironmansoftware/terminal-gui-designer](https://github.com/ironmansoftware/terminal-gui-designer)
+1. ⭐ Starred [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
+2. ⭐ Starred [ungoldman/coolgifs.neocities.org](https://github.com/ungoldman/coolgifs.neocities.org)
+3. ⭐ Starred [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog)
+4. ⭐ Starred [helix-editor/helix](https://github.com/helix-editor/helix)
+5. ⭐ Starred [surged20/wjmais](https://github.com/surged20/wjmais)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 24th, 2023, 2:04:52 PM
+Last Updated: Tuesday, January 24th, 2023, 8:06:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
