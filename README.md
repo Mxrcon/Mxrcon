@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [quarto-journals/elsevier](https://github.com/quarto-journals/elsevier)
-2. ⭐ Starred [vhp/terminal_velocity](https://github.com/vhp/terminal_velocity)
-3. ⭐ Starred [tasdikrahman/tnote](https://github.com/tasdikrahman/tnote)
-4. ⭐ Starred [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
-5. ⭐ Starred [ungoldman/coolgifs.neocities.org](https://github.com/ungoldman/coolgifs.neocities.org)
+1. ⭐ Starred [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim)
+2. ⭐ Starred [quarto-journals/elsevier](https://github.com/quarto-journals/elsevier)
+3. ⭐ Starred [vhp/terminal_velocity](https://github.com/vhp/terminal_velocity)
+4. ⭐ Starred [tasdikrahman/tnote](https://github.com/tasdikrahman/tnote)
+5. ⭐ Starred [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 12:35:41 AM
+Last Updated: Tuesday, January 31st, 2023, 8:08:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
