@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bpucker/AppliedGenomeResearch](https://github.com/bpucker/AppliedGenomeResearch)
-2. ⭐ Starred [tigrisdata/tigris](https://github.com/tigrisdata/tigris)
-3. ⭐ Starred [quarto-dev/quarto-gallery](https://github.com/quarto-dev/quarto-gallery)
-4. ⭐ Starred [bactopia/bactopia-assembler](https://github.com/bactopia/bactopia-assembler)
-5. ⭐ Starred [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim)
+1. ⭐ Starred [numbats/monash-quarto-report](https://github.com/numbats/monash-quarto-report)
+2. ⭐ Starred [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto)
+3. ⭐ Starred [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+4. ⭐ Starred [maaslalani/slides](https://github.com/maaslalani/slides)
+5. ⭐ Starred [spencerdcarlson/husky-elixir](https://github.com/spencerdcarlson/husky-elixir)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 9th, 2023, 2:06:17 PM
+Last Updated: Thursday, February 9th, 2023, 8:06:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
