@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [terezatech/tereza-tech](https://github.com/terezatech/tereza-tech)
-2. ⭐ Starred [numbats/monash-quarto-report](https://github.com/numbats/monash-quarto-report)
-3. ⭐ Starred [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto)
-4. ⭐ Starred [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
-5. ⭐ Starred [maaslalani/slides](https://github.com/maaslalani/slides)
+1. ⭐ Starred [vixalien/sticky](https://github.com/vixalien/sticky)
+2. ⭐ Starred [terezatech/tereza-tech](https://github.com/terezatech/tereza-tech)
+3. ⭐ Starred [numbats/monash-quarto-report](https://github.com/numbats/monash-quarto-report)
+4. ⭐ Starred [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto)
+5. ⭐ Starred [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 4th, 2023, 2:04:45 PM
+Last Updated: Saturday, March 4th, 2023, 8:05:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
