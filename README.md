@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BCCDC-PHL/tbprofiler-nf](https://github.com/BCCDC-PHL/tbprofiler-nf)
-2. ⭐ Starred [f5/unovis](https://github.com/f5/unovis)
-3. ⭐ Starred [seqeralabs/showcase](https://github.com/seqeralabs/showcase)
-4. ⭐ Starred [rstudio/rmarkdown-book](https://github.com/rstudio/rmarkdown-book)
-5. ⭐ Starred [PacktPublishing/Hands-On-Data-Science-with-R](https://github.com/PacktPublishing/Hands-On-Data-Science-with-R)
+1. ⭐ Starred [thyagoleal/mleprae-genomics_workflow](https://github.com/thyagoleal/mleprae-genomics_workflow)
+2. ⭐ Starred [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+3. ⭐ Starred [BCCDC-PHL/tbprofiler-nf](https://github.com/BCCDC-PHL/tbprofiler-nf)
+4. ⭐ Starred [f5/unovis](https://github.com/f5/unovis)
+5. ⭐ Starred [seqeralabs/showcase](https://github.com/seqeralabs/showcase)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 10th, 2023, 8:08:59 AM
+Last Updated: Friday, March 10th, 2023, 2:06:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
