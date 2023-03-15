@@ -1,7 +1,7 @@
 ```diff
 Hi, I'm Davi 🧑🏻‍🎓.
 
-@@Biotechnologist and@@
+@@Biotechnologist and Bioinformatician@@
 + Living in Ananindeua, Brazil 🇧🇷.
 + Masters student at PPGBPA - UEPA/IEC
 - 21 years old
