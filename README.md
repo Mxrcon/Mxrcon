@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions)
-2. ⭐ Starred [rstudio-education/datascience-box](https://github.com/rstudio-education/datascience-box)
-3. ⭐ Starred [fredguth/tufte-quarto](https://github.com/fredguth/tufte-quarto)
-4. ⭐ Starred [quarto-journals/plos](https://github.com/quarto-journals/plos)
-5. ⭐ Starred [Pakillo/quarto-course-website-template](https://github.com/Pakillo/quarto-course-website-template)
+1. ⭐ Starred [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs)
+2. ⭐ Starred [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions)
+3. ⭐ Starred [rstudio-education/datascience-box](https://github.com/rstudio-education/datascience-box)
+4. ⭐ Starred [fredguth/tufte-quarto](https://github.com/fredguth/tufte-quarto)
+5. ⭐ Starred [quarto-journals/plos](https://github.com/quarto-journals/plos)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 30th, 2023, 2:05:28 PM
+Last Updated: Thursday, March 30th, 2023, 8:06:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
