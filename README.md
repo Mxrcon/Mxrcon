@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fabriciopa/gofeat](https://github.com/fabriciopa/gofeat)
-2. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
-3. ⭐ Starred [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs)
-4. ⭐ Starred [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions)
-5. ⭐ Starred [rstudio-education/datascience-box](https://github.com/rstudio-education/datascience-box)
+1. 💪 Opened PR [#79](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/79) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
+2. 💪 Opened PR [#78](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/78) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
+3. ⭐ Starred [fabriciopa/gofeat](https://github.com/fabriciopa/gofeat)
+4. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+5. ⭐ Starred [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 9th, 2023, 8:04:17 PM
+Last Updated: Monday, April 10th, 2023, 12:30:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
