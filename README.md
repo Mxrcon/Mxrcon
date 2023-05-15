@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [biostars/biostar-handbook](https://github.com/biostars/biostar-handbook)
-2. 💪 Opened PR [#79](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/79) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
-3. 💪 Opened PR [#78](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/78) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
-4. ⭐ Starred [fabriciopa/gofeat](https://github.com/fabriciopa/gofeat)
-5. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+1. 💪 Opened PR [#82](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/82) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
+2. 🎉 Merged PR [#82](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/82) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
+3. ⭐ Starred [biostars/biostar-handbook](https://github.com/biostars/biostar-handbook)
+4. 💪 Opened PR [#79](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/79) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
+5. 💪 Opened PR [#78](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/78) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 15th, 2023, 12:31:58 AM
+Last Updated: Monday, May 15th, 2023, 8:07:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
