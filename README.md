@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [idank/explainshell](https://github.com/idank/explainshell)
-2. ⭐ Starred [libsql/libsql](https://github.com/libsql/libsql)
-3. ⭐ Starred [bioinformatics-centre/kaiju](https://github.com/bioinformatics-centre/kaiju)
-4. 💪 Opened PR [#82](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/82) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
+1. ⭐ Starred [MaggieAppleton/maggieappleton.com-V2](https://github.com/MaggieAppleton/maggieappleton.com-V2)
+2. ⭐ Starred [idank/explainshell](https://github.com/idank/explainshell)
+3. ⭐ Starred [libsql/libsql](https://github.com/libsql/libsql)
+4. ⭐ Starred [bioinformatics-centre/kaiju](https://github.com/bioinformatics-centre/kaiju)
 5. 🎉 Merged PR [#82](https://github.com/mtb-bioinformatics/MTBseq-nf/pull/82) in [mtb-bioinformatics/MTBseq-nf](https://github.com/mtb-bioinformatics/MTBseq-nf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 27th, 2023, 2:02:54 PM
+Last Updated: Sunday, August 27th, 2023, 8:03:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
