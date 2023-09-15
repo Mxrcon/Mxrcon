@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mbhall88/rasusa](https://github.com/mbhall88/rasusa)
-2. ⭐ Starred [MaggieAppleton/maggieappleton.com-V2](https://github.com/MaggieAppleton/maggieappleton.com-V2)
-3. ⭐ Starred [idank/explainshell](https://github.com/idank/explainshell)
-4. ⭐ Starred [libsql/libsql](https://github.com/libsql/libsql)
-5. ⭐ Starred [bioinformatics-centre/kaiju](https://github.com/bioinformatics-centre/kaiju)
+1. ⭐ Starred [ablab-nthu/Multi-CSAR](https://github.com/ablab-nthu/Multi-CSAR)
+2. ⭐ Starred [mbhall88/rasusa](https://github.com/mbhall88/rasusa)
+3. ⭐ Starred [MaggieAppleton/maggieappleton.com-V2](https://github.com/MaggieAppleton/maggieappleton.com-V2)
+4. ⭐ Starred [idank/explainshell](https://github.com/idank/explainshell)
+5. ⭐ Starred [libsql/libsql](https://github.com/libsql/libsql)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 14th, 2023, 8:06:04 PM
+Last Updated: Friday, September 15th, 2023, 12:28:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
