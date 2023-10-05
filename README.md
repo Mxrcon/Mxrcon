@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dvanoni/notero](https://github.com/dvanoni/notero)
-2. ⭐ Starred [colcon/colcon-powershell](https://github.com/colcon/colcon-powershell)
-3. ⭐ Starred [ablab-nthu/Multi-CSAR](https://github.com/ablab-nthu/Multi-CSAR)
-4. ⭐ Starred [mbhall88/rasusa](https://github.com/mbhall88/rasusa)
-5. ⭐ Starred [MaggieAppleton/maggieappleton.com-V2](https://github.com/MaggieAppleton/maggieappleton.com-V2)
+1. 💪 Opened PR [#563](https://github.com/nf-core/configs/pull/563) in [nf-core/configs](https://github.com/nf-core/configs)
+2. ⭐ Starred [dvanoni/notero](https://github.com/dvanoni/notero)
+3. ⭐ Starred [colcon/colcon-powershell](https://github.com/colcon/colcon-powershell)
+4. ⭐ Starred [ablab-nthu/Multi-CSAR](https://github.com/ablab-nthu/Multi-CSAR)
+5. ⭐ Starred [mbhall88/rasusa](https://github.com/mbhall88/rasusa)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 4th, 2023, 8:06:25 PM
+Last Updated: Thursday, October 5th, 2023, 12:28:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
