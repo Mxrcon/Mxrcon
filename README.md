@@ -47,7 +47,7 @@ I'm also learning how to implement pipelines on Nextflow.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 22nd, 2023, 12:31:19 AM
+Last Updated: Sunday, October 22nd, 2023, 8:07:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
