@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#98](https://github.com/csbl-usp/CEMiTool/issues/98) in [csbl-usp/CEMiTool](https://github.com/csbl-usp/CEMiTool)
-2. 💪 Opened PR [#563](https://github.com/nf-core/configs/pull/563) in [nf-core/configs](https://github.com/nf-core/configs)
-3. ⭐ Starred [dvanoni/notero](https://github.com/dvanoni/notero)
-4. ⭐ Starred [colcon/colcon-powershell](https://github.com/colcon/colcon-powershell)
-5. ⭐ Starred [ablab-nthu/Multi-CSAR](https://github.com/ablab-nthu/Multi-CSAR)
+1. ⭐ Starred [reinator/pimba](https://github.com/reinator/pimba)
+2. ❗️ Opened issue [#98](https://github.com/csbl-usp/CEMiTool/issues/98) in [csbl-usp/CEMiTool](https://github.com/csbl-usp/CEMiTool)
+3. 💪 Opened PR [#563](https://github.com/nf-core/configs/pull/563) in [nf-core/configs](https://github.com/nf-core/configs)
+4. ⭐ Starred [dvanoni/notero](https://github.com/dvanoni/notero)
+5. ⭐ Starred [colcon/colcon-powershell](https://github.com/colcon/colcon-powershell)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 31st, 2023, 2:05:15 PM
+Last Updated: Tuesday, October 31st, 2023, 8:06:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
