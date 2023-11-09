@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [easyeryiji/ultiplex](https://github.com/easyeryiji/ultiplex)
-2. 📔 Created new repository [Mxrcon/powershell-scripts](https://github.com/Mxrcon/powershell-scripts)
-3. ⭐ Starred [reinator/pimba](https://github.com/reinator/pimba)
-4. ❗️ Opened issue [#98](https://github.com/csbl-usp/CEMiTool/issues/98) in [csbl-usp/CEMiTool](https://github.com/csbl-usp/CEMiTool)
-5. 💪 Opened PR [#563](https://github.com/nf-core/configs/pull/563) in [nf-core/configs](https://github.com/nf-core/configs)
+1. ⭐ Starred [cvn001/transflow](https://github.com/cvn001/transflow)
+2. ⭐ Starred [sanger-pathogens/ariba](https://github.com/sanger-pathogens/ariba)
+3. ⭐ Starred [easyeryiji/ultiplex](https://github.com/easyeryiji/ultiplex)
+4. 📔 Created new repository [Mxrcon/powershell-scripts](https://github.com/Mxrcon/powershell-scripts)
+5. ⭐ Starred [reinator/pimba](https://github.com/reinator/pimba)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 9th, 2023, 8:08:06 AM
+Last Updated: Thursday, November 9th, 2023, 2:04:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
