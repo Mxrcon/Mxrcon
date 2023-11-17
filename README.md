@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cvn001/transflow](https://github.com/cvn001/transflow)
-2. ⭐ Starred [sanger-pathogens/ariba](https://github.com/sanger-pathogens/ariba)
-3. ⭐ Starred [easyeryiji/ultiplex](https://github.com/easyeryiji/ultiplex)
-4. 📔 Created new repository [Mxrcon/powershell-scripts](https://github.com/Mxrcon/powershell-scripts)
-5. ⭐ Starred [reinator/pimba](https://github.com/reinator/pimba)
+1. ⭐ Starred [BlakeRMills/30DayMapChallenge](https://github.com/BlakeRMills/30DayMapChallenge)
+2. ⭐ Starred [cvn001/transflow](https://github.com/cvn001/transflow)
+3. ⭐ Starred [sanger-pathogens/ariba](https://github.com/sanger-pathogens/ariba)
+4. ⭐ Starred [easyeryiji/ultiplex](https://github.com/easyeryiji/ultiplex)
+5. 📔 Created new repository [Mxrcon/powershell-scripts](https://github.com/Mxrcon/powershell-scripts)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 17th, 2023, 2:05:26 PM
+Last Updated: Friday, November 17th, 2023, 8:06:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
