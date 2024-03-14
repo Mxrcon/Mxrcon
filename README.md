@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Mxrcon/rinha-de-backend-2024-q1](https://github.com/Mxrcon/rinha-de-backend-2024-q1) from [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)
-2. ⭐ Starred [genomicsITER/NanoRTax](https://github.com/genomicsITER/NanoRTax)
+1. ⭐ Starred [shenwei356/perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools)
+2. 🔱 Forked [Mxrcon/rinha-de-backend-2024-q1](https://github.com/Mxrcon/rinha-de-backend-2024-q1) from [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)
 3. ⭐ Starred [cvn001/transflow](https://github.com/cvn001/transflow)
 4. ⭐ Starred [sanger-pathogens/ariba](https://github.com/sanger-pathogens/ariba)
 5. ⭐ Starred [easyeryiji/ultiplex](https://github.com/easyeryiji/ultiplex)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 14th, 2024, 8:08:31 AM
+Last Updated: Thursday, March 14th, 2024, 2:06:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
