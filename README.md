@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AllTheBacteria/AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria)
-2. ⭐ Starred [emdelponte/epidemiology-R](https://github.com/emdelponte/epidemiology-R)
-3. ⭐ Starred [shenwei356/perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools)
-4. 🔱 Forked [Mxrcon/rinha-de-backend-2024-q1](https://github.com/Mxrcon/rinha-de-backend-2024-q1) from [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)
-5. ⭐ Starred [easyeryiji/ultiplex](https://github.com/easyeryiji/ultiplex)
+1. ⭐ Starred [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)
+2. ⭐ Starred [AllTheBacteria/AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria)
+3. ⭐ Starred [emdelponte/epidemiology-R](https://github.com/emdelponte/epidemiology-R)
+4. ⭐ Starred [shenwei356/perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools)
+5. 🔱 Forked [Mxrcon/rinha-de-backend-2024-q1](https://github.com/Mxrcon/rinha-de-backend-2024-q1) from [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 31st, 2024, 8:06:42 PM
+Last Updated: Monday, April 1st, 2024, 12:33:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
