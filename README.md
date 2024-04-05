@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)
-2. ⭐ Starred [AllTheBacteria/AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria)
-3. ⭐ Starred [emdelponte/epidemiology-R](https://github.com/emdelponte/epidemiology-R)
-4. ⭐ Starred [shenwei356/perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools)
-5. 🔱 Forked [Mxrcon/rinha-de-backend-2024-q1](https://github.com/Mxrcon/rinha-de-backend-2024-q1) from [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)
+1. ⭐ Starred [HiveMinds/University-LaTex-Templates](https://github.com/HiveMinds/University-LaTex-Templates)
+2. ⭐ Starred [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)
+3. ⭐ Starred [AllTheBacteria/AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria)
+4. ⭐ Starred [emdelponte/epidemiology-R](https://github.com/emdelponte/epidemiology-R)
+5. ⭐ Starred [shenwei356/perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 4th, 2024, 8:06:33 PM
+Last Updated: Friday, April 5th, 2024, 12:30:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
