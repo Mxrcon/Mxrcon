@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [santiagosnchez/vcf2fasta](https://github.com/santiagosnchez/vcf2fasta)
-2. ⭐ Starred [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
-3. ⭐ Starred [HiveMinds/University-LaTex-Templates](https://github.com/HiveMinds/University-LaTex-Templates)
-4. ⭐ Starred [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)
-5. ⭐ Starred [AllTheBacteria/AllTheBacteria](https://github.com/AllTheBacteria/AllTheBacteria)
+1. ⭐ Starred [appliedepi/emory_training](https://github.com/appliedepi/emory_training)
+2. ⭐ Starred [santiagosnchez/vcf2fasta](https://github.com/santiagosnchez/vcf2fasta)
+3. ⭐ Starred [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
+4. ⭐ Starred [HiveMinds/University-LaTex-Templates](https://github.com/HiveMinds/University-LaTex-Templates)
+5. ⭐ Starred [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 18th, 2024, 2:06:05 PM
+Last Updated: Thursday, April 18th, 2024, 8:07:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
