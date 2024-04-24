@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [appliedepi/emory_training](https://github.com/appliedepi/emory_training)
-2. ⭐ Starred [santiagosnchez/vcf2fasta](https://github.com/santiagosnchez/vcf2fasta)
-3. ⭐ Starred [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
-4. ⭐ Starred [HiveMinds/University-LaTex-Templates](https://github.com/HiveMinds/University-LaTex-Templates)
-5. ⭐ Starred [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)
+1. 💪 Opened PR [#85](https://github.com/mycobactopia-org/MTBseq-nf/pull/85) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+2. ⭐ Starred [appliedepi/emory_training](https://github.com/appliedepi/emory_training)
+3. ⭐ Starred [santiagosnchez/vcf2fasta](https://github.com/santiagosnchez/vcf2fasta)
+4. ⭐ Starred [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
+5. ⭐ Starred [HiveMinds/University-LaTex-Templates](https://github.com/HiveMinds/University-LaTex-Templates)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 24th, 2024, 2:06:39 PM
+Last Updated: Wednesday, April 24th, 2024, 8:07:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
