@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#85](https://github.com/mycobactopia-org/MTBseq-nf/pull/85) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
-2. ⭐ Starred [appliedepi/emory_training](https://github.com/appliedepi/emory_training)
-3. ⭐ Starred [santiagosnchez/vcf2fasta](https://github.com/santiagosnchez/vcf2fasta)
-4. ⭐ Starred [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
-5. ⭐ Starred [HiveMinds/University-LaTex-Templates](https://github.com/HiveMinds/University-LaTex-Templates)
+1. 💪 Opened PR [#86](https://github.com/mycobactopia-org/MTBseq-nf/pull/86) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+2. 💪 Opened PR [#85](https://github.com/mycobactopia-org/MTBseq-nf/pull/85) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+3. ⭐ Starred [appliedepi/emory_training](https://github.com/appliedepi/emory_training)
+4. ⭐ Starred [santiagosnchez/vcf2fasta](https://github.com/santiagosnchez/vcf2fasta)
+5. ⭐ Starred [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 27th, 2024, 8:08:12 AM
+Last Updated: Saturday, April 27th, 2024, 2:03:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
