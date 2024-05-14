@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MW55/Natrix](https://github.com/MW55/Natrix)
-2. 💪 Opened PR [#86](https://github.com/mycobactopia-org/MTBseq-nf/pull/86) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
-3. 💪 Opened PR [#85](https://github.com/mycobactopia-org/MTBseq-nf/pull/85) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
-4. ⭐ Starred [appliedepi/emory_training](https://github.com/appliedepi/emory_training)
-5. ⭐ Starred [santiagosnchez/vcf2fasta](https://github.com/santiagosnchez/vcf2fasta)
+1. ⭐ Starred [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md)
+2. ⭐ Starred [MW55/Natrix](https://github.com/MW55/Natrix)
+3. 💪 Opened PR [#86](https://github.com/mycobactopia-org/MTBseq-nf/pull/86) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+4. 💪 Opened PR [#85](https://github.com/mycobactopia-org/MTBseq-nf/pull/85) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+5. ⭐ Starred [appliedepi/emory_training](https://github.com/appliedepi/emory_training)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 14th, 2024, 2:06:19 PM
+Last Updated: Tuesday, May 14th, 2024, 8:08:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
