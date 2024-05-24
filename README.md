@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
-2. ⭐ Starred [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md)
-3. ⭐ Starred [MW55/Natrix](https://github.com/MW55/Natrix)
-4. 💪 Opened PR [#86](https://github.com/mycobactopia-org/MTBseq-nf/pull/86) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
-5. 💪 Opened PR [#85](https://github.com/mycobactopia-org/MTBseq-nf/pull/85) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+1. ⭐ Starred [MVesuviusC/primerTree](https://github.com/MVesuviusC/primerTree)
+2. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
+3. ⭐ Starred [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md)
+4. ⭐ Starred [MW55/Natrix](https://github.com/MW55/Natrix)
+5. 💪 Opened PR [#86](https://github.com/mycobactopia-org/MTBseq-nf/pull/86) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 24th, 2024, 8:09:06 AM
+Last Updated: Friday, May 24th, 2024, 2:06:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
