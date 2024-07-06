@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [loro-dev/loro-prosemirror](https://github.com/loro-dev/loro-prosemirror)
-2. ⭐ Starred [MVesuviusC/primerTree](https://github.com/MVesuviusC/primerTree)
-3. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
-4. ⭐ Starred [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md)
-5. ⭐ Starred [MW55/Natrix](https://github.com/MW55/Natrix)
+1. ⭐ Starred [klebgenomics/Kaptive](https://github.com/klebgenomics/Kaptive)
+2. ⭐ Starred [loro-dev/loro-prosemirror](https://github.com/loro-dev/loro-prosemirror)
+3. ⭐ Starred [MVesuviusC/primerTree](https://github.com/MVesuviusC/primerTree)
+4. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
+5. ⭐ Starred [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 6th, 2024, 8:10:00 AM
+Last Updated: Saturday, July 6th, 2024, 2:04:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
