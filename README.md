@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [klebgenomics/Kaptive](https://github.com/klebgenomics/Kaptive)
-2. ⭐ Starred [loro-dev/loro-prosemirror](https://github.com/loro-dev/loro-prosemirror)
-3. ⭐ Starred [MVesuviusC/primerTree](https://github.com/MVesuviusC/primerTree)
-4. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
-5. ⭐ Starred [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md)
+1. 💪 Opened PR [#208](https://github.com/TORCH-Consortium/MAGMA/pull/208) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+2. 🔱 Forked [Mxrcon/MAGMA](https://github.com/Mxrcon/MAGMA) from [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+3. ❗️ Opened issue [#207](https://github.com/TORCH-Consortium/MAGMA/issues/207) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+4. ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)
+5. ⭐ Starred [klebgenomics/Kaptive](https://github.com/klebgenomics/Kaptive)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 11th, 2024, 8:07:31 PM
+Last Updated: Friday, July 12th, 2024, 12:34:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
