@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [allanverasce/bpc](https://github.com/allanverasce/bpc)
-2. ⭐ Starred [research-software-ecosystem/content](https://github.com/research-software-ecosystem/content)
-3. 💪 Opened PR [#208](https://github.com/TORCH-Consortium/MAGMA/pull/208) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-4. 🔱 Forked [Mxrcon/MAGMA](https://github.com/Mxrcon/MAGMA) from [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-5. ❗️ Opened issue [#207](https://github.com/TORCH-Consortium/MAGMA/issues/207) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+1. ⭐ Starred [typst/typst](https://github.com/typst/typst)
+2. ⭐ Starred [allanverasce/bpc](https://github.com/allanverasce/bpc)
+3. ⭐ Starred [research-software-ecosystem/content](https://github.com/research-software-ecosystem/content)
+4. 💪 Opened PR [#208](https://github.com/TORCH-Consortium/MAGMA/pull/208) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+5. 🔱 Forked [Mxrcon/MAGMA](https://github.com/Mxrcon/MAGMA) from [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 28th, 2024, 12:38:19 AM
+Last Updated: Sunday, July 28th, 2024, 8:08:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
