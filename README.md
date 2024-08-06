@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#87](https://github.com/mycobactopia-org/MTBseq-nf/pull/87) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
-2. ⭐ Starred [typst/typst](https://github.com/typst/typst)
-3. ⭐ Starred [allanverasce/bpc](https://github.com/allanverasce/bpc)
-4. ⭐ Starred [research-software-ecosystem/content](https://github.com/research-software-ecosystem/content)
-5. 💪 Opened PR [#208](https://github.com/TORCH-Consortium/MAGMA/pull/208) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+1. ⭐ Starred [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc)
+2. 💪 Opened PR [#87](https://github.com/mycobactopia-org/MTBseq-nf/pull/87) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+3. ⭐ Starred [typst/typst](https://github.com/typst/typst)
+4. ⭐ Starred [allanverasce/bpc](https://github.com/allanverasce/bpc)
+5. ⭐ Starred [research-software-ecosystem/content](https://github.com/research-software-ecosystem/content)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 5th, 2024, 8:07:34 PM
+Last Updated: Tuesday, August 6th, 2024, 12:35:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
