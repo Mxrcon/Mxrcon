@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc)
-2. 💪 Opened PR [#87](https://github.com/mycobactopia-org/MTBseq-nf/pull/87) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
-3. ⭐ Starred [typst/typst](https://github.com/typst/typst)
-4. ⭐ Starred [allanverasce/bpc](https://github.com/allanverasce/bpc)
-5. ⭐ Starred [research-software-ecosystem/content](https://github.com/research-software-ecosystem/content)
+1. ⭐ Starred [btholt/sqlite-app](https://github.com/btholt/sqlite-app)
+2. ⭐ Starred [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc)
+3. 💪 Opened PR [#87](https://github.com/mycobactopia-org/MTBseq-nf/pull/87) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+4. ⭐ Starred [typst/typst](https://github.com/typst/typst)
+5. ⭐ Starred [allanverasce/bpc](https://github.com/allanverasce/bpc)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 12th, 2024, 12:36:59 AM
+Last Updated: Monday, August 12th, 2024, 8:10:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
