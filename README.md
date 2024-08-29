@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gmmsb-lncc/emmsb-recursos](https://github.com/gmmsb-lncc/emmsb-recursos)
-2. ⭐ Starred [btholt/sqlite-app](https://github.com/btholt/sqlite-app)
-3. ⭐ Starred [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc)
-4. 💪 Opened PR [#87](https://github.com/mycobactopia-org/MTBseq-nf/pull/87) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
-5. ⭐ Starred [typst/typst](https://github.com/typst/typst)
+1. 💪 Opened PR [#88](https://github.com/mycobactopia-org/MTBseq-nf/pull/88) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+2. 💪 Opened PR [#221](https://github.com/TORCH-Consortium/MAGMA/pull/221) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+3. ⭐ Starred [gmmsb-lncc/emmsb-recursos](https://github.com/gmmsb-lncc/emmsb-recursos)
+4. ⭐ Starred [btholt/sqlite-app](https://github.com/btholt/sqlite-app)
+5. ⭐ Starred [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 29th, 2024, 8:10:27 AM
+Last Updated: Thursday, August 29th, 2024, 2:08:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
