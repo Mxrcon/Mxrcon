@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yandeu/five-server](https://github.com/yandeu/five-server)
-2. 💪 Opened PR [#88](https://github.com/mycobactopia-org/MTBseq-nf/pull/88) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
-3. 💪 Opened PR [#221](https://github.com/TORCH-Consortium/MAGMA/pull/221) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-4. ⭐ Starred [gmmsb-lncc/emmsb-recursos](https://github.com/gmmsb-lncc/emmsb-recursos)
-5. ⭐ Starred [btholt/sqlite-app](https://github.com/btholt/sqlite-app)
+1. ⭐ Starred [forlilab/Meeko](https://github.com/forlilab/Meeko)
+2. ⭐ Starred [Discngine/fpocket](https://github.com/Discngine/fpocket)
+3. ⭐ Starred [ccsb-scripps/AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU)
+4. ⭐ Starred [yandeu/five-server](https://github.com/yandeu/five-server)
+5. 💪 Opened PR [#88](https://github.com/mycobactopia-org/MTBseq-nf/pull/88) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 12th, 2024, 8:08:49 PM
+Last Updated: Friday, September 13th, 2024, 12:37:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
