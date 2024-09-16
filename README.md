@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [forlilab/Meeko](https://github.com/forlilab/Meeko)
-2. ⭐ Starred [Discngine/fpocket](https://github.com/Discngine/fpocket)
-3. ⭐ Starred [ccsb-scripps/AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU)
-4. ⭐ Starred [yandeu/five-server](https://github.com/yandeu/five-server)
-5. 💪 Opened PR [#88](https://github.com/mycobactopia-org/MTBseq-nf/pull/88) in [mycobactopia-org/MTBseq-nf](https://github.com/mycobactopia-org/MTBseq-nf)
+1. ⭐ Starred [mribeirodantas/nf-print2certificates](https://github.com/mribeirodantas/nf-print2certificates)
+2. ⭐ Starred [forlilab/Meeko](https://github.com/forlilab/Meeko)
+3. ⭐ Starred [Discngine/fpocket](https://github.com/Discngine/fpocket)
+4. ⭐ Starred [ccsb-scripps/AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU)
+5. ⭐ Starred [yandeu/five-server](https://github.com/yandeu/five-server)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 16th, 2024, 12:40:35 AM
+Last Updated: Monday, September 16th, 2024, 8:11:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
