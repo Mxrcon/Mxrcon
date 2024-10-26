@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mribeirodantas/nf-print2certificates](https://github.com/mribeirodantas/nf-print2certificates)
-2. ⭐ Starred [forlilab/Meeko](https://github.com/forlilab/Meeko)
-3. ⭐ Starred [Discngine/fpocket](https://github.com/Discngine/fpocket)
-4. ⭐ Starred [ccsb-scripps/AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU)
-5. ⭐ Starred [yandeu/five-server](https://github.com/yandeu/five-server)
+1. ⭐ Starred [LibreBooking/app](https://github.com/LibreBooking/app)
+2. ⭐ Starred [luizgiolo/BookedScheduler](https://github.com/luizgiolo/BookedScheduler)
+3. ⭐ Starred [mribeirodantas/nf-print2certificates](https://github.com/mribeirodantas/nf-print2certificates)
+4. ⭐ Starred [forlilab/Meeko](https://github.com/forlilab/Meeko)
+5. ⭐ Starred [Discngine/fpocket](https://github.com/Discngine/fpocket)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 26th, 2024, 2:06:29 PM
+Last Updated: Saturday, October 26th, 2024, 8:08:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
