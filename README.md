@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LibreBooking/app](https://github.com/LibreBooking/app)
-2. ⭐ Starred [luizgiolo/BookedScheduler](https://github.com/luizgiolo/BookedScheduler)
-3. ⭐ Starred [mribeirodantas/nf-print2certificates](https://github.com/mribeirodantas/nf-print2certificates)
-4. ⭐ Starred [forlilab/Meeko](https://github.com/forlilab/Meeko)
-5. ⭐ Starred [Discngine/fpocket](https://github.com/Discngine/fpocket)
+1. 👍 Approved [#7](https://github.com/nf-core/tbanalyzer/pull/7#pullrequestreview-2399401702) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
+2. 💪 Opened PR [#8](https://github.com/nf-core/tbanalyzer/pull/8) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
+3. ⭐ Starred [LibreBooking/app](https://github.com/LibreBooking/app)
+4. ⭐ Starred [luizgiolo/BookedScheduler](https://github.com/luizgiolo/BookedScheduler)
+5. ⭐ Starred [mribeirodantas/nf-print2certificates](https://github.com/mribeirodantas/nf-print2certificates)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 28th, 2024, 2:08:17 PM
+Last Updated: Monday, October 28th, 2024, 8:09:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
