@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)
-2. ⭐ Starred [shenwei356/seqkit](https://github.com/shenwei356/seqkit)
-3. 👍 Approved [#7](https://github.com/nf-core/tbanalyzer/pull/7#pullrequestreview-2399401702) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
-4. 💪 Opened PR [#8](https://github.com/nf-core/tbanalyzer/pull/8) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
-5. ⭐ Starred [LibreBooking/app](https://github.com/LibreBooking/app)
+1. ⭐ Starred [eseckel/ai-for-grant-writing](https://github.com/eseckel/ai-for-grant-writing)
+2. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)
+3. ⭐ Starred [shenwei356/seqkit](https://github.com/shenwei356/seqkit)
+4. 👍 Approved [#7](https://github.com/nf-core/tbanalyzer/pull/7#pullrequestreview-2399401702) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
+5. 💪 Opened PR [#8](https://github.com/nf-core/tbanalyzer/pull/8) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 11th, 2024, 2:08:52 PM
+Last Updated: Monday, November 11th, 2024, 8:08:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
