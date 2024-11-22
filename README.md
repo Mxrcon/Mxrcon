@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eseckel/ai-for-grant-writing](https://github.com/eseckel/ai-for-grant-writing)
-2. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)
-3. ⭐ Starred [shenwei356/seqkit](https://github.com/shenwei356/seqkit)
-4. 👍 Approved [#7](https://github.com/nf-core/tbanalyzer/pull/7#pullrequestreview-2399401702) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
-5. 💪 Opened PR [#8](https://github.com/nf-core/tbanalyzer/pull/8) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
+1. ⭐ Starred [ASAGlab/MOI--An-integrated-solution-for-omics-analyses](https://github.com/ASAGlab/MOI--An-integrated-solution-for-omics-analyses)
+2. ⭐ Starred [eseckel/ai-for-grant-writing](https://github.com/eseckel/ai-for-grant-writing)
+3. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)
+4. ⭐ Starred [shenwei356/seqkit](https://github.com/shenwei356/seqkit)
+5. 👍 Approved [#7](https://github.com/nf-core/tbanalyzer/pull/7#pullrequestreview-2399401702) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 22nd, 2024, 12:42:44 AM
+Last Updated: Friday, November 22nd, 2024, 8:11:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
