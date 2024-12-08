@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [colbyford/bioPowerBI](https://github.com/colbyford/bioPowerBI)
-2. ⭐ Starred [abschneider/StrainHub](https://github.com/abschneider/StrainHub)
-3. ⭐ Starred [ASAGlab/MOI--An-integrated-solution-for-omics-analyses](https://github.com/ASAGlab/MOI--An-integrated-solution-for-omics-analyses)
-4. ⭐ Starred [eseckel/ai-for-grant-writing](https://github.com/eseckel/ai-for-grant-writing)
-5. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)
+1. ⭐ Starred [lcerdeira/BraSeqTB](https://github.com/lcerdeira/BraSeqTB)
+2. ⭐ Starred [colbyford/bioPowerBI](https://github.com/colbyford/bioPowerBI)
+3. ⭐ Starred [abschneider/StrainHub](https://github.com/abschneider/StrainHub)
+4. ⭐ Starred [ASAGlab/MOI--An-integrated-solution-for-omics-analyses](https://github.com/ASAGlab/MOI--An-integrated-solution-for-omics-analyses)
+5. ⭐ Starred [eseckel/ai-for-grant-writing](https://github.com/eseckel/ai-for-grant-writing)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 8th, 2024, 2:07:12 PM
+Last Updated: Sunday, December 8th, 2024, 8:08:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
