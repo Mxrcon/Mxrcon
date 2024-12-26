@@ -39,15 +39,15 @@ I'm also learning how to implement pipelines on Nextflow.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-2. ⭐ Starred [lcerdeira/BraSeqTB](https://github.com/lcerdeira/BraSeqTB)
-3. ⭐ Starred [colbyford/bioPowerBI](https://github.com/colbyford/bioPowerBI)
-4. ⭐ Starred [abschneider/StrainHub](https://github.com/abschneider/StrainHub)
-5. ⭐ Starred [ASAGlab/MOI--An-integrated-solution-for-omics-analyses](https://github.com/ASAGlab/MOI--An-integrated-solution-for-omics-analyses)
+1. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+2. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+3. ⭐ Starred [lcerdeira/BraSeqTB](https://github.com/lcerdeira/BraSeqTB)
+4. ⭐ Starred [colbyford/bioPowerBI](https://github.com/colbyford/bioPowerBI)
+5. ⭐ Starred [abschneider/StrainHub](https://github.com/abschneider/StrainHub)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 25th, 2024, 8:08:37 PM
+Last Updated: Thursday, December 26th, 2024, 12:39:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
