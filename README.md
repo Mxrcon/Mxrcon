@@ -32,15 +32,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
-2. ⭐ Starred [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit)
-3. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
-4. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-5. ⭐ Starred [lcerdeira/BraSeqTB](https://github.com/lcerdeira/BraSeqTB)
+1. ⭐ Starred [ccmaues/dd2022_unifesp](https://github.com/ccmaues/dd2022_unifesp)
+2. ⭐ Starred [DS4SD/docling](https://github.com/DS4SD/docling)
+3. ⭐ Starred [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
+4. ⭐ Starred [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit)
+5. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 13th, 2025, 2:08:34 PM
+Last Updated: Monday, January 13th, 2025, 8:08:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
