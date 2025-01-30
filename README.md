@@ -32,15 +32,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nzwaneveld/ChatGPT](https://github.com/nzwaneveld/ChatGPT)
-2. ⭐ Starred [itvgenomics/organpipe](https://github.com/itvgenomics/organpipe)
-3. ⭐ Starred [ccmaues/dd2022_unifesp](https://github.com/ccmaues/dd2022_unifesp)
-4. ⭐ Starred [DS4SD/docling](https://github.com/DS4SD/docling)
-5. ⭐ Starred [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
+1. ⭐ Starred [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+2. ⭐ Starred [nzwaneveld/ChatGPT](https://github.com/nzwaneveld/ChatGPT)
+3. ⭐ Starred [itvgenomics/organpipe](https://github.com/itvgenomics/organpipe)
+4. ⭐ Starred [ccmaues/dd2022_unifesp](https://github.com/ccmaues/dd2022_unifesp)
+5. ⭐ Starred [DS4SD/docling](https://github.com/DS4SD/docling)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 30th, 2025, 2:07:47 PM
+Last Updated: Thursday, January 30th, 2025, 8:08:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
