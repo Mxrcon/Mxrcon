@@ -32,15 +32,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abhi18av/Nextflow-BioWiki](https://github.com/abhi18av/Nextflow-BioWiki)
-2. ⭐ Starred [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
-3. ⭐ Starred [nzwaneveld/ChatGPT](https://github.com/nzwaneveld/ChatGPT)
-4. ⭐ Starred [itvgenomics/organpipe](https://github.com/itvgenomics/organpipe)
-5. ⭐ Starred [ccmaues/dd2022_unifesp](https://github.com/ccmaues/dd2022_unifesp)
+1. ⭐ Starred [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
+2. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ⭐ Starred [abhi18av/Nextflow-BioWiki](https://github.com/abhi18av/Nextflow-BioWiki)
+4. ⭐ Starred [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+5. ⭐ Starred [nzwaneveld/ChatGPT](https://github.com/nzwaneveld/ChatGPT)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 1st, 2025, 8:07:30 PM
+Last Updated: Sunday, February 2nd, 2025, 12:42:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
