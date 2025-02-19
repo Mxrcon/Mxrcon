@@ -32,15 +32,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ucbepic/docetl](https://github.com/ucbepic/docetl)
-2. ⭐ Starred [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
-3. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ⭐ Starred [abhi18av/Nextflow-BioWiki](https://github.com/abhi18av/Nextflow-BioWiki)
-5. ⭐ Starred [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+1. ⭐ Starred [cguyeux/TB-tools](https://github.com/cguyeux/TB-tools)
+2. ⭐ Starred [avkitex/tbAnnotator](https://github.com/avkitex/tbAnnotator)
+3. ⭐ Starred [ucbepic/docetl](https://github.com/ucbepic/docetl)
+4. ⭐ Starred [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
+5. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 19th, 2025, 12:40:36 AM
+Last Updated: Wednesday, February 19th, 2025, 8:11:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
