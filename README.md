@@ -32,15 +32,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dxcore35/obs_batch-linkr](https://github.com/dxcore35/obs_batch-linkr)
-2. ⭐ Starred [cguyeux/TB-tools](https://github.com/cguyeux/TB-tools)
-3. ⭐ Starred [avkitex/tbAnnotator](https://github.com/avkitex/tbAnnotator)
-4. ⭐ Starred [ucbepic/docetl](https://github.com/ucbepic/docetl)
+1. ⭐ Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
+2. ⭐ Starred [dxcore35/obs_batch-linkr](https://github.com/dxcore35/obs_batch-linkr)
+3. ⭐ Starred [cguyeux/TB-tools](https://github.com/cguyeux/TB-tools)
+4. ⭐ Starred [avkitex/tbAnnotator](https://github.com/avkitex/tbAnnotator)
 5. ⭐ Starred [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 9th, 2025, 2:04:17 PM
+Last Updated: Sunday, March 9th, 2025, 8:07:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
