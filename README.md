@@ -32,15 +32,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#232](https://github.com/TORCH-Consortium/MAGMA/pull/232) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-2. ⭐ Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
-3. ⭐ Starred [dxcore35/obs_batch-linkr](https://github.com/dxcore35/obs_batch-linkr)
-4. ⭐ Starred [cguyeux/TB-tools](https://github.com/cguyeux/TB-tools)
-5. ⭐ Starred [avkitex/tbAnnotator](https://github.com/avkitex/tbAnnotator)
+1. ⭐ Starred [labneoc/generativediffusion](https://github.com/labneoc/generativediffusion)
+2. 💪 Opened PR [#232](https://github.com/TORCH-Consortium/MAGMA/pull/232) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+3. ⭐ Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
+4. ⭐ Starred [dxcore35/obs_batch-linkr](https://github.com/dxcore35/obs_batch-linkr)
+5. ⭐ Starred [cguyeux/TB-tools](https://github.com/cguyeux/TB-tools)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 11th, 2025, 8:09:35 PM
+Last Updated: Wednesday, March 12th, 2025, 12:42:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
