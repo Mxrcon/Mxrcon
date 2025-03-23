@@ -32,15 +32,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [labneoc/generativediffusion](https://github.com/labneoc/generativediffusion)
-2. 💪 Opened PR [#232](https://github.com/TORCH-Consortium/MAGMA/pull/232) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-3. ⭐ Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
-4. ⭐ Starred [dxcore35/obs_batch-linkr](https://github.com/dxcore35/obs_batch-linkr)
-5. ⭐ Starred [cguyeux/TB-tools](https://github.com/cguyeux/TB-tools)
+1. ⭐ Starred [sandialabs/TIGER](https://github.com/sandialabs/TIGER)
+2. ⭐ Starred [weisberglab/beav](https://github.com/weisberglab/beav)
+3. ⭐ Starred [bhattlab/MGEfinder](https://github.com/bhattlab/MGEfinder)
+4. ⭐ Starred [pgf-tikz/pgf](https://github.com/pgf-tikz/pgf)
+5. ⭐ Starred [potamides/DeTikZify](https://github.com/potamides/DeTikZify)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 23rd, 2025, 2:06:55 PM
+Last Updated: Sunday, March 23rd, 2025, 8:08:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
