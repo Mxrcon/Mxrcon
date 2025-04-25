@@ -3,8 +3,7 @@ Hi, I'm Davi 🧑🏻‍🎓.
 
 @@Biotechnologist and Bioinformatician@@
 + Living in Ananindeua, Brazil 🇧🇷.
-+ Masters student at PPGBPA - UEPA/IEC
-- 23 years old
+- 24 years old
 ```
 # About me
 My name is Davi Marcon, my main interests are: Bioinformatics specially focused on bacterial resistance genes prediction and genomic epidemiology, I'm also a terminal ui fan.
