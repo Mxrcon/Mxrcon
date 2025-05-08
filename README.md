@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lcerdeira/Pipa](https://github.com/lcerdeira/Pipa)
-2. ⭐ Starred [GTB-tbsequencing/mutation-catalogue-2023](https://github.com/GTB-tbsequencing/mutation-catalogue-2023)
-3. ⭐ Starred [nicbarker/clay](https://github.com/nicbarker/clay)
+1. 💪 Opened PR [#235](https://github.com/TORCH-Consortium/MAGMA/pull/235) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+2. ⭐ Starred [lcerdeira/Pipa](https://github.com/lcerdeira/Pipa)
+3. ⭐ Starred [GTB-tbsequencing/mutation-catalogue-2023](https://github.com/GTB-tbsequencing/mutation-catalogue-2023)
 4. ⭐ Starred [sandialabs/TIGER](https://github.com/sandialabs/TIGER)
 5. ⭐ Starred [weisberglab/beav](https://github.com/weisberglab/beav)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 8th, 2025, 12:47:18 AM
+Last Updated: Thursday, May 8th, 2025, 8:13:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
