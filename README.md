@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#235](https://github.com/TORCH-Consortium/MAGMA/pull/235) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-2. ⭐ Starred [lcerdeira/Pipa](https://github.com/lcerdeira/Pipa)
-3. ⭐ Starred [GTB-tbsequencing/mutation-catalogue-2023](https://github.com/GTB-tbsequencing/mutation-catalogue-2023)
-4. ⭐ Starred [sandialabs/TIGER](https://github.com/sandialabs/TIGER)
-5. ⭐ Starred [weisberglab/beav](https://github.com/weisberglab/beav)
+1. ⭐ Starred [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+2. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+3. 💪 Opened PR [#235](https://github.com/TORCH-Consortium/MAGMA/pull/235) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+4. ⭐ Starred [lcerdeira/Pipa](https://github.com/lcerdeira/Pipa)
+5. ⭐ Starred [GTB-tbsequencing/mutation-catalogue-2023](https://github.com/GTB-tbsequencing/mutation-catalogue-2023)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 11th, 2025, 8:09:18 PM
+Last Updated: Monday, May 12th, 2025, 12:50:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
