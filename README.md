@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [carlonicora/obsidian-rpg-manager](https://github.com/carlonicora/obsidian-rpg-manager)
-2. ⭐ Starred [Eco-Flow/synteny](https://github.com/Eco-Flow/synteny)
-3. ⭐ Starred [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
-4. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-5. 💪 Opened PR [#235](https://github.com/TORCH-Consortium/MAGMA/pull/235) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+1. ⭐ Starred [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board)
+2. ⭐ Starred [YukiGasai/obsidian-google-tasks](https://github.com/YukiGasai/obsidian-google-tasks)
+3. ⭐ Starred [carlonicora/obsidian-rpg-manager](https://github.com/carlonicora/obsidian-rpg-manager)
+4. ⭐ Starred [Eco-Flow/synteny](https://github.com/Eco-Flow/synteny)
+5. ⭐ Starred [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 25th, 2025, 8:11:17 AM
+Last Updated: Sunday, May 25th, 2025, 2:07:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
