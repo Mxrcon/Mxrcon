@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board)
-2. ⭐ Starred [YukiGasai/obsidian-google-tasks](https://github.com/YukiGasai/obsidian-google-tasks)
-3. ⭐ Starred [carlonicora/obsidian-rpg-manager](https://github.com/carlonicora/obsidian-rpg-manager)
-4. ⭐ Starred [Eco-Flow/synteny](https://github.com/Eco-Flow/synteny)
-5. ⭐ Starred [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+1. ⭐ Starred [suitenumerique/docs](https://github.com/suitenumerique/docs)
+2. ⭐ Starred [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board)
+3. ⭐ Starred [YukiGasai/obsidian-google-tasks](https://github.com/YukiGasai/obsidian-google-tasks)
+4. ⭐ Starred [carlonicora/obsidian-rpg-manager](https://github.com/carlonicora/obsidian-rpg-manager)
+5. ⭐ Starred [Eco-Flow/synteny](https://github.com/Eco-Flow/synteny)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 28th, 2025, 8:13:29 AM
+Last Updated: Wednesday, May 28th, 2025, 2:10:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
