@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
-2. ⭐ Starred [suitenumerique/docs](https://github.com/suitenumerique/docs)
-3. ⭐ Starred [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board)
-4. ⭐ Starred [YukiGasai/obsidian-google-tasks](https://github.com/YukiGasai/obsidian-google-tasks)
-5. ⭐ Starred [carlonicora/obsidian-rpg-manager](https://github.com/carlonicora/obsidian-rpg-manager)
+1. 💪 Opened PR [#239](https://github.com/TORCH-Consortium/MAGMA/pull/239) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+2. ⭐ Starred [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
+3. ⭐ Starred [suitenumerique/docs](https://github.com/suitenumerique/docs)
+4. ⭐ Starred [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board)
+5. ⭐ Starred [YukiGasai/obsidian-google-tasks](https://github.com/YukiGasai/obsidian-google-tasks)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 30th, 2025, 12:47:44 AM
+Last Updated: Friday, May 30th, 2025, 8:13:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
