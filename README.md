@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#239](https://github.com/TORCH-Consortium/MAGMA/pull/239) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-2. ⭐ Starred [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
-3. ⭐ Starred [suitenumerique/docs](https://github.com/suitenumerique/docs)
-4. ⭐ Starred [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board)
-5. ⭐ Starred [YukiGasai/obsidian-google-tasks](https://github.com/YukiGasai/obsidian-google-tasks)
+1. ⭐ Starred [filegator/filegator](https://github.com/filegator/filegator)
+2. ⭐ Starred [WallauBioinfo/vgdbcli](https://github.com/WallauBioinfo/vgdbcli)
+3. ⭐ Starred [WallauBioinfo/ViralFlow](https://github.com/WallauBioinfo/ViralFlow)
+4. 💪 Opened PR [#239](https://github.com/TORCH-Consortium/MAGMA/pull/239) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+5. ⭐ Starred [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 4th, 2025, 12:49:28 AM
+Last Updated: Wednesday, June 4th, 2025, 8:13:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
