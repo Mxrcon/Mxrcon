@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [filegator/filegator](https://github.com/filegator/filegator)
-2. ⭐ Starred [WallauBioinfo/vgdbcli](https://github.com/WallauBioinfo/vgdbcli)
-3. ⭐ Starred [WallauBioinfo/ViralFlow](https://github.com/WallauBioinfo/ViralFlow)
-4. 💪 Opened PR [#239](https://github.com/TORCH-Consortium/MAGMA/pull/239) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-5. ⭐ Starred [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
+1. ⭐ Starred [abhi18av/projectable](https://github.com/abhi18av/projectable)
+2. ⭐ Starred [abhi18av/template-analysis-and-writeup](https://github.com/abhi18av/template-analysis-and-writeup)
+3. ⭐ Starred [filegator/filegator](https://github.com/filegator/filegator)
+4. ⭐ Starred [WallauBioinfo/vgdbcli](https://github.com/WallauBioinfo/vgdbcli)
+5. ⭐ Starred [WallauBioinfo/ViralFlow](https://github.com/WallauBioinfo/ViralFlow)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 6th, 2025, 12:48:01 AM
+Last Updated: Friday, June 6th, 2025, 8:13:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
