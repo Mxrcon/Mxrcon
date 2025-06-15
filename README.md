@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [doomemacs/themes](https://github.com/doomemacs/themes)
-2. ⭐ Starred [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
-3. ⭐ Starred [abhi18av/projectable](https://github.com/abhi18av/projectable)
-4. ⭐ Starred [abhi18av/template-analysis-and-writeup](https://github.com/abhi18av/template-analysis-and-writeup)
-5. ⭐ Starred [filegator/filegator](https://github.com/filegator/filegator)
+1. ⭐ Starred [lh3/seqtk](https://github.com/lh3/seqtk)
+2. ⭐ Starred [doomemacs/themes](https://github.com/doomemacs/themes)
+3. ⭐ Starred [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
+4. ⭐ Starred [abhi18av/projectable](https://github.com/abhi18av/projectable)
+5. ⭐ Starred [abhi18av/template-analysis-and-writeup](https://github.com/abhi18av/template-analysis-and-writeup)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 15th, 2025, 2:07:54 PM
+Last Updated: Sunday, June 15th, 2025, 8:09:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
