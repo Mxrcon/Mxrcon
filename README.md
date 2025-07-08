@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-2. 🤝 Became collaborator on [emilyncosta/gemisa](https://github.com/emilyncosta/gemisa)
-3. ⭐ Starred [Automattic/harper](https://github.com/Automattic/harper)
-4. ⭐ Starred [bastibe/org-journal](https://github.com/bastibe/org-journal)
-5. ⭐ Starred [james-stoup/emacs-org-mode-tutorial](https://github.com/james-stoup/emacs-org-mode-tutorial)
+1. ⭐ Starred [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio)
+2. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+3. 🤝 Became collaborator on [emilyncosta/gemisa](https://github.com/emilyncosta/gemisa)
+4. ⭐ Starred [Automattic/harper](https://github.com/Automattic/harper)
+5. ⭐ Starred [bastibe/org-journal](https://github.com/bastibe/org-journal)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 8th, 2025, 12:49:56 AM
+Last Updated: Tuesday, July 8th, 2025, 8:14:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
