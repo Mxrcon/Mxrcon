@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kidd/org-gcal.el](https://github.com/kidd/org-gcal.el)
-2. ⭐ Starred [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio)
+1. ⭐ Starred [zeqianli/tgv](https://github.com/zeqianli/tgv)
+2. ⭐ Starred [kidd/org-gcal.el](https://github.com/kidd/org-gcal.el)
 3. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 4. 🤝 Became collaborator on [emilyncosta/gemisa](https://github.com/emilyncosta/gemisa)
 5. ⭐ Starred [Automattic/harper](https://github.com/Automattic/harper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 9th, 2025, 12:48:56 AM
+Last Updated: Saturday, August 9th, 2025, 8:12:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
