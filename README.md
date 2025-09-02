@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amrnet/amrnet](https://github.com/amrnet/amrnet)
-2. ⭐ Starred [zeqianli/tgv](https://github.com/zeqianli/tgv)
-3. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-4. 🤝 Became collaborator on [emilyncosta/gemisa](https://github.com/emilyncosta/gemisa)
+1. ⭐ Starred [kerrimalone/cryptic-catalogue](https://github.com/kerrimalone/cryptic-catalogue)
+2. ⭐ Starred [fowler-lab/cryptic-catalogues-2025](https://github.com/fowler-lab/cryptic-catalogues-2025)
+3. ⭐ Starred [amrnet/amrnet](https://github.com/amrnet/amrnet)
+4. ⭐ Starred [zeqianli/tgv](https://github.com/zeqianli/tgv)
 5. ⭐ Starred [Automattic/harper](https://github.com/Automattic/harper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 2nd, 2025, 12:45:21 AM
+Last Updated: Tuesday, September 2nd, 2025, 8:13:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
