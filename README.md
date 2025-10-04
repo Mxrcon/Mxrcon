@@ -31,7 +31,7 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kerrimalone/cryptic-catalogue](https://github.com/kerrimalone/cryptic-catalogue)
+1. 💪 Opened PR [#250](https://github.com/TORCH-Consortium/MAGMA/pull/250) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
 2. ⭐ Starred [fowler-lab/cryptic-catalogues-2025](https://github.com/fowler-lab/cryptic-catalogues-2025)
 3. ⭐ Starred [amrnet/amrnet](https://github.com/amrnet/amrnet)
 4. ⭐ Starred [ythaworn/mtbtyper](https://github.com/ythaworn/mtbtyper)
@@ -39,7 +39,7 @@ Phylogenetic inference.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 3rd, 2025, 8:09:50 PM
+Last Updated: Saturday, October 4th, 2025, 12:40:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
