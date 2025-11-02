@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#250](undefined) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-2. ⭐ Starred [fowler-lab/cryptic-catalogues-2025](https://github.com/fowler-lab/cryptic-catalogues-2025)
+1. ⭐ Starred [gbordes77/Manalytics](https://github.com/gbordes77/Manalytics)
+2. 💪 Opened PR [#250](undefined) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
 3. ⭐ Starred [amrnet/amrnet](https://github.com/amrnet/amrnet)
 4. ⭐ Starred [ythaworn/mtbtyper](https://github.com/ythaworn/mtbtyper)
 5. ⭐ Starred [Automattic/harper](https://github.com/Automattic/harper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 2nd, 2025, 2:07:12 PM
+Last Updated: Sunday, November 2nd, 2025, 8:08:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
