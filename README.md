@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gbordes77/Manalytics](https://github.com/gbordes77/Manalytics)
-2. 💪 Opened PR [#250](undefined) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+1. ⭐ Starred [WallauBioinfo/Curso_OROV](https://github.com/WallauBioinfo/Curso_OROV)
+2. ⭐ Starred [gbordes77/Manalytics](https://github.com/gbordes77/Manalytics)
 3. ⭐ Starred [amrnet/amrnet](https://github.com/amrnet/amrnet)
 4. ⭐ Starred [ythaworn/mtbtyper](https://github.com/ythaworn/mtbtyper)
 5. ⭐ Starred [Automattic/harper](https://github.com/Automattic/harper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 9th, 2025, 12:50:58 AM
+Last Updated: Sunday, November 9th, 2025, 8:10:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
