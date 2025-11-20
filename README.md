@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [WallauBioinfo/Curso_OROV](https://github.com/WallauBioinfo/Curso_OROV)
-2. ⭐ Starred [gbordes77/Manalytics](https://github.com/gbordes77/Manalytics)
-3. ⭐ Starred [amrnet/amrnet](https://github.com/amrnet/amrnet)
+1. ⭐ Starred [nf-core/createtaxdb](https://github.com/nf-core/createtaxdb)
+2. ⭐ Starred [WallauBioinfo/Curso_OROV](https://github.com/WallauBioinfo/Curso_OROV)
+3. ⭐ Starred [gbordes77/Manalytics](https://github.com/gbordes77/Manalytics)
 4. ⭐ Starred [ythaworn/mtbtyper](https://github.com/ythaworn/mtbtyper)
 5. ⭐ Starred [Automattic/harper](https://github.com/Automattic/harper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 20th, 2025, 2:09:19 PM
+Last Updated: Thursday, November 20th, 2025, 8:11:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
