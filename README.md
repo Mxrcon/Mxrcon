@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nf-core/createtaxdb](https://github.com/nf-core/createtaxdb)
-2. ⭐ Starred [WallauBioinfo/Curso_OROV](https://github.com/WallauBioinfo/Curso_OROV)
-3. ⭐ Starred [gbordes77/Manalytics](https://github.com/gbordes77/Manalytics)
+1. ⭐ Starred [pathogen-profiler/ntm-db](https://github.com/pathogen-profiler/ntm-db)
+2. ⭐ Starred [nf-core/createtaxdb](https://github.com/nf-core/createtaxdb)
+3. ⭐ Starred [WallauBioinfo/Curso_OROV](https://github.com/WallauBioinfo/Curso_OROV)
 4. ⭐ Starred [ythaworn/mtbtyper](https://github.com/ythaworn/mtbtyper)
 5. ⭐ Starred [Automattic/harper](https://github.com/Automattic/harper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 7th, 2025, 2:08:18 PM
+Last Updated: Sunday, December 7th, 2025, 8:09:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
