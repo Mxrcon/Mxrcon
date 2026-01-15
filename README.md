@@ -31,7 +31,7 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pathogen-profiler/ntm-db](https://github.com/pathogen-profiler/ntm-db)
+1. ⭐ Starred [rpradosiqueira/brazilmaps](https://github.com/rpradosiqueira/brazilmaps)
 2. ⭐ Starred [nf-core/createtaxdb](https://github.com/nf-core/createtaxdb)
 3. ⭐ Starred [WallauBioinfo/Curso_OROV](https://github.com/WallauBioinfo/Curso_OROV)
 4. ⭐ Starred [ythaworn/mtbtyper](https://github.com/ythaworn/mtbtyper)
@@ -39,7 +39,7 @@ Phylogenetic inference.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 14th, 2026, 8:10:15 PM
+Last Updated: Thursday, January 15th, 2026, 12:51:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
