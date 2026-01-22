@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lansaviniec/shapefile_das_regionais_de_saude_sus](https://github.com/lansaviniec/shapefile_das_regionais_de_saude_sus)
-2. ⭐ Starred [rpradosiqueira/brazilmaps](https://github.com/rpradosiqueira/brazilmaps)
-3. ⭐ Starred [WallauBioinfo/Curso_OROV](https://github.com/WallauBioinfo/Curso_OROV)
+1. ⭐ Starred [severo/pesticides_website](https://github.com/severo/pesticides_website)
+2. ⭐ Starred [lansaviniec/shapefile_das_regionais_de_saude_sus](https://github.com/lansaviniec/shapefile_das_regionais_de_saude_sus)
+3. ⭐ Starred [rpradosiqueira/brazilmaps](https://github.com/rpradosiqueira/brazilmaps)
 4. ⭐ Starred [ythaworn/mtbtyper](https://github.com/ythaworn/mtbtyper)
 5. ⭐ Starred [Automattic/harper](https://github.com/Automattic/harper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 22nd, 2026, 2:20:13 PM
+Last Updated: Thursday, January 22nd, 2026, 8:12:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
