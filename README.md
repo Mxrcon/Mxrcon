@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
-2. ⭐ Starred [ebi-webcomponents/protvista-uniprot](https://github.com/ebi-webcomponents/protvista-uniprot)
-3. ⭐ Starred [severo/pesticides_website](https://github.com/severo/pesticides_website)
-4. ⭐ Starred [lansaviniec/shapefile_das_regionais_de_saude_sus](https://github.com/lansaviniec/shapefile_das_regionais_de_saude_sus)
-5. ⭐ Starred [rpradosiqueira/brazilmaps](https://github.com/rpradosiqueira/brazilmaps)
+1. ⭐ Starred [gstarwd/clawbot](https://github.com/gstarwd/clawbot)
+2. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
+3. ⭐ Starred [ebi-webcomponents/protvista-uniprot](https://github.com/ebi-webcomponents/protvista-uniprot)
+4. ⭐ Starred [severo/pesticides_website](https://github.com/severo/pesticides_website)
+5. ⭐ Starred [lansaviniec/shapefile_das_regionais_de_saude_sus](https://github.com/lansaviniec/shapefile_das_regionais_de_saude_sus)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 29th, 2026, 8:24:41 AM
+Last Updated: Thursday, January 29th, 2026, 2:29:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
