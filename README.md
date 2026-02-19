@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gstarwd/clawbot](https://github.com/gstarwd/clawbot)
-2. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
-3. ⭐ Starred [ebi-webcomponents/protvista-uniprot](https://github.com/ebi-webcomponents/protvista-uniprot)
-4. ⭐ Starred [severo/pesticides_website](https://github.com/severo/pesticides_website)
-5. ⭐ Starred [lansaviniec/shapefile_das_regionais_de_saude_sus](https://github.com/lansaviniec/shapefile_das_regionais_de_saude_sus)
+1. ⭐ Starred [data2health-info/TerminologyBrowser](https://github.com/data2health-info/TerminologyBrowser)
+2. ⭐ Starred [prabinrs/AMR_humanHealth_FHIR](https://github.com/prabinrs/AMR_humanHealth_FHIR)
+3. ⭐ Starred [gstarwd/clawbot](https://github.com/gstarwd/clawbot)
+4. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
+5. ⭐ Starred [ebi-webcomponents/protvista-uniprot](https://github.com/ebi-webcomponents/protvista-uniprot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 19th, 2026, 8:29:48 AM
+Last Updated: Thursday, February 19th, 2026, 2:39:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
