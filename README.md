@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [data2health-info/TerminologyBrowser](https://github.com/data2health-info/TerminologyBrowser)
-2. ⭐ Starred [prabinrs/AMR_humanHealth_FHIR](https://github.com/prabinrs/AMR_humanHealth_FHIR)
-3. ⭐ Starred [gstarwd/clawbot](https://github.com/gstarwd/clawbot)
-4. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
-5. ⭐ Starred [ebi-webcomponents/protvista-uniprot](https://github.com/ebi-webcomponents/protvista-uniprot)
+1. ⭐ Starred [caladov/DR_mutations_MAB](https://github.com/caladov/DR_mutations_MAB)
+2. ⭐ Starred [data2health-info/TerminologyBrowser](https://github.com/data2health-info/TerminologyBrowser)
+3. ⭐ Starred [prabinrs/AMR_humanHealth_FHIR](https://github.com/prabinrs/AMR_humanHealth_FHIR)
+4. ⭐ Starred [gstarwd/clawbot](https://github.com/gstarwd/clawbot)
+5. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 20th, 2026, 8:27:35 AM
+Last Updated: Friday, February 20th, 2026, 2:31:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
