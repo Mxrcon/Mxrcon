@@ -31,7 +31,7 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [caladov/DR_mutations_MAB](https://github.com/caladov/DR_mutations_MAB)
+1. ❗️ Opened issue [#653](https://github.com/bactopia/bactopia/issues/653) in [bactopia/bactopia](https://github.com/bactopia/bactopia)
 2. ⭐ Starred [data2health-info/TerminologyBrowser](https://github.com/data2health-info/TerminologyBrowser)
 3. ⭐ Starred [prabinrs/AMR_humanHealth_FHIR](https://github.com/prabinrs/AMR_humanHealth_FHIR)
 4. ⭐ Starred [gstarwd/clawbot](https://github.com/gstarwd/clawbot)
@@ -39,7 +39,7 @@ Phylogenetic inference.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 31st, 2026, 8:43:32 AM
+Last Updated: Tuesday, March 31st, 2026, 2:52:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
