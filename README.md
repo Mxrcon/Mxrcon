@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills)
-2. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-3. ❗️ Opened issue [#653](https://github.com/bactopia/bactopia/issues/653) in [bactopia/bactopia](https://github.com/bactopia/bactopia)
+1. 🤝 Became collaborator on [REVIGET/REVIGET-website](https://github.com/REVIGET/REVIGET-website)
+2. ⭐ Starred [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills)
+3. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 4. ⭐ Starred [gstarwd/clawbot](https://github.com/gstarwd/clawbot)
 5. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 14th, 2026, 10:03:10 AM
+Last Updated: Thursday, May 14th, 2026, 4:01:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
