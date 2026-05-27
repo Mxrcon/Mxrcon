@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ngs-fzb/NTMseq](https://github.com/ngs-fzb/NTMseq)
-2. 🤝 Became collaborator on [REVIGET/REVIGET-website](https://github.com/REVIGET/REVIGET-website)
-3. ⭐ Starred [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills)
-4. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+1. ⭐ Starred [gmboowa/rMAP-TB](https://github.com/gmboowa/rMAP-TB)
+2. ⭐ Starred [ngs-fzb/NTMseq](https://github.com/ngs-fzb/NTMseq)
+3. 🤝 Became collaborator on [REVIGET/REVIGET-website](https://github.com/REVIGET/REVIGET-website)
+4. ⭐ Starred [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills)
 5. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 27th, 2026, 4:55:43 PM
+Last Updated: Wednesday, May 27th, 2026, 9:42:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
