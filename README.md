@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iliapopov17/KEGGaNOG](https://github.com/iliapopov17/KEGGaNOG)
-2. ⭐ Starred [gmboowa/rMAP-TB](https://github.com/gmboowa/rMAP-TB)
-3. ⭐ Starred [ngs-fzb/NTMseq](https://github.com/ngs-fzb/NTMseq)
-4. ⭐ Starred [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills)
+1. 💪 Opened PR [#20](undefined) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
+2. ⭐ Starred [iliapopov17/KEGGaNOG](https://github.com/iliapopov17/KEGGaNOG)
+3. ⭐ Starred [gmboowa/rMAP-TB](https://github.com/gmboowa/rMAP-TB)
+4. ⭐ Starred [ngs-fzb/NTMseq](https://github.com/ngs-fzb/NTMseq)
 5. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 18th, 2026, 11:41:57 AM
+Last Updated: Thursday, June 18th, 2026, 4:48:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
