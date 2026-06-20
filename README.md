@@ -32,14 +32,14 @@ Phylogenetic inference.
 
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#20](undefined) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
-2. ⭐ Starred [iliapopov17/KEGGaNOG](https://github.com/iliapopov17/KEGGaNOG)
+2. ⭐ Starred [ilypopv/KEGGaNOG](https://github.com/ilypopv/KEGGaNOG)
 3. ⭐ Starred [gmboowa/rMAP-TB](https://github.com/gmboowa/rMAP-TB)
 4. ⭐ Starred [ngs-fzb/NTMseq](https://github.com/ngs-fzb/NTMseq)
 5. ⭐ Starred [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 20th, 2026, 2:07:24 AM
+Last Updated: Saturday, June 20th, 2026, 10:23:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
