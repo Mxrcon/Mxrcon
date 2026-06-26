@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#17](https://github.com/nf-core/tbanalyzer/pull/17#pullrequestreview-4552568807) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
-2. ⭐ Starred [bioruby/bioruby](https://github.com/bioruby/bioruby)
-3. 💪 Opened PR [#20](undefined) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
-4. ⭐ Starred [ilypopv/KEGGaNOG](https://github.com/ilypopv/KEGGaNOG)
-5. ⭐ Starred [gmboowa/rMAP-TB](https://github.com/gmboowa/rMAP-TB)
+1. ⭐ Starred [j6e/mtg-meta-analyzer](https://github.com/j6e/mtg-meta-analyzer)
+2. 👍 Approved [#17](https://github.com/nf-core/tbanalyzer/pull/17#pullrequestreview-4552568807) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
+3. ⭐ Starred [bioruby/bioruby](https://github.com/bioruby/bioruby)
+4. 💪 Opened PR [#20](undefined) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
+5. ⭐ Starred [ilypopv/KEGGaNOG](https://github.com/ilypopv/KEGGaNOG)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 26th, 2026, 2:05:15 AM
+Last Updated: Friday, June 26th, 2026, 10:41:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
