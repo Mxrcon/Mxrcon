@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [j6e/mtg-meta-analyzer](https://github.com/j6e/mtg-meta-analyzer)
-2. 👍 Approved [#17](https://github.com/nf-core/tbanalyzer/pull/17#pullrequestreview-4552568807) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
-3. ⭐ Starred [bioruby/bioruby](https://github.com/bioruby/bioruby)
-4. 💪 Opened PR [#20](undefined) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
-5. ⭐ Starred [ilypopv/KEGGaNOG](https://github.com/ilypopv/KEGGaNOG)
+1. ⭐ Starred [wuhaochs/TB_genaly](https://github.com/wuhaochs/TB_genaly)
+2. ⭐ Starred [j6e/mtg-meta-analyzer](https://github.com/j6e/mtg-meta-analyzer)
+3. 👍 Approved [#17](https://github.com/nf-core/tbanalyzer/pull/17#pullrequestreview-4552568807) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
+4. ⭐ Starred [bioruby/bioruby](https://github.com/bioruby/bioruby)
+5. 💪 Opened PR [#20](undefined) in [bactopia/bactopia.github.io](https://github.com/bactopia/bactopia.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 6th, 2026, 11:52:25 AM
+Last Updated: Monday, July 6th, 2026, 4:45:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
