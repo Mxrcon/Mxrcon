@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nextstrain/tb](https://github.com/nextstrain/tb)
-2. ⭐ Starred [wuhaochs/TB_genaly](https://github.com/wuhaochs/TB_genaly)
-3. ⭐ Starred [j6e/mtg-meta-analyzer](https://github.com/j6e/mtg-meta-analyzer)
-4. 👍 Approved [#17](https://github.com/nf-core/tbanalyzer/pull/17#pullrequestreview-4552568807) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
-5. ⭐ Starred [bioruby/bioruby](https://github.com/bioruby/bioruby)
+1. 💪 Opened PR [#260](undefined) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
+2. ⭐ Starred [nextstrain/tb](https://github.com/nextstrain/tb)
+3. ⭐ Starred [wuhaochs/TB_genaly](https://github.com/wuhaochs/TB_genaly)
+4. ⭐ Starred [j6e/mtg-meta-analyzer](https://github.com/j6e/mtg-meta-analyzer)
+5. 👍 Approved [#17](https://github.com/nf-core/tbanalyzer/pull/17#pullrequestreview-4552568807) in [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 9th, 2026, 10:42:49 AM
+Last Updated: Thursday, July 9th, 2026, 4:20:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
