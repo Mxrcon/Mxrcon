@@ -31,7 +31,7 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [videre-project/mtgo-docker](https://github.com/videre-project/mtgo-docker)
+1. ⭐ Starred [ErinLSV/bioinfo-analysis](https://github.com/ErinLSV/bioinfo-analysis)
 2. 💪 Opened PR [#260](undefined) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
 3. ⭐ Starred [nextstrain/tb](https://github.com/nextstrain/tb)
 4. ⭐ Starred [wuhaochs/TB_genaly](https://github.com/wuhaochs/TB_genaly)
@@ -39,7 +39,7 @@ Phylogenetic inference.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 20th, 2026, 2:22:55 PM
+Last Updated: Thursday, August 20th, 2026, 8:14:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
