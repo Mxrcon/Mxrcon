@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ErinLSV/bioinfo-analysis](https://github.com/ErinLSV/bioinfo-analysis)
-2. 💪 Opened PR [#260](undefined) in [TORCH-Consortium/MAGMA](https://github.com/TORCH-Consortium/MAGMA)
-3. ⭐ Starred [nextstrain/tb](https://github.com/nextstrain/tb)
+1. ⭐ Starred [LaPAM-USP/BrSeqTB](https://github.com/LaPAM-USP/BrSeqTB)
+2. ⭐ Starred [farhat-lab/resdata-ng](https://github.com/farhat-lab/resdata-ng)
+3. ⭐ Starred [ErinLSV/bioinfo-analysis](https://github.com/ErinLSV/bioinfo-analysis)
 4. ⭐ Starred [wuhaochs/TB_genaly](https://github.com/wuhaochs/TB_genaly)
 5. ⭐ Starred [j6e/mtg-meta-analyzer](https://github.com/j6e/mtg-meta-analyzer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 28th, 2026, 3:53:34 AM
+Last Updated: Friday, August 28th, 2026, 7:42:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
