@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mlr-org/mlr3book](https://github.com/mlr-org/mlr3book)
-2. ⭐ Starred [LaPAM-USP/BrSeqTB](https://github.com/LaPAM-USP/BrSeqTB)
-3. ⭐ Starred [farhat-lab/resdata-ng](https://github.com/farhat-lab/resdata-ng)
-4. ⭐ Starred [ErinLSV/bioinfo-analysis](https://github.com/ErinLSV/bioinfo-analysis)
-5. ⭐ Starred [j6e/mtg-meta-analyzer](https://github.com/j6e/mtg-meta-analyzer)
+1. ⭐ Starred [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+2. ⭐ Starred [mlr-org/mlr3book](https://github.com/mlr-org/mlr3book)
+3. ⭐ Starred [LaPAM-USP/BrSeqTB](https://github.com/LaPAM-USP/BrSeqTB)
+4. ⭐ Starred [farhat-lab/resdata-ng](https://github.com/farhat-lab/resdata-ng)
+5. ⭐ Starred [ErinLSV/bioinfo-analysis](https://github.com/ErinLSV/bioinfo-analysis)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 11th, 2026, 1:49:17 AM
+Last Updated: Friday, September 11th, 2026, 12:24:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
