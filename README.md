@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](undefined) in [bactopia/bactopia-tests](https://github.com/bactopia/bactopia-tests)
-2. 💪 Opened PR [#682](undefined) in [bactopia/bactopia](https://github.com/bactopia/bactopia)
-3. ⭐ Starred [abraunegg/onedrive](https://github.com/abraunegg/onedrive)
-4. ⭐ Starred [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
-5. ⭐ Starred [mlr-org/mlr3book](https://github.com/mlr-org/mlr3book)
+1. ⭐ Starred [nf-core/variantcatalogue](https://github.com/nf-core/variantcatalogue)
+2. ⭐ Starred [falatfernando/nf-core-issentinel](https://github.com/falatfernando/nf-core-issentinel)
+3. 💪 Opened PR [#2](undefined) in [bactopia/bactopia-tests](https://github.com/bactopia/bactopia-tests)
+4. 💪 Opened PR [#682](undefined) in [bactopia/bactopia](https://github.com/bactopia/bactopia)
+5. ⭐ Starred [abraunegg/onedrive](https://github.com/abraunegg/onedrive)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 28th, 2026, 2:18:51 AM
+Last Updated: Monday, September 28th, 2026, 4:09:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
