@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nf-core/variantcatalogue](https://github.com/nf-core/variantcatalogue)
-2. ⭐ Starred [falatfernando/nf-core-issentinel](https://github.com/falatfernando/nf-core-issentinel)
-3. 💪 Opened PR [#2](undefined) in [bactopia/bactopia-tests](https://github.com/bactopia/bactopia-tests)
-4. 💪 Opened PR [#682](undefined) in [bactopia/bactopia](https://github.com/bactopia/bactopia)
-5. ⭐ Starred [abraunegg/onedrive](https://github.com/abraunegg/onedrive)
+1. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+2. ⭐ Starred [nf-core/variantcatalogue](https://github.com/nf-core/variantcatalogue)
+3. ⭐ Starred [falatfernando/nf-core-issentinel](https://github.com/falatfernando/nf-core-issentinel)
+4. 💪 Opened PR [#2](undefined) in [bactopia/bactopia-tests](https://github.com/bactopia/bactopia-tests)
+5. 💪 Opened PR [#682](undefined) in [bactopia/bactopia](https://github.com/bactopia/bactopia)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 29th, 2026, 12:00:53 AM
+Last Updated: Tuesday, September 29th, 2026, 2:24:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
