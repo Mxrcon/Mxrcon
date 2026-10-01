@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-2. ⭐ Starred [nf-core/variantcatalogue](https://github.com/nf-core/variantcatalogue)
-3. ⭐ Starred [falatfernando/nf-core-issentinel](https://github.com/falatfernando/nf-core-issentinel)
-4. 💪 Opened PR [#2](undefined) in [bactopia/bactopia-tests](https://github.com/bactopia/bactopia-tests)
-5. 💪 Opened PR [#682](undefined) in [bactopia/bactopia](https://github.com/bactopia/bactopia)
+1. ⭐ Starred [emmahodcroft/cluster-picker-and-cluster-matcher](https://github.com/emmahodcroft/cluster-picker-and-cluster-matcher)
+2. ⭐ Starred [f/prompts.chat](https://github.com/f/prompts.chat)
+3. ⭐ Starred [rpetit3/fastq-dl](https://github.com/rpetit3/fastq-dl)
+4. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+5. ⭐ Starred [nf-core/variantcatalogue](https://github.com/nf-core/variantcatalogue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 1st, 2026, 2:50:39 AM
+Last Updated: Thursday, October 1st, 2026, 2:53:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
