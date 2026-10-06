@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GenomicsStandardsConsortium/gensc.github.io](https://github.com/GenomicsStandardsConsortium/gensc.github.io)
-2. ⭐ Starred [emmahodcroft/cluster-picker-and-cluster-matcher](https://github.com/emmahodcroft/cluster-picker-and-cluster-matcher)
-3. ⭐ Starred [f/prompts.chat](https://github.com/f/prompts.chat)
-4. ⭐ Starred [rpetit3/fastq-dl](https://github.com/rpetit3/fastq-dl)
-5. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+1. ⭐ Starred [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
+2. ⭐ Starred [GenomicsStandardsConsortium/gensc.github.io](https://github.com/GenomicsStandardsConsortium/gensc.github.io)
+3. ⭐ Starred [emmahodcroft/cluster-picker-and-cluster-matcher](https://github.com/emmahodcroft/cluster-picker-and-cluster-matcher)
+4. ⭐ Starred [f/prompts.chat](https://github.com/f/prompts.chat)
+5. ⭐ Starred [rpetit3/fastq-dl](https://github.com/rpetit3/fastq-dl)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 6th, 2026, 2:33:23 PM
+Last Updated: Tuesday, October 6th, 2026, 11:24:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
