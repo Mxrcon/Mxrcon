@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
-2. ⭐ Starred [GenomicsStandardsConsortium/gensc.github.io](https://github.com/GenomicsStandardsConsortium/gensc.github.io)
-3. ⭐ Starred [emmahodcroft/cluster-picker-and-cluster-matcher](https://github.com/emmahodcroft/cluster-picker-and-cluster-matcher)
-4. ⭐ Starred [f/prompts.chat](https://github.com/f/prompts.chat)
-5. ⭐ Starred [rpetit3/fastq-dl](https://github.com/rpetit3/fastq-dl)
+1. ⭐ Starred [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
+2. ⭐ Starred [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
+3. ⭐ Starred [GenomicsStandardsConsortium/gensc.github.io](https://github.com/GenomicsStandardsConsortium/gensc.github.io)
+4. ⭐ Starred [emmahodcroft/cluster-picker-and-cluster-matcher](https://github.com/emmahodcroft/cluster-picker-and-cluster-matcher)
+5. ⭐ Starred [f/prompts.chat](https://github.com/f/prompts.chat)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 8th, 2026, 3:00:41 PM
+Last Updated: Friday, October 9th, 2026, 12:00:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
