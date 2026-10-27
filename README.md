@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](undefined) in [GEMIBRA/gemibra-website](https://github.com/GEMIBRA/gemibra-website)
-2. ⭐ Starred [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
-3. ⭐ Starred [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
-4. ⭐ Starred [GenomicsStandardsConsortium/gensc.github.io](https://github.com/GenomicsStandardsConsortium/gensc.github.io)
-5. ⭐ Starred [emmahodcroft/cluster-picker-and-cluster-matcher](https://github.com/emmahodcroft/cluster-picker-and-cluster-matcher)
+1. ⭐ Starred [shocklab/co-scientist-toolkit](https://github.com/shocklab/co-scientist-toolkit)
+2. 💪 Opened PR [#3](undefined) in [GEMIBRA/gemibra-website](https://github.com/GEMIBRA/gemibra-website)
+3. ⭐ Starred [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
+4. ⭐ Starred [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
+5. ⭐ Starred [GenomicsStandardsConsortium/gensc.github.io](https://github.com/GenomicsStandardsConsortium/gensc.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 27th, 2026, 2:42:01 AM
+Last Updated: Tuesday, October 27th, 2026, 1:41:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
