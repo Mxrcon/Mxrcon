@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shocklab/co-scientist-toolkit](https://github.com/shocklab/co-scientist-toolkit)
-2. 💪 Opened PR [#3](undefined) in [GEMIBRA/gemibra-website](https://github.com/GEMIBRA/gemibra-website)
-3. ⭐ Starred [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
-4. ⭐ Starred [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
-5. ⭐ Starred [GenomicsStandardsConsortium/gensc.github.io](https://github.com/GenomicsStandardsConsortium/gensc.github.io)
+1. ⭐ Starred [IRCGP-Lab/gmawgs](https://github.com/IRCGP-Lab/gmawgs)
+2. ⭐ Starred [shocklab/co-scientist-toolkit](https://github.com/shocklab/co-scientist-toolkit)
+3. 💪 Opened PR [#3](undefined) in [GEMIBRA/gemibra-website](https://github.com/GEMIBRA/gemibra-website)
+4. ⭐ Starred [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
+5. ⭐ Starred [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 30th, 2026, 3:16:31 AM
+Last Updated: Friday, October 30th, 2026, 2:38:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
