@@ -31,15 +31,15 @@ Phylogenetic inference.
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [IRCGP-Lab/gmawgs](https://github.com/IRCGP-Lab/gmawgs)
-2. ⭐ Starred [shocklab/co-scientist-toolkit](https://github.com/shocklab/co-scientist-toolkit)
-3. 💪 Opened PR [#3](undefined) in [GEMIBRA/gemibra-website](https://github.com/GEMIBRA/gemibra-website)
+1. ⭐ Starred [iLivius/FunFlux](https://github.com/iLivius/FunFlux)
+2. ⭐ Starred [IRCGP-Lab/gmawgs](https://github.com/IRCGP-Lab/gmawgs)
+3. ⭐ Starred [shocklab/co-scientist-toolkit](https://github.com/shocklab/co-scientist-toolkit)
 4. ⭐ Starred [nf-core/tbanalyzer](https://github.com/nf-core/tbanalyzer)
 5. ⭐ Starred [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 25th, 2026, 3:12:40 AM
+Last Updated: Wednesday, November 25th, 2026, 6:14:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
